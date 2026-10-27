@@ -1,0 +1,64 @@
+{
+  "schema": 1,
+  "style": "native-material-regions-v2",
+  "presentation_palette": {
+    "path": "research/material-regions-full/material-palette.json",
+    "sha256": "527ff55a73016e4a5f366487063c9957b0d9a3dd4e45a4502ccd1b51be85dc0f"
+  },
+  "status": "authorized-production",
+  "movements": [
+    {
+      "id": "m1",
+      "movement_label": "第一乐章",
+      "path": "research/material-regions-full/m1-regions.json",
+      "sha256": "51a038dc88830f5dec9b39e3d8ee301cb9fc6d1eb4db8b0e599802f1e848de1c",
+      "source_bindings": {
+        ".score-sync/m1/score.json": "0b2a4af2d62cb90ee2b349047d87dd57cea07478ebc8b28e36cfdc3240306c17",
+        ".score-sync/m1/score.svg": "144bc504254acc6e73dc1a2174c292654b3da64511452f2d62685c2482aaffed",
+        ".score-sync/m1/geometry.json": "2602193f59ab4abb13cf76d6f36b4d0199377d5e04806e36c92949c58ddbe841",
+        ".score-sync/m1/alignment.json": "0571557d6c0af7f31a4528654fad4f6e83a7c7ead62ce1fe5af56d347f3dcc4a",
+        "derived/scores/movement-1.musicxml": "356582190397aaa7f6b14079c54c6653e7feb51e27dbe7c0489803a592f126e2"
+      }
+    },
+    {
+      "id": "m2",
+      "movement_label": "第二乐章",
+      "path": "research/material-regions-full/m2-regions.json",
+      "sha256": "1052f3158a5007b73e4d27d4c5f7f0015d34a05355e78e11d3dbc1bd8084783f",
+      "source_bindings": {
+        ".score-sync/m2/score.json": "e5709af5bf0cc1784ab2789a50308c7b6c6aea45dcc0ce8464207793246fe047",
+        ".score-sync/m2/score.svg": "81b2399822450e3f886cff6c8e77cb05264dcb1e9a93a4cac76365777e504554",
+        ".score-sync/m2/geometry.json": "4c682a7e6ea5b669f1e2497de5a95a1becf51f2e4b52adf191bd732832e9c300",
+        ".score-sync/m2/alignment.json": "5ab6fba8b40a6e889545864119d005ff7c6f0509c28e6a52f63521f2f19ff95d",
+        "derived/scores/movement-2.musicxml": "24c4f5595112e320da786a4bb03a7861e846875d9caa8754d33b13ecb119c245"
+      }
+    },
+    {
+      "id": "m3",
+      "movement_label": "第三乐章",
+      "path": "research/material-regions-full/m3-regions.json",
+      "sha256": "c1393714f1ede96e9cba0b461bac3d3ff8b597724284e7085370225f16f97993",
+      "source_bindings": {
+        ".score-sync/m3/score.json": "f27a88803c2b525560373c5461fbb4a95302f8c2c4676c064ecf4638f260e51a",
+        ".score-sync/m3/score.svg": "b01462277af367d5132ef81bd49dcd529f9f010095de3ca95fb814e00e48a45a",
+        ".score-sync/m3/geometry.json": "dc9c777cf38e903dc0af31cc58c32aa8a58b97c09579d85700582a2690f33138",
+        ".score-sync/m3/alignment.json": "5a4c12bd06e803cdda3edcee9b9db50720a8aadc04e66942115868848b0c7931",
+        "derived/scores/movement-3.musicxml": "916fcb4280bb87002c97b08bbce8006d7fc8f360b82adb1ad152516822b9abf5"
+      }
+    },
+    {
+      "id": "m4",
+      "movement_label": "第四乐章",
+      "path": "research/material-regions-full/m4-regions.json",
+      "sha256": "18eb77e64c4a8407f6a7ce0f6b89a90645853f2899468b02b9d20e170b9e303c",
+      "source_bindings": {
+        ".score-sync/m4/score.json": "e0b67ecde02492b2f860a503659d6d807fa9948c0630acc6f7bd473bcf492bf9",
+        ".score-sync/m4/score.svg": "848660d3aa0555731f4f873cd331730941ab0be6403354b472aac7f3c9e9e400",
+        ".score-sync/m4/geometry.json": "8223758597e03ac77697486ae82f2d6503fa015eec25472a105720981f61917b",
+        ".score-sync/m4/alignment.json": "45219898260798933976e9c474c030cac4f82f6c5d1e57f88508baa15afd1dcd",
+        "content/vocals/timeline.json": "d1f8444855da053facc35f2a9e6d5789703dd6febfd54ce54639bcc6d72cfec0",
+        "derived/scores/movement-4.musicxml": "dcc30fa19a3b7206f82c8560ef745834bdeb293ccfdcd4fb2d91fd31bc4695ff"
+      }
+    }
+  ]
+}

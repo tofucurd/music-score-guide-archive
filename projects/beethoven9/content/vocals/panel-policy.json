@@ -1,0 +1,11 @@
+{
+  "schema": 1,
+  "minimum_fully_hidden_seconds": 15.0,
+  "entry_lead_seconds": 1.4,
+  "stable_before_onset_seconds": 0.2,
+  "entry_slide_seconds": 1.2,
+  "exit_seconds": 0.85,
+  "first_batch_seconds": 0.2,
+  "scope": "All whole-sidebar entrances; internal independent voice entrances unchanged",
+  "source_clock_unchanged": true
+}

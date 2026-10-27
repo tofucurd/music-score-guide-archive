@@ -1,0 +1,20 @@
+{
+  "render_node": "node-v26.7.0-linux-x64",
+  "chrome": "156.0.8078.47",
+  "ffmpeg": "https://github.com/BtbN/FFmpeg-Builds/releases/download/latest/ffmpeg-n9.0-latest-linux64-gpl-9.0.tar.xz",
+  "ffmpeg_binary_sha256": "5da8a00fe5e457fec32f0fda9333527efd5514a8ae026b3b41a01c266f379f5b",
+  "fps": 60,
+  "width": 3840,
+  "height": 2160,
+  "encoder": "hevc_nvenc",
+  "preset": "p7",
+  "tune": "hq",
+  "profile": "rext",
+  "cq": 16,
+  "maxrate": "25M",
+  "bufsize": "50M",
+  "pixel_format": "yuv444p10le",
+  "audio_codec": "pcm_s16le",
+  "single_chunk_frames": 1800,
+  "completed_project_replay_performed": false
+}

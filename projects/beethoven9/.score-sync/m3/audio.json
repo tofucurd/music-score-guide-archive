@@ -1,0 +1,10 @@
+{
+  "prepared_sha256": "f8eff4fbd482900541e38f43f47f30fcca278ed556c68260c82f621a859b6bd1",
+  "path": "audio.wav",
+  "sample_rate": 44100,
+  "channels": 2,
+  "bits": 16,
+  "samples": 49436100,
+  "source_sha256": "f14f82910033a353624dcd12ab736da5d01da9508d31ca25535fe3a7f072ea52",
+  "audio_range": null
+}

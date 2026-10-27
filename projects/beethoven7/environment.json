@@ -1,0 +1,13 @@
+{
+  "recorded_production_versions": {
+    "python": "3.14.5",
+    "node": "26.7.0",
+    "ffmpeg": "9.0.1",
+    "chrome": "155.0.8059.86",
+    "numpy": "2.5.4",
+    "scipy": "1.18.1",
+    "verovio": "6.3.0",
+    "pillow": "13.0.0"
+  },
+  "verification": "Historical production record; not re-executed during archiving."
+}

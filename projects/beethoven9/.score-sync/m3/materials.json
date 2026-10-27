@@ -1,0 +1,9 @@
+{
+  "assignments": {},
+  "status": "proposal-pending-team-actual-view-review",
+  "default": "main",
+  "source_score_sha256": "916fcb4280bb87002c97b08bbce8006d7fc8f360b82adb1ad152516822b9abf5",
+  "meaning": {
+    "main": "Single main highlight; no analytical benefit from per-instrument coloring in the current sample"
+  }
+}

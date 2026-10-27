@@ -1,0 +1,20 @@
+{
+  "upstream": "https://github.com/tofucurd/score-sync-video",
+  "commit": "169ee8b",
+  "release": "v1.0.2",
+  "scope": "Frozen rendering, navigation, audio and cover dependency closure; project snapshots remain authoritative.",
+  "files": {
+    "LICENSE": "4538a770d7ff7e9881f1b17a3e9cc711a9a69aacc0a149954789858168f503f6",
+    "scripts/browser_render.mjs": "0c93c16ee6b6ca15d9886ec2d4d5a5b9ef658ef05c6de83ad142b3812bd9b7a8",
+    "assets/fonts/SourceHanSerifSC-Medium.otf": "1d4dc4b757c07034e2412d6edf48f54f94ec7172d4deb3b90a3e4fc9dcb94f5d",
+    "assets/fonts/SourceHanSerifSC-Regular.otf": "78aa7a328fd974df2d688c8a9fd74a33d8334dfa84ab24d9d11efb2ffc464117",
+    "assets/fonts/LICENSE.txt": "9ff5bb567e1b92c801fc1069e5fbf992ff8efccacb9db94e5959a5b3ba9bb903",
+    "assets/fonts/SourceHanSerifSC-Light.otf": "b1bdb1a3581ae143ba3c7a27fc351ec66d2161b057262936e2c65348b0b058fa",
+    "scripts/score_sync/__init__.py": "5d6305634e5d29774485dfd41b50b80e823d9fb4c6541c55ba3b802d76862923",
+    "scripts/score_sync/visual.py": "6e5b7cc77017d47756e2eb9bb4f39c5c27cd7380fed8f2507361902a586c2e6a",
+    "scripts/score_sync/audio.py": "aff289d9273d67369047c9c8c31300057ca98f37cdbdfe65b78adea1d43ab45f",
+    "scripts/score_sync/navigation.py": "0c60faa1e47a90884c033209f2e295a82ef2e98bb7fc4c5999ba55e56ff7c12d",
+    "scripts/score_sync/workflow.py": "5cecdcc94a20e194cc1f10f0d0915a2766e423954246f15e59a53e49a7bce7b2",
+    "scripts/score_sync/covers.py": "71b0b3dce8d284c32b00a6a88b13ac97a30f29103926ebcae1e7c399b4ecd0d8"
+  }
+}

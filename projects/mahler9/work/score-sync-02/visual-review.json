@@ -1,0 +1,33 @@
+{
+  "approved": true,
+  "reviewers": [
+    "score2_team_a",
+    "score2_team_b",
+    "score2_team_c"
+  ],
+  "render_input_sha256": "345bc1ec3aa3186177fa9676464894eae73b4930e9ba9aff7190b0943d6c0bdf",
+  "reports": [
+    {
+      "reviewer": "score2_team_a",
+      "path": "work/score-sync-02/team/a/pre-full-release.json",
+      "sha256": "1ed520550d0d827d03a0093e3a6e1ca1e37b52a4a9aac2374a2092a52d54dbc9"
+    },
+    {
+      "reviewer": "score2_team_b",
+      "path": "work/score-sync-02/team/b/pre-full-release.json",
+      "sha256": "c1d5e477a3d2a87b76c2a8a2379854956ac20234fc97ccb20c18f4b5af53d415"
+    },
+    {
+      "reviewer": "score2_team_c",
+      "path": "work/score-sync-02/team/c/pre-full-release.json",
+      "sha256": "2cdeb5ebdbb94ec89f7615233e35e7b1d8e6e3702250e9c0c617f020baece23f"
+    }
+  ],
+  "scope": "Approved only to start new full render from this frozen source; final movie still requires full technical and actual-image QC",
+  "technical": {
+    "path": "work/score-sync-02/team/c/final444-smoke/technical-verification.json",
+    "sha256": "0b80ee48f3816248cc00797b8a0eee7081ea2fc557e2b249c6b739c98e15320e"
+  },
+  "utc": "2026-10-18T19:10:32.592884+00:00",
+  "actual_full_audition": false
+}

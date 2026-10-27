@@ -1,0 +1,119 @@
+{
+  "scope": "Only whole-panel first batch; internal independent run entries unchanged",
+  "batch_seconds": 0.2,
+  "source_run_count": 76,
+  "affected_source_phrases": 10,
+  "unchanged_internal_runs": 66,
+  "phrases": [
+    {
+      "id": "P41:1-lyric-001",
+      "lane": "P41:1",
+      "run_id": "P41:1-run-1",
+      "window_id": "panel-1",
+      "start": 417.37,
+      "end": 428.41,
+      "admit": 415.97,
+      "full": 417.17,
+      "de": "O Freunde, nicht diese Töne!"
+    },
+    {
+      "id": "P40:1-lyric-014",
+      "lane": "P40:1",
+      "run_id": "P40:1-run-3",
+      "window_id": "panel-2",
+      "start": 679.75,
+      "end": 680.76,
+      "admit": 678.35,
+      "full": 679.55,
+      "de": "Froh,"
+    },
+    {
+      "id": "P42:1-lyric-012",
+      "lane": "P42:1",
+      "run_id": "P42:1-run-3",
+      "window_id": "panel-3",
+      "start": 853.19,
+      "end": 857.63,
+      "admit": 851.7900000000001,
+      "full": 852.99,
+      "de": "Freude, schöner Götterfunken,"
+    },
+    {
+      "id": "P43:1-lyric-016",
+      "lane": "P43:1",
+      "run_id": "P43:1-run-4",
+      "window_id": "panel-3",
+      "start": 853.19,
+      "end": 857.63,
+      "admit": 851.7900000000001,
+      "full": 852.99,
+      "de": "Freude, schöner Götterfunken,"
+    },
+    {
+      "id": "P44:1-lyric-016",
+      "lane": "P44:1",
+      "run_id": "P44:1-run-4",
+      "window_id": "panel-3",
+      "start": 853.19,
+      "end": 857.63,
+      "admit": 851.7900000000001,
+      "full": 852.99,
+      "de": "Freude, schöner Götterfunken,"
+    },
+    {
+      "id": "P47:1-lyric-023",
+      "lane": "P47:1",
+      "run_id": "P47:1-run-6",
+      "window_id": "panel-3",
+      "start": 853.19,
+      "end": 857.63,
+      "admit": 851.7900000000001,
+      "full": 852.99,
+      "de": "Freude, schöner Götterfunken,"
+    },
+    {
+      "id": "P42:1-lyric-028",
+      "lane": "P42:1",
+      "run_id": "P42:1-run-6",
+      "window_id": "panel-4",
+      "start": 1046.5,
+      "end": 1063.97,
+      "admit": 1045.1,
+      "full": 1046.3,
+      "de": "Ihr stürzt nieder, Millionen?"
+    },
+    {
+      "id": "P43:1-lyric-032",
+      "lane": "P43:1",
+      "run_id": "P43:1-run-7",
+      "window_id": "panel-4",
+      "start": 1046.5,
+      "end": 1063.97,
+      "admit": 1045.1,
+      "full": 1046.3,
+      "de": "Ihr stürzt nieder, Millionen?"
+    },
+    {
+      "id": "P44:1-lyric-036",
+      "lane": "P44:1",
+      "run_id": "P44:1-run-6",
+      "window_id": "panel-4",
+      "start": 1046.5,
+      "end": 1063.97,
+      "admit": 1045.1,
+      "full": 1046.3,
+      "de": "Ihr stürzt nieder, Millionen?"
+    },
+    {
+      "id": "P47:1-lyric-043",
+      "lane": "P47:1",
+      "run_id": "P47:1-run-8",
+      "window_id": "panel-4",
+      "start": 1046.5,
+      "end": 1063.97,
+      "admit": 1045.1,
+      "full": 1046.3,
+      "de": "Ihr stürzt nieder, Millionen?"
+    }
+  ]
+}

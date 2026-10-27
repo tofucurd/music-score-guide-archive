@@ -1,0 +1,59 @@
+{
+  "recipe": {
+    "schema": "r04-dsf-pcm24-v1",
+    "output_rate": 96000,
+    "channels": [
+      "L",
+      "R"
+    ],
+    "format": "pcm_s24le",
+    "resampler": {
+      "engine": "swr",
+      "filter_size": 128,
+      "phase_shift": 10,
+      "linear_interp": 0,
+      "exact_rational": 1,
+      "cutoff": 0.97,
+      "filter_type": "kaiser",
+      "kaiser_beta": 9
+    },
+    "gain": 1,
+    "reference_scope": "whole-recording",
+    "dither": "none"
+  },
+  "args": [
+    "-nostdin",
+    "-hide_banner",
+    "-nostats",
+    "-v",
+    "error",
+    "-xerror",
+    "-threads",
+    "1",
+    "-filter_threads",
+    "1",
+    "-protocol_whitelist",
+    "pipe",
+    "-f",
+    "dsf",
+    "-i",
+    "pipe:0",
+    "-map",
+    "0:a:0",
+    "-vn",
+    "-sn",
+    "-dn",
+    "-map_metadata",
+    "-1",
+    "-af",
+    "aresample=osr=96000:osf=dbl:tsf=dblp:resampler=swr:filter_size=128:phase_shift=10:linear_interp=0:exact_rational=1:cutoff=0.97:filter_type=kaiser:kaiser_beta=9:dither_method=none:async=0,aresample=osr=96000:osf=s32:dither_method=none:output_sample_bits=24:async=0",
+    "-c:a",
+    "pcm_s24le",
+    "-threads:a",
+    "1",
+    "-f",
+    "s24le",
+    "pipe:1"
+  ],
+  "recipe_hash": "8ad44f332e3bce89de2a17382053e65f712e42a69fc0edc86e75f4c54a14d1e1"
+}

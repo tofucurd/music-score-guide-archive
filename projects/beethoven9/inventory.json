@@ -1,0 +1,518 @@
+{
+  "schema": 1,
+  "files": [
+    {
+      "path": ".score-sync/m1/alignment.json",
+      "archive_path": ".score-sync/m1/alignment.json.gz",
+      "bytes": 8047117,
+      "sha256": "0571557d6c0af7f31a4528654fad4f6e83a7c7ead62ce1fe5af56d347f3dcc4a",
+      "compressed": true,
+      "original_sha256": "5dd661ee37d88413b5e49a9e7ae664f13612b9188714446f6620e03a91083c27"
+    },
+    {
+      "path": ".score-sync/m1/audio.json",
+      "archive_path": ".score-sync/m1/audio.json",
+      "bytes": 324,
+      "sha256": "85596dd6d366152cddc7bbdad82286dc6a165e1f75a17615e224e8b02ad6b940",
+      "compressed": false,
+      "original_sha256": "c9dd1d3ed0d7e4a970d59efdc8b3fe714d8e6593e47b4f61fec416326f77fab7"
+    },
+    {
+      "path": ".score-sync/m1/geometry.json",
+      "archive_path": ".score-sync/m1/geometry.json.gz",
+      "bytes": 9970097,
+      "sha256": "2602193f59ab4abb13cf76d6f36b4d0199377d5e04806e36c92949c58ddbe841",
+      "compressed": true,
+      "original_sha256": "2602193f59ab4abb13cf76d6f36b4d0199377d5e04806e36c92949c58ddbe841"
+    },
+    {
+      "path": ".score-sync/m1/labels.json",
+      "archive_path": ".score-sync/m1/labels.json",
+      "bytes": 501,
+      "sha256": "89ca7589a99f4050c3aee54c2615ab0ca73fc341888d118b794ade475dc2a428",
+      "compressed": false,
+      "original_sha256": "89ca7589a99f4050c3aee54c2615ab0ca73fc341888d118b794ade475dc2a428"
+    },
+    {
+      "path": ".score-sync/m1/materials.json",
+      "archive_path": ".score-sync/m1/materials.json",
+      "bytes": 324,
+      "sha256": "328a65aefb2e1317c720644e89816417872493839811500f619569e76d37fd5a",
+      "compressed": false,
+      "original_sha256": "328a65aefb2e1317c720644e89816417872493839811500f619569e76d37fd5a"
+    },
+    {
+      "path": ".score-sync/m1/score.json",
+      "archive_path": ".score-sync/m1/score.json.gz",
+      "bytes": 18210121,
+      "sha256": "0b2a4af2d62cb90ee2b349047d87dd57cea07478ebc8b28e36cfdc3240306c17",
+      "compressed": true,
+      "original_sha256": "96f61ff3fe1a456df92a415bfebe34530a54ad958e1b527b1cf6401bea11bb06"
+    },
+    {
+      "path": ".score-sync/m1/score.svg",
+      "archive_path": ".score-sync/m1/score.svg.gz",
+      "bytes": 31577169,
+      "sha256": "144bc504254acc6e73dc1a2174c292654b3da64511452f2d62685c2482aaffed",
+      "compressed": true,
+      "original_sha256": "144bc504254acc6e73dc1a2174c292654b3da64511452f2d62685c2482aaffed"
+    },
+    {
+      "path": ".score-sync/m1/structure.json",
+      "archive_path": ".score-sync/m1/structure.json",
+      "bytes": 10081,
+      "sha256": "96cf9beb76ad3c4a0df9f7b0240ac03bafa21e74469f3fc3f4bc97c7fb37f965",
+      "compressed": false,
+      "original_sha256": "96cf9beb76ad3c4a0df9f7b0240ac03bafa21e74469f3fc3f4bc97c7fb37f965"
+    },
+    {
+      "path": ".score-sync/m2/alignment.json",
+      "archive_path": ".score-sync/m2/alignment.json.gz",
+      "bytes": 9630034,
+      "sha256": "5ab6fba8b40a6e889545864119d005ff7c6f0509c28e6a52f63521f2f19ff95d",
+      "compressed": true,
+      "original_sha256": "3ee3cca8fdc561fa49c3ec88ae64f4a4929941acf2571809b1437c6c04457836"
+    },
+    {
+      "path": ".score-sync/m2/audio.json",
+      "archive_path": ".score-sync/m2/audio.json",
+      "bytes": 303,
+      "sha256": "0e74e2166ca180baddb7752134ac55cb467107331d106cd8e90a92f3ac65f635",
+      "compressed": false,
+      "original_sha256": "312e28721350bf3900598bee9a3ef76e8c5e0d9a8223bd746bbc6c636d5e8ded"
+    },
+    {
+      "path": ".score-sync/m2/geometry.json",
+      "archive_path": ".score-sync/m2/geometry.json.gz",
+      "bytes": 11586150,
+      "sha256": "4c682a7e6ea5b669f1e2497de5a95a1becf51f2e4b52adf191bd732832e9c300",
+      "compressed": true,
+      "original_sha256": "4c682a7e6ea5b669f1e2497de5a95a1becf51f2e4b52adf191bd732832e9c300"
+    },
+    {
+      "path": ".score-sync/m2/labels.json",
+      "archive_path": ".score-sync/m2/labels.json",
+      "bytes": 566,
+      "sha256": "43e3960efe2ea45fa95d68bb8d4921f6b1671d2735e91121243fc7766ad54bf5",
+      "compressed": false,
+      "original_sha256": "43e3960efe2ea45fa95d68bb8d4921f6b1671d2735e91121243fc7766ad54bf5"
+    },
+    {
+      "path": ".score-sync/m2/materials.json",
+      "archive_path": ".score-sync/m2/materials.json",
+      "bytes": 324,
+      "sha256": "f66b609b6788525beaa34c35cb51fff80ba59b52e6a6f86adb7e1697d387e9c3",
+      "compressed": false,
+      "original_sha256": "f66b609b6788525beaa34c35cb51fff80ba59b52e6a6f86adb7e1697d387e9c3"
+    },
+    {
+      "path": ".score-sync/m2/score.json",
+      "archive_path": ".score-sync/m2/score.json.gz",
+      "bytes": 22055540,
+      "sha256": "e5709af5bf0cc1784ab2789a50308c7b6c6aea45dcc0ce8464207793246fe047",
+      "compressed": true,
+      "original_sha256": "99e52e2d90522a89a18223d53ed5e8ed41a2766191a7616d5fe929074899559f"
+    },
+    {
+      "path": ".score-sync/m2/score.svg",
+      "archive_path": ".score-sync/m2/score.svg.gz",
+      "bytes": 37074671,
+      "sha256": "81b2399822450e3f886cff6c8e77cb05264dcb1e9a93a4cac76365777e504554",
+      "compressed": true,
+      "original_sha256": "81b2399822450e3f886cff6c8e77cb05264dcb1e9a93a4cac76365777e504554"
+    },
+    {
+      "path": ".score-sync/m2/structure.json",
+      "archive_path": ".score-sync/m2/structure.json",
+      "bytes": 14197,
+      "sha256": "9a45355802f59531e0d8a9b21be3413ed1ef7668e267c5cba04084d212a063f2",
+      "compressed": false,
+      "original_sha256": "9a45355802f59531e0d8a9b21be3413ed1ef7668e267c5cba04084d212a063f2"
+    },
+    {
+      "path": ".score-sync/m3/alignment.json",
+      "archive_path": ".score-sync/m3/alignment.json.gz",
+      "bytes": 3064376,
+      "sha256": "5a4c12bd06e803cdda3edcee9b9db50720a8aadc04e66942115868848b0c7931",
+      "compressed": true,
+      "original_sha256": "8ce00d499a83cdf7beaa136d28540b29c55ec510a44a98804f1564bce3da85bf"
+    },
+    {
+      "path": ".score-sync/m3/audio.json",
+      "archive_path": ".score-sync/m3/audio.json",
+      "bytes": 303,
+      "sha256": "ac0739c8a7df8ef457157b56e41774293cf29d41831f2faa58c1a1f71736dc71",
+      "compressed": false,
+      "original_sha256": "1cd8a3bcecc572b5aca21c6014fd35ecba69daf9f61f78e1367d08aeb5fce56f"
+    },
+    {
+      "path": ".score-sync/m3/geometry.json",
+      "archive_path": ".score-sync/m3/geometry.json.gz",
+      "bytes": 3701997,
+      "sha256": "dc9c777cf38e903dc0af31cc58c32aa8a58b97c09579d85700582a2690f33138",
+      "compressed": true,
+      "original_sha256": "dc9c777cf38e903dc0af31cc58c32aa8a58b97c09579d85700582a2690f33138"
+    },
+    {
+      "path": ".score-sync/m3/labels.json",
+      "archive_path": ".score-sync/m3/labels.json",
+      "bytes": 501,
+      "sha256": "0f77f34a9cf5ae47a1c3d07bc1c39cca68d02a5fde0d7ab920aca88eed77fce8",
+      "compressed": false,
+      "original_sha256": "0f77f34a9cf5ae47a1c3d07bc1c39cca68d02a5fde0d7ab920aca88eed77fce8"
+    },
+    {
+      "path": ".score-sync/m3/materials.json",
+      "archive_path": ".score-sync/m3/materials.json",
+      "bytes": 324,
+      "sha256": "52d8727945aba451685d607418f6d02bef819c13e8494be45ff761273ee756b0",
+      "compressed": false,
+      "original_sha256": "52d8727945aba451685d607418f6d02bef819c13e8494be45ff761273ee756b0"
+    },
+    {
+      "path": ".score-sync/m3/score.json",
+      "archive_path": ".score-sync/m3/score.json.gz",
+      "bytes": 6824460,
+      "sha256": "f27a88803c2b525560373c5461fbb4a95302f8c2c4676c064ecf4638f260e51a",
+      "compressed": true,
+      "original_sha256": "5c574eceec133e1d4adfa16dcf2e873ed0df3e3f032128ab762cb4b367923742"
+    },
+    {
+      "path": ".score-sync/m3/score.svg",
+      "archive_path": ".score-sync/m3/score.svg.gz",
+      "bytes": 10048873,
+      "sha256": "b01462277af367d5132ef81bd49dcd529f9f010095de3ca95fb814e00e48a45a",
+      "compressed": true,
+      "original_sha256": "b01462277af367d5132ef81bd49dcd529f9f010095de3ca95fb814e00e48a45a"
+    },
+    {
+      "path": ".score-sync/m3/structure.json",
+      "archive_path": ".score-sync/m3/structure.json",
+      "bytes": 4603,
+      "sha256": "8b54d8a26abb9e43ff761c48c50e498f7b22927055abe1b2ea529ff4d7e068c4",
+      "compressed": false,
+      "original_sha256": "8b54d8a26abb9e43ff761c48c50e498f7b22927055abe1b2ea529ff4d7e068c4"
+    },
+    {
+      "path": ".score-sync/m4/alignment.json",
+      "archive_path": ".score-sync/m4/alignment.json.gz",
+      "bytes": 19005834,
+      "sha256": "45219898260798933976e9c474c030cac4f82f6c5d1e57f88508baa15afd1dcd",
+      "compressed": true,
+      "original_sha256": "10656ef1fd74f9dc75989253277bfe4c7f609646d656c93a1ca420977f5107d0"
+    },
+    {
+      "path": ".score-sync/m4/audio.json",
+      "archive_path": ".score-sync/m4/audio.json",
+      "bytes": 303,
+      "sha256": "73e857d2f3b1c1ac71d0efa70299eefc65ac1c438327cd25a0de48cf2fd33734",
+      "compressed": false,
+      "original_sha256": "de7e2b34502f71855123e31096ffa8a88155cd0c52fc8f64770083380eaa2a8f"
+    },
+    {
+      "path": ".score-sync/m4/geometry.json",
+      "archive_path": ".score-sync/m4/geometry.json.gz",
+      "bytes": 22624820,
+      "sha256": "8223758597e03ac77697486ae82f2d6503fa015eec25472a105720981f61917b",
+      "compressed": true,
+      "original_sha256": "8223758597e03ac77697486ae82f2d6503fa015eec25472a105720981f61917b"
+    },
+    {
+      "path": ".score-sync/m4/labels.json",
+      "archive_path": ".score-sync/m4/labels.json",
+      "bytes": 1094,
+      "sha256": "b9846e199d644fb647571c028234ad09be1cef20ed58eb8e099c000c8a59c17a",
+      "compressed": false,
+      "original_sha256": "b9846e199d644fb647571c028234ad09be1cef20ed58eb8e099c000c8a59c17a"
+    },
+    {
+      "path": ".score-sync/m4/materials.json",
+      "archive_path": ".score-sync/m4/materials.json.gz",
+      "bytes": 85971,
+      "sha256": "6bc92c201a4b525bd68a02c8cccc7e326705cd00326d8f1257e00f6e906edfff",
+      "compressed": true,
+      "original_sha256": "6bc92c201a4b525bd68a02c8cccc7e326705cd00326d8f1257e00f6e906edfff"
+    },
+    {
+      "path": ".score-sync/m4/score.json",
+      "archive_path": ".score-sync/m4/score.json.gz",
+      "bytes": 43230994,
+      "sha256": "e0b67ecde02492b2f860a503659d6d807fa9948c0630acc6f7bd473bcf492bf9",
+      "compressed": true,
+      "original_sha256": "266e7c16be39ec1599c9deda99376bbdc749b692c8565a222ee4fcf475b561f2"
+    },
+    {
+      "path": ".score-sync/m4/score.svg",
+      "archive_path": ".score-sync/m4/score.svg.gz",
+      "bytes": 68112161,
+      "sha256": "848660d3aa0555731f4f873cd331730941ab0be6403354b472aac7f3c9e9e400",
+      "compressed": true,
+      "original_sha256": "848660d3aa0555731f4f873cd331730941ab0be6403354b472aac7f3c9e9e400"
+    },
+    {
+      "path": ".score-sync/m4/structure.json",
+      "archive_path": ".score-sync/m4/structure.json",
+      "bytes": 17505,
+      "sha256": "d6cbbec0e2a3c1f351173eb349a2f43474b1a9d007ab41c2a1f42a5291640902",
+      "compressed": false,
+      "original_sha256": "d6cbbec0e2a3c1f351173eb349a2f43474b1a9d007ab41c2a1f42a5291640902"
+    },
+    {
+      "path": "content/material-regions/index.json",
+      "archive_path": "content/material-regions/index.json",
+      "bytes": 3579,
+      "sha256": "470f342899a20b744c335bade3148335ddeebb5b7b4a1f9d17658c8976aab414",
+      "compressed": false,
+      "original_sha256": "3bf2ec95648bbb721b526b9614397393404530d4b74a19028c0e101ff7109914"
+    },
+    {
+      "path": "content/presentation.json",
+      "archive_path": "content/presentation.json",
+      "bytes": 951,
+      "sha256": "3b3bdb7004a3735c8c1f5ab682c6aea9d84ce2f0672705df48a2ec962a223dc4",
+      "compressed": false,
+      "original_sha256": "3b3bdb7004a3735c8c1f5ab682c6aea9d84ce2f0672705df48a2ec962a223dc4"
+    },
+    {
+      "path": "content/score-locators.json",
+      "archive_path": "content/score-locators.json.gz",
+      "bytes": 114632,
+      "sha256": "4f49f262bafd79d5dcf32139ed8a6a5f3cea50f069a6f11bd70a07f5ea238039",
+      "compressed": true,
+      "original_sha256": "4f49f262bafd79d5dcf32139ed8a6a5f3cea50f069a6f11bd70a07f5ea238039"
+    },
+    {
+      "path": "content/vocals/cohort-schedule.json",
+      "archive_path": "content/vocals/cohort-schedule.json.gz",
+      "bytes": 1176953,
+      "sha256": "78d3127e0bd092a67c8c2602b12e56d458b6df6b73ca57f7329f30ba3510adc7",
+      "compressed": true,
+      "original_sha256": "3cc8400f1a500a415547ab4a810bffcbac10700883da2d2d7f391a0118be04e7"
+    },
+    {
+      "path": "content/vocals/layout-schedule.json",
+      "archive_path": "content/vocals/layout-schedule.json.gz",
+      "bytes": 177996,
+      "sha256": "1d66bfb50ed6e9f001ce561dd5d1e842ef15262fa62bbcf6d4842ab5fbb65cbe",
+      "compressed": true,
+      "original_sha256": "e16c3c0661ab951931db6957ea18578f9db67d4befc8423afd51a489b9fdfbed"
+    },
+    {
+      "path": "content/vocals/panel-entry-schedule.json",
+      "archive_path": "content/vocals/panel-entry-schedule.json",
+      "bytes": 2871,
+      "sha256": "8ed1265552aa770b131e8e21e555a9951c805deed430ee7ae2d7017ec0243d40",
+      "compressed": false,
+      "original_sha256": "8ed1265552aa770b131e8e21e555a9951c805deed430ee7ae2d7017ec0243d40"
+    },
+    {
+      "path": "content/vocals/panel-policy.json",
+      "archive_path": "content/vocals/panel-policy.json",
+      "bytes": 333,
+      "sha256": "0b87186d6e3a9ef81e0304761e0ee979a2ebae1d5c221d25bceb30e1fe30e024",
+      "compressed": false,
+      "original_sha256": "0b87186d6e3a9ef81e0304761e0ee979a2ebae1d5c221d25bceb30e1fe30e024"
+    },
+    {
+      "path": "content/vocals/panel-presence.json",
+      "archive_path": "content/vocals/panel-presence.json",
+      "bytes": 6935,
+      "sha256": "ec230538e099fa3b8d56b9a0f9b487b6c184462e6fc2319c3f3ba131160880cf",
+      "compressed": false,
+      "original_sha256": "ec230538e099fa3b8d56b9a0f9b487b6c184462e6fc2319c3f3ba131160880cf"
+    },
+    {
+      "path": "content/vocals/phrases-untranslated.json",
+      "archive_path": "content/vocals/phrases-untranslated.json.gz",
+      "bytes": 6068783,
+      "sha256": "4d90c21fde73cba25b32e2106949ecff3abdeb76c1f13baddc878d9556372755",
+      "compressed": true,
+      "original_sha256": "4d90c21fde73cba25b32e2106949ecff3abdeb76c1f13baddc878d9556372755"
+    },
+    {
+      "path": "content/vocals/phrases.json",
+      "archive_path": "content/vocals/phrases.json.gz",
+      "bytes": 6095830,
+      "sha256": "51f476199d761bc66e85d40589390d161ddf6c5605de5f7127c749f72f316aa3",
+      "compressed": true,
+      "original_sha256": "b06031a200c9db5923c3caf865210aaae475817664a5951642526cc173db3004"
+    },
+    {
+      "path": "content/vocals/timeline.json",
+      "archive_path": "content/vocals/timeline.json.gz",
+      "bytes": 6670607,
+      "sha256": "d1f8444855da053facc35f2a9e6d5789703dd6febfd54ce54639bcc6d72cfec0",
+      "compressed": true,
+      "original_sha256": "384fe9d80b7d71cd5484ef19bcb50ff58eaaeb5259c8440b28e2ea248b1eb384"
+    },
+    {
+      "path": "content/vocals/translations.json",
+      "archive_path": "content/vocals/translations.json",
+      "bytes": 4391,
+      "sha256": "850e078955bc0ccc3ba4411d5a72825b7abf31dae4a8167131a67f1ee59084e2",
+      "compressed": false,
+      "original_sha256": "850e078955bc0ccc3ba4411d5a72825b7abf31dae4a8167131a67f1ee59084e2"
+    },
+    {
+      "path": "derived/scores/movement-1.musicxml",
+      "archive_path": "derived/scores/movement-1.musicxml.gz",
+      "bytes": 14422158,
+      "sha256": "356582190397aaa7f6b14079c54c6653e7feb51e27dbe7c0489803a592f126e2",
+      "compressed": true,
+      "original_sha256": "356582190397aaa7f6b14079c54c6653e7feb51e27dbe7c0489803a592f126e2"
+    },
+    {
+      "path": "derived/scores/movement-2.musicxml",
+      "archive_path": "derived/scores/movement-2.musicxml.gz",
+      "bytes": 14233017,
+      "sha256": "24c4f5595112e320da786a4bb03a7861e846875d9caa8754d33b13ecb119c245",
+      "compressed": true,
+      "original_sha256": "24c4f5595112e320da786a4bb03a7861e846875d9caa8754d33b13ecb119c245"
+    },
+    {
+      "path": "derived/scores/movement-3.musicxml",
+      "archive_path": "derived/scores/movement-3.musicxml.gz",
+      "bytes": 4864814,
+      "sha256": "916fcb4280bb87002c97b08bbce8006d7fc8f360b82adb1ad152516822b9abf5",
+      "compressed": true,
+      "original_sha256": "916fcb4280bb87002c97b08bbce8006d7fc8f360b82adb1ad152516822b9abf5"
+    },
+    {
+      "path": "derived/scores/movement-4.musicxml",
+      "archive_path": "derived/scores/movement-4.musicxml.gz",
+      "bytes": 26667743,
+      "sha256": "dcc30fa19a3b7206f82c8560ef745834bdeb293ccfdcd4fb2d91fd31bc4695ff",
+      "compressed": true,
+      "original_sha256": "dcc30fa19a3b7206f82c8560ef745834bdeb293ccfdcd4fb2d91fd31bc4695ff"
+    },
+    {
+      "path": "research/archived_pruning.py",
+      "archive_path": "research/archived_pruning.py",
+      "bytes": 3365,
+      "sha256": "3530855b0875b23275257fdb6e2dc46d80963b9bb01affc83731d6dccfc8e2ed",
+      "compressed": false,
+      "original_sha256": null
+    },
+    {
+      "path": "research/intake/presentation.mjs",
+      "archive_path": "research/intake/presentation.mjs",
+      "bytes": 979,
+      "sha256": "8dae19fd23e187337e40341ce7e86e2880019e003f2047f96ec72556f1ed6205",
+      "compressed": false,
+      "original_sha256": "8dae19fd23e187337e40341ce7e86e2880019e003f2047f96ec72556f1ed6205"
+    },
+    {
+      "path": "research/intake/score_locators.mjs",
+      "archive_path": "research/intake/score_locators.mjs",
+      "bytes": 3740,
+      "sha256": "8824fe2cdc9d884d213c9b2ac9a220c77454a1b862c50540751658d9abc11f05",
+      "compressed": false,
+      "original_sha256": "8824fe2cdc9d884d213c9b2ac9a220c77454a1b862c50540751658d9abc11f05"
+    },
+    {
+      "path": "research/intake/spec_transport.mjs",
+      "archive_path": "research/intake/spec_transport.mjs",
+      "bytes": 434,
+      "sha256": "410f0ff7cf77f6f19a18b92ffddffd480d33bf4db76f930440002c35cc6918f4",
+      "compressed": false,
+      "original_sha256": "410f0ff7cf77f6f19a18b92ffddffd480d33bf4db76f930440002c35cc6918f4"
+    },
+    {
+      "path": "research/intake/vocal_programme.py",
+      "archive_path": "research/intake/vocal_programme.py",
+      "bytes": 6618,
+      "sha256": "d418b7a32191cb79c1af35cee2316b74a2ec34c9c38b0422d0aea25a91178401",
+      "compressed": false,
+      "original_sha256": "90780e3dd091ed0a71540e686491475a663b4d6543d028968bf210e6950ebf01"
+    },
+    {
+      "path": "research/material-regions-full/browser_preview.mjs",
+      "archive_path": "research/material-regions-full/browser_preview.mjs",
+      "bytes": 35061,
+      "sha256": "0059ffc406e908007350bbccc9753d1d570424ba4727567bb122d9054a44e278",
+      "compressed": false,
+      "original_sha256": "0059ffc406e908007350bbccc9753d1d570424ba4727567bb122d9054a44e278"
+    },
+    {
+      "path": "research/material-regions-full/m1-regions.json",
+      "archive_path": "research/material-regions-full/m1-regions.json.gz",
+      "bytes": 139254,
+      "sha256": "51a038dc88830f5dec9b39e3d8ee301cb9fc6d1eb4db8b0e599802f1e848de1c",
+      "compressed": true,
+      "original_sha256": "51a038dc88830f5dec9b39e3d8ee301cb9fc6d1eb4db8b0e599802f1e848de1c"
+    },
+    {
+      "path": "research/material-regions-full/m2-regions.json",
+      "archive_path": "research/material-regions-full/m2-regions.json",
+      "bytes": 2158,
+      "sha256": "1052f3158a5007b73e4d27d4c5f7f0015d34a05355e78e11d3dbc1bd8084783f",
+      "compressed": false,
+      "original_sha256": "1052f3158a5007b73e4d27d4c5f7f0015d34a05355e78e11d3dbc1bd8084783f"
+    },
+    {
+      "path": "research/material-regions-full/m3-regions.json",
+      "archive_path": "research/material-regions-full/m3-regions.json.gz",
+      "bytes": 34979,
+      "sha256": "c1393714f1ede96e9cba0b461bac3d3ff8b597724284e7085370225f16f97993",
+      "compressed": true,
+      "original_sha256": "c1393714f1ede96e9cba0b461bac3d3ff8b597724284e7085370225f16f97993"
+    },
+    {
+      "path": "research/material-regions-full/m4-regions.json",
+      "archive_path": "research/material-regions-full/m4-regions.json.gz",
+      "bytes": 648338,
+      "sha256": "18eb77e64c4a8407f6a7ce0f6b89a90645853f2899468b02b9d20e170b9e303c",
+      "compressed": true,
+      "original_sha256": "18eb77e64c4a8407f6a7ce0f6b89a90645853f2899468b02b9d20e170b9e303c"
+    },
+    {
+      "path": "research/material-regions-full/material-palette.json",
+      "archive_path": "research/material-regions-full/material-palette.json",
+      "bytes": 1119,
+      "sha256": "527ff55a73016e4a5f366487063c9957b0d9a3dd4e45a4502ccd1b51be85dc0f",
+      "compressed": false,
+      "original_sha256": "527ff55a73016e4a5f366487063c9957b0d9a3dd4e45a4502ccd1b51be85dc0f"
+    },
+    {
+      "path": "research/material-regions-full/material_programme.py",
+      "archive_path": "research/material-regions-full/material_programme.py",
+      "bytes": 3632,
+      "sha256": "6cf51efe762fd68299d7795da992d8cb48b78df7afc408c5174cdbdae1f1633f",
+      "compressed": false,
+      "original_sha256": "6cf51efe762fd68299d7795da992d8cb48b78df7afc408c5174cdbdae1f1633f"
+    },
+    {
+      "path": "research/material-regions-full/region_ink.mjs",
+      "archive_path": "research/material-regions-full/region_ink.mjs",
+      "bytes": 11521,
+      "sha256": "0704ede6f0f7fbc170823b14d1f9071cb096712b5c686e12a68a30ee6124e472",
+      "compressed": false,
+      "original_sha256": "0704ede6f0f7fbc170823b14d1f9071cb096712b5c686e12a68a30ee6124e472"
+    },
+    {
+      "path": "research/material-regions-full/staff_signatures.json",
+      "archive_path": "research/material-regions-full/staff_signatures.json.gz",
+      "bytes": 113409,
+      "sha256": "8b4da68215a90e16e28feb9c2275fa0b14517ad84f9702171aea89f3d042eef0",
+      "compressed": true,
+      "original_sha256": "8b4da68215a90e16e28feb9c2275fa0b14517ad84f9702171aea89f3d042eef0"
+    },
+    {
+      "path": "research/vocal-production-integration/program_vocals.mjs",
+      "archive_path": "research/vocal-production-integration/program_vocals.mjs",
+      "bytes": 17740,
+      "sha256": "6b363cb4409e377ae86acbd20f54b8a252f2cbd4c6f3e92e39cc24c9e1982b58",
+      "compressed": false,
+      "original_sha256": "6b363cb4409e377ae86acbd20f54b8a252f2cbd4c6f3e92e39cc24c9e1982b58"
+    },
+    {
+      "path": "research/vocal-production-integration/vocal_overlay_program_base.mjs",
+      "archive_path": "research/vocal-production-integration/vocal_overlay_program_base.mjs",
+      "bytes": 24299,
+      "sha256": "3c010cb36267f1c5fe17519a00ba3aaaea6227ce195a2d30cc1302214bc5a0dc",
+      "compressed": false,
+      "original_sha256": "3c010cb36267f1c5fe17519a00ba3aaaea6227ce195a2d30cc1302214bc5a0dc"
+    }
+  ],
+  "portability_changes": "Only local paths, audio command metadata and their resulting checksum bindings; no score positions, accepted clock points, lyrics, layout or grouping recalculated."
+}

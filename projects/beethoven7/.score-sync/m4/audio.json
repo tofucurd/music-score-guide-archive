@@ -1,0 +1,36 @@
+{
+  "prepared_sha256": "b494dbda7353ec0c887949b0067e6bf053cacdba49861a6b42833b0b307efa0f",
+  "path": "audio.wav",
+  "sample_rate": 96000,
+  "channels": 2,
+  "bits": 24,
+  "samples": 53690880,
+  "source_sha256": "9bcbbf00da43d031165672cfab4722d9dbdc33a09cc2a84f5a852747752bcfbc",
+  "recipe": {
+    "argv": [
+      "ffmpeg",
+      "-v",
+      "error",
+      "-nostdin",
+      "-y",
+      "-i",
+      "materials/audio/Teodor Currentzis - Beethoven_Symphony No. 7 in A Major, Op. 92 (2021) [24-96]/04. Symphony No. 7 in A Major, Op. 92- IV. Allegro con brio.flac",
+      "-map",
+      "0:a:0",
+      "-vn",
+      "-ar",
+      "96000",
+      "-ac",
+      "2",
+      "-c:a",
+      "pcm_s24le",
+      "-rf64",
+      "auto",
+      ".score-sync/m4/audio.wav"
+    ],
+    "source_codec": "flac",
+    "float_quantization_to_24bit": false,
+    "processing": "decode only; optional requested range; no normalization/downmix/time stretch",
+    "lossless_relative_to": "decoded PCM master, not DSD bitstream or lossy original encoding"
+  }
+}

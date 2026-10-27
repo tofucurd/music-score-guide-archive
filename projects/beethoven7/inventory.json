@@ -1,0 +1,301 @@
+{
+  "schema": 1,
+  "restore_root": ".",
+  "files": [
+    {
+      "path": ".score-sync/m1/score.json",
+      "archive_path": ".score-sync/m1/score.json.gz",
+      "bytes": 17912071,
+      "sha256": "8a3af04bccffd837f8f6302d5eace14a7cca4683bed37572a68d7558498ebbd2",
+      "compressed": true,
+      "original_sha256": "79ea75a189252ae5b630ee8c4c443311dd5efea7dccb030545d0b69465465c96",
+      "portability_change": "Absolute project prefix removed from PDF provenance path only"
+    },
+    {
+      "path": ".score-sync/m1/score.svg",
+      "archive_path": ".score-sync/m1/score.svg.gz",
+      "bytes": 24456474,
+      "sha256": "e6984d8fe2035695baac9da2d0e203ba030dff6f441e308d5d1c55625e71c86a",
+      "compressed": true
+    },
+    {
+      "path": ".score-sync/m1/geometry.json",
+      "archive_path": ".score-sync/m1/geometry.json.gz",
+      "bytes": 8617994,
+      "sha256": "09e3bc6f80672e233be41306e48e11589ef000dcea3a9fa53206b3265e3fd776",
+      "compressed": true
+    },
+    {
+      "path": ".score-sync/m1/alignment.json",
+      "archive_path": ".score-sync/m1/alignment.json.gz",
+      "bytes": 7983739,
+      "sha256": "15addf43e5a3e18206a282ab3c7d09528c9e0573250969d76895d40a23e584cc",
+      "compressed": true
+    },
+    {
+      "path": ".score-sync/m1/audio.json",
+      "archive_path": ".score-sync/m1/audio.json",
+      "bytes": 1022,
+      "sha256": "efb01702ce39a0fa5cab74a8a9ac31352701cfd502811939e790ba4b389f04a3",
+      "compressed": false
+    },
+    {
+      "path": ".score-sync/m1/labels.json",
+      "archive_path": ".score-sync/m1/labels.json",
+      "bytes": 285,
+      "sha256": "0d509b575bb3792fe60bbbe8319e6c24a4e142f92dc51b0a4cad71e4366b1a78",
+      "compressed": false
+    },
+    {
+      "path": ".score-sync/m1/materials.json",
+      "archive_path": ".score-sync/m1/materials.json",
+      "bytes": 15621,
+      "sha256": "d471262206f7a5f35b0b49bc0c4fa2f9d049ce0c8e5047358a75eadd4d19c060",
+      "compressed": false
+    },
+    {
+      "path": ".score-sync/m1/structure.json",
+      "archive_path": ".score-sync/m1/structure.json",
+      "bytes": 6340,
+      "sha256": "925a8e6297754f354227fe4075d4679b82d51f683c4f14f5260a8f17d894a684",
+      "compressed": false
+    },
+    {
+      "path": "derived/m1.musicxml",
+      "archive_path": "derived/m1.musicxml.gz",
+      "bytes": 10015884,
+      "sha256": "e7d13827726c58e6763d4a376e241fb012abe20318f035a1a9349b6102521de5",
+      "compressed": true
+    },
+    {
+      "path": ".score-sync/m2/score.json",
+      "archive_path": ".score-sync/m2/score.json.gz",
+      "bytes": 4536140,
+      "sha256": "7f1be1960f2089acd1bada27605f286188bf1f965bc7bafdb90b78e47807580d",
+      "compressed": true,
+      "original_sha256": "2eb541b04a44b1f4d2b1b0cc33b40f88736a6e86a1e8c5b40bc719855b5bc1b6",
+      "portability_change": "Absolute project prefix removed from PDF provenance path only"
+    },
+    {
+      "path": ".score-sync/m2/score.svg",
+      "archive_path": ".score-sync/m2/score.svg.gz",
+      "bytes": 7293940,
+      "sha256": "cd2b2ab47dfad5228154f47dc71c5cad40ddd8eacbc75598521683cd048de6b0",
+      "compressed": true
+    },
+    {
+      "path": ".score-sync/m2/geometry.json",
+      "archive_path": ".score-sync/m2/geometry.json.gz",
+      "bytes": 2294795,
+      "sha256": "d7d3f6b24d78af3bf877770ab3015ac654af9f089c675892da1e8022239937be",
+      "compressed": true
+    },
+    {
+      "path": ".score-sync/m2/alignment.json",
+      "archive_path": ".score-sync/m2/alignment.json.gz",
+      "bytes": 2033707,
+      "sha256": "f6dbd31f8b841680a3759ca999acc9b98e3129ac7f873ba34b3aa1329481798a",
+      "compressed": true
+    },
+    {
+      "path": ".score-sync/m2/audio.json",
+      "archive_path": ".score-sync/m2/audio.json",
+      "bytes": 1019,
+      "sha256": "511e415070be370f9576b84b2e4cc0181a79b9758b556ede9701e98c578bde1d",
+      "compressed": false
+    },
+    {
+      "path": ".score-sync/m2/labels.json",
+      "archive_path": ".score-sync/m2/labels.json",
+      "bytes": 303,
+      "sha256": "caf2b39dd2e400fd72b0c2bf0c18a0960f434e1c67f63825fcdee7f55580e3c5",
+      "compressed": false
+    },
+    {
+      "path": ".score-sync/m2/materials.json",
+      "archive_path": ".score-sync/m2/materials.json",
+      "bytes": 22081,
+      "sha256": "7444d1bed671a678668a430158eac0f78132484207ea447a737182bf7b5eb6cd",
+      "compressed": false
+    },
+    {
+      "path": ".score-sync/m2/structure.json",
+      "archive_path": ".score-sync/m2/structure.json",
+      "bytes": 4231,
+      "sha256": "4d6498e0f1213bcb435f49ecde35c55c7042e2830dcab2f09b1143cbb13c5161",
+      "compressed": false
+    },
+    {
+      "path": "derived/m2.musicxml",
+      "archive_path": "derived/m2.musicxml.gz",
+      "bytes": 3359137,
+      "sha256": "ad0d4bbdf80618c9b24d4cd58980cba25f025ef05b33d2faf443e1d38e7a2611",
+      "compressed": true
+    },
+    {
+      "path": ".score-sync/m3/score.json",
+      "archive_path": ".score-sync/m3/score.json.gz",
+      "bytes": 13171883,
+      "sha256": "a57ab17c44e83339e2d0f4ec08612ffbfd2e8b02c081b12c81b890f43f97e538",
+      "compressed": true,
+      "original_sha256": "c98cdb03ab371b44c06e3124f7183aceae86995d128bff62dd3684a27c94c114",
+      "portability_change": "Absolute project prefix removed from PDF provenance path only"
+    },
+    {
+      "path": ".score-sync/m3/score.svg",
+      "archive_path": ".score-sync/m3/score.svg.gz",
+      "bytes": 20368223,
+      "sha256": "c1006b8c8c90eade043f242817debd35f0890c81d1faad6cc66e3969a42ef9ec",
+      "compressed": true
+    },
+    {
+      "path": ".score-sync/m3/geometry.json",
+      "archive_path": ".score-sync/m3/geometry.json.gz",
+      "bytes": 7139779,
+      "sha256": "feb3f53e2becf9d974364f88b512b3dcd5bbca0c786a46837047871859fb81b5",
+      "compressed": true
+    },
+    {
+      "path": ".score-sync/m3/alignment.json",
+      "archive_path": ".score-sync/m3/alignment.json.gz",
+      "bytes": 5818538,
+      "sha256": "978b664eaf1b5439378a16324c09e416557d2f819755ced9703fd546a27be0c6",
+      "compressed": true
+    },
+    {
+      "path": ".score-sync/m3/audio.json",
+      "archive_path": ".score-sync/m3/audio.json",
+      "bytes": 1016,
+      "sha256": "f454ba38f0cb6c1b85b839baf9585ebea18853132710f63d5d07301196eb8ef8",
+      "compressed": false
+    },
+    {
+      "path": ".score-sync/m3/labels.json",
+      "archive_path": ".score-sync/m3/labels.json",
+      "bytes": 285,
+      "sha256": "0d509b575bb3792fe60bbbe8319e6c24a4e142f92dc51b0a4cad71e4366b1a78",
+      "compressed": false
+    },
+    {
+      "path": ".score-sync/m3/materials.json",
+      "archive_path": ".score-sync/m3/materials.json",
+      "bytes": 89998,
+      "sha256": "e6e1e1856125cc64ef9a3b5da1a8d15d09431a061facb82788767a503ce621be",
+      "compressed": false
+    },
+    {
+      "path": ".score-sync/m3/structure.json",
+      "archive_path": ".score-sync/m3/structure.json",
+      "bytes": 5753,
+      "sha256": "be52489b8b90ec04f33a1411ce5a72ea4ab5f2110db300bb59e2c4faddf081e6",
+      "compressed": false
+    },
+    {
+      "path": "derived/m3.musicxml",
+      "archive_path": "derived/m3.musicxml.gz",
+      "bytes": 6564685,
+      "sha256": "1f4d53fd3f4686c35118286f9503456e30821c174e6c227c078249e07d79645e",
+      "compressed": true
+    },
+    {
+      "path": ".score-sync/m4/score.json",
+      "archive_path": ".score-sync/m4/score.json.gz",
+      "bytes": 16346199,
+      "sha256": "78e2504528088f8de8111e897bd7df1049afb3a10bea7c13da1f653ea2c0fadf",
+      "compressed": true,
+      "original_sha256": "25e1642b0f7475b3d6faf5decc869c974ecaaeeb535242c4b79c08b38f6c163d",
+      "portability_change": "Absolute project prefix removed from PDF provenance path only"
+    },
+    {
+      "path": ".score-sync/m4/score.svg",
+      "archive_path": ".score-sync/m4/score.svg.gz",
+      "bytes": 22692141,
+      "sha256": "17aecf4f8df6efa5ff882e0e53167402a180904cbc775d3ae163c7b298862492",
+      "compressed": true
+    },
+    {
+      "path": ".score-sync/m4/geometry.json",
+      "archive_path": ".score-sync/m4/geometry.json.gz",
+      "bytes": 8007233,
+      "sha256": "f0943f83ae864d0f99c1d750db2a1c4a023368ee75ca043b7357c293d6657789",
+      "compressed": true
+    },
+    {
+      "path": ".score-sync/m4/alignment.json",
+      "archive_path": ".score-sync/m4/alignment.json.gz",
+      "bytes": 7236463,
+      "sha256": "1c393eca6b0b59b95a45ad2b67c6a46871c2482a8e02276f8d7fa4e4ffdcc2be",
+      "compressed": true
+    },
+    {
+      "path": ".score-sync/m4/audio.json",
+      "archive_path": ".score-sync/m4/audio.json",
+      "bytes": 1025,
+      "sha256": "fb0a4557e9fad2dc930bf9a82eeba67d610bd70e13c9151f44e5ce665c37fb9a",
+      "compressed": false
+    },
+    {
+      "path": ".score-sync/m4/labels.json",
+      "archive_path": ".score-sync/m4/labels.json",
+      "bytes": 285,
+      "sha256": "0d509b575bb3792fe60bbbe8319e6c24a4e142f92dc51b0a4cad71e4366b1a78",
+      "compressed": false
+    },
+    {
+      "path": ".score-sync/m4/materials.json",
+      "archive_path": ".score-sync/m4/materials.json",
+      "bytes": 12439,
+      "sha256": "9352c7cc16be295be05d8e2460cdc5386fb09f08f73cad57acce3f4af1330908",
+      "compressed": false
+    },
+    {
+      "path": ".score-sync/m4/structure.json",
+      "archive_path": ".score-sync/m4/structure.json",
+      "bytes": 6016,
+      "sha256": "1076eb07bc6922044b3bc791215e646ef4ba3570f805a7594838fbedd74ff397",
+      "compressed": false
+    },
+    {
+      "path": "derived/m4.musicxml",
+      "archive_path": "derived/m4.musicxml.gz",
+      "bytes": 8554786,
+      "sha256": "4a11f36ee38fa4fa87c0e636e68ab5583fe96aef448faf22288db91804ac9e4c",
+      "compressed": true
+    },
+    {
+      "path": "project.json",
+      "archive_path": "project.json",
+      "bytes": 32558,
+      "sha256": "c319ade68a1973de2a3f77bbc97b09263e1f2cb6b08163f2f19c39907857a63a",
+      "compressed": false
+    },
+    {
+      "path": "code/build_reference_cover.py",
+      "archive_path": "code/build_reference_cover.py",
+      "bytes": 1597,
+      "sha256": "61c19617122af486f5ccf800286e679aa0a7cb8ada28239a7fb9e1e0c1bc01fa",
+      "compressed": false
+    },
+    {
+      "path": "sources.json",
+      "archive_path": "sources.json",
+      "bytes": 2682,
+      "sha256": "54ff4c0362016ee31b323666a1fe8182fc26a436ef39cb61491c5649e73a5666",
+      "compressed": false
+    },
+    {
+      "path": "delivery-record.json",
+      "archive_path": "delivery-record.json",
+      "bytes": 2967,
+      "sha256": "11f7829979d4dc747fe23f03b009f8708890ff6a4ab0a9c08ab57c3c292a55b2",
+      "compressed": false
+    },
+    {
+      "path": "cover-parameters.json",
+      "archive_path": "cover-parameters.json",
+      "bytes": 706,
+      "sha256": "03c36d800a3a37cc31771fb497d83b3280501ec149229e47da3145b31046d364",
+      "compressed": false
+    }
+  ]
+}

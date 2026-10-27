@@ -1,0 +1,76 @@
+{
+  "recording": {
+    "title": "第七交响曲",
+    "composer": "路德维希 范 贝多芬",
+    "number": 7,
+    "performer": "Teodor Currentzis",
+    "ensemble": "musicAeterna"
+  },
+  "tracks": [
+    {
+      "movement": "m1",
+      "tags": {
+        "Label": "Sony Classical",
+        "TITLE": "Symphony No. 7 in A Major, Op. 92: I. Poco sostenuto",
+        "ARTIST": "Teodor Currentzis",
+        "ALBUM": "Beethoven: Symphony No. 7 in A Major, Op. 92",
+        "DATE": "2021",
+        "GENRE": "Classical",
+        "COMPOSER": "Ludwig van Beethoven",
+        "COPYRIGHT": "2021 Sony Music Entertainment",
+        "track": "1",
+        "album_artist": "Teodor Currentzis",
+        "CONDUCTOR": "Teodor Currentzis"
+      }
+    },
+    {
+      "movement": "m2",
+      "tags": {
+        "Label": "Sony Classical",
+        "TITLE": "Symphony No. 7 in A Major, Op. 92: II. Allegretto",
+        "ARTIST": "Teodor Currentzis",
+        "ALBUM": "Beethoven: Symphony No. 7 in A Major, Op. 92",
+        "DATE": "2021",
+        "GENRE": "Classical",
+        "COMPOSER": "Ludwig van Beethoven",
+        "COPYRIGHT": "2021 Sony Music Entertainment",
+        "track": "2",
+        "album_artist": "Teodor Currentzis",
+        "CONDUCTOR": "Teodor Currentzis"
+      }
+    },
+    {
+      "movement": "m3",
+      "tags": {
+        "Label": "Sony Classical",
+        "TITLE": "Symphony No. 7 in A Major, Op. 92: III. Presto",
+        "ARTIST": "Teodor Currentzis",
+        "ALBUM": "Beethoven: Symphony No. 7 in A Major, Op. 92",
+        "DATE": "2021",
+        "GENRE": "Classical",
+        "COMPOSER": "Ludwig van Beethoven",
+        "COPYRIGHT": "2021 Sony Music Entertainment",
+        "track": "3",
+        "album_artist": "Teodor Currentzis",
+        "CONDUCTOR": "Teodor Currentzis"
+      }
+    },
+    {
+      "movement": "m4",
+      "tags": {
+        "Label": "Sony Classical",
+        "TITLE": "Symphony No. 7 in A Major, Op. 92: IV. Allegro con brio",
+        "ARTIST": "Teodor Currentzis",
+        "ALBUM": "Beethoven: Symphony No. 7 in A Major, Op. 92",
+        "DATE": "2021",
+        "GENRE": "Classical",
+        "COMPOSER": "Ludwig van Beethoven",
+        "COPYRIGHT": "2021 Sony Music Entertainment",
+        "track": "4",
+        "album_artist": "Teodor Currentzis",
+        "CONDUCTOR": "Teodor Currentzis"
+      }
+    }
+  ],
+  "audio_files_included": false
+}

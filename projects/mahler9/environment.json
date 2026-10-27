@@ -1,0 +1,13 @@
+{
+  "python": "Python 3.14.7",
+  "node": "v26.7.0",
+  "ffmpeg": "ffmpeg version 9.0.1 Copyright (c) 2000-2026 the FFmpeg developers",
+  "ffprobe": "ffprobe version 9.0.1 Copyright (c) 2007-2026 the FFmpeg developers",
+  "chrome": "Google Chrome 155.0.8059.85 ",
+  "os": "macOS-15.7.7-arm64-arm-64bit-Mach-O",
+  "python_packages": {
+    "numpy": "2.5.3",
+    "scipy": "1.18.1",
+    "Pillow": "12.3.0"
+  }
+}

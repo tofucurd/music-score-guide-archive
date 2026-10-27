@@ -1,0 +1,21 @@
+{
+  "schema": 1,
+  "revision": "palette-02",
+  "meaning": "Authoritative presentation colours, separate from reviewed source identities and original activity colours",
+  "roles": {"primary": "#16248A", "secondary": "#5D6404", "tertiary": "#602C00"},
+  "movements": {
+    "m1": {"subject": "primary", "cs1": "secondary", "cs2": "tertiary"},
+    "m2": {"head": "primary", "second": "secondary"},
+    "m3": {"main": "primary", "counter": "secondary"},
+    "m4": {"march_subject": "primary", "march_counter": "secondary", "freude": "primary", "seid": "secondary", "running": "tertiary"}
+  },
+  "preserved_colours": {
+    "ordinary_active_and_soprano": "#C94732",
+    "alto": "#AA7200",
+    "tenor": "#27835D",
+    "bass_and_existing_purple_activity": "#8650B6",
+    "merged_vocal_roles": "#A34878",
+    "cursor_and_navigation": "#287D9F"
+  },
+  "policy": "Only material resting ink and matching theme badges use these colours. Activity targets and envelopes, voices, cursor and navigation remain unchanged. Old palette fields in source maps are historical source-map metadata, overridden only in the presentation layer."
+}

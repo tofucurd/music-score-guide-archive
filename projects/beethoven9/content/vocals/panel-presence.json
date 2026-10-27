@@ -1,0 +1,341 @@
+{
+  "scope": "Screen-space reservation only; no source run/phrase/role changes",
+  "gap_join_seconds": null,
+  "entry_lead_seconds": 1.4,
+  "fully_clear_before_onset_seconds": 0.2,
+  "wait_for_existing_body_exit_seconds": 0,
+  "paper_exit_seconds": 0.85,
+  "source_run_count": 80,
+  "unmerged_union_intervals": [
+    {
+      "start": 417.37,
+      "end": 463.98,
+      "source_runs": [
+        "P41:1-run-1"
+      ]
+    },
+    {
+      "start": 467.24,
+      "end": 510.7,
+      "source_runs": [
+        "P41:1-run-2",
+        "P47:1-run-1",
+        "P43:1-run-1",
+        "P44:1-run-1",
+        "P47:1-run-2"
+      ]
+    },
+    {
+      "start": 517.06,
+      "end": 556.25,
+      "source_runs": [
+        "P39:1-run-1",
+        "P40:1-run-1",
+        "P41:1-run-3",
+        "P38:1-run-1",
+        "P47:1-run-3",
+        "P42:1-run-1",
+        "P43:1-run-2",
+        "P44:1-run-2"
+      ]
+    },
+    {
+      "start": 561.93,
+      "end": 630.4045351473923,
+      "source_runs": [
+        "P40:1-run-2",
+        "P41:1-run-4",
+        "P39:1-run-2",
+        "P38:1-run-2",
+        "P42:1-run-2",
+        "P43:1-run-3",
+        "P44:1-run-3",
+        "P47:1-run-4"
+      ]
+    },
+    {
+      "start": 679.75,
+      "end": 737.24,
+      "source_runs": [
+        "P40:1-run-3",
+        "P45:1-run-1",
+        "P46:1-run-1",
+        "P47:1-run-5"
+      ]
+    },
+    {
+      "start": 853.19,
+      "end": 902.24,
+      "source_runs": [
+        "P42:1-run-3",
+        "P43:1-run-4",
+        "P44:1-run-4",
+        "P47:1-run-6"
+      ]
+    },
+    {
+      "start": 909.94,
+      "end": 1022.97,
+      "source_runs": [
+        "P44:1-run-5",
+        "P47:1-run-7",
+        "P42:1-run-4",
+        "P43:1-run-5",
+        "P42:1-run-5",
+        "P43:1-run-6"
+      ]
+    },
+    {
+      "start": 1046.5,
+      "end": 1118.58,
+      "source_runs": [
+        "P42:1-run-6",
+        "P43:1-run-7",
+        "P44:1-run-6",
+        "P47:1-run-8"
+      ]
+    },
+    {
+      "start": 1133.8,
+      "end": 1308.67,
+      "source_runs": [
+        "P42:1-run-7",
+        "P43:1-run-8",
+        "P44:1-run-7",
+        "P47:1-run-9",
+        "P44:1-run-8",
+        "P47:1-run-10",
+        "P44:1-run-9",
+        "P43:1-run-9",
+        "P42:1-run-8",
+        "P44:1-run-10",
+        "P47:1-run-11"
+      ]
+    },
+    {
+      "start": 1312.87,
+      "end": 1318.55,
+      "source_runs": [
+        "P40:1-run-4",
+        "P41:1-run-5",
+        "P38:1-run-3",
+        "P39:1-run-3"
+      ]
+    },
+    {
+      "start": 1324.07,
+      "end": 1387.12,
+      "source_runs": [
+        "P38:1-run-4",
+        "P39:1-run-4",
+        "P41:1-run-6",
+        "P40:1-run-5",
+        "P41:1-run-7",
+        "P42:1-run-9",
+        "P43:1-run-10",
+        "P44:1-run-11",
+        "P47:1-run-12"
+      ]
+    },
+    {
+      "start": 1390.4,
+      "end": 1468.16,
+      "source_runs": [
+        "P42:1-run-10",
+        "P43:1-run-11",
+        "P44:1-run-12",
+        "P47:1-run-13",
+        "P38:1-run-5",
+        "P39:1-run-5",
+        "P40:1-run-6",
+        "P41:1-run-8"
+      ]
+    },
+    {
+      "start": 1478.51,
+      "end": 1558.26,
+      "source_runs": [
+        "P42:1-run-11",
+        "P43:1-run-12",
+        "P44:1-run-13",
+        "P47:1-run-14"
+      ]
+    }
+  ],
+  "windows": [
+    {
+      "start": 417.37,
+      "end": 630.4045351473923,
+      "source_runs": [
+        "P41:1-run-1",
+        "P41:1-run-2",
+        "P47:1-run-1",
+        "P43:1-run-1",
+        "P44:1-run-1",
+        "P47:1-run-2",
+        "P39:1-run-1",
+        "P40:1-run-1",
+        "P41:1-run-3",
+        "P38:1-run-1",
+        "P47:1-run-3",
+        "P42:1-run-1",
+        "P43:1-run-2",
+        "P44:1-run-2",
+        "P40:1-run-2",
+        "P41:1-run-4",
+        "P39:1-run-2",
+        "P38:1-run-2",
+        "P42:1-run-2",
+        "P43:1-run-3",
+        "P44:1-run-3",
+        "P47:1-run-4"
+      ],
+      "bridged_gaps": [
+        [
+          463.98,
+          467.24
+        ],
+        [
+          510.7,
+          517.06
+        ],
+        [
+          556.25,
+          561.93
+        ]
+      ],
+      "id": "panel-1",
+      "enter_start": 415.97,
+      "enter_end": 417.17,
+      "exit_start": 630.4045351473923,
+      "exit_end": 631.2545351473923
+    },
+    {
+      "start": 679.75,
+      "end": 737.24,
+      "source_runs": [
+        "P40:1-run-3",
+        "P45:1-run-1",
+        "P46:1-run-1",
+        "P47:1-run-5"
+      ],
+      "bridged_gaps": [],
+      "id": "panel-2",
+      "enter_start": 678.35,
+      "enter_end": 679.55,
+      "exit_start": 737.24,
+      "exit_end": 738.09
+    },
+    {
+      "start": 853.19,
+      "end": 1022.97,
+      "source_runs": [
+        "P42:1-run-3",
+        "P43:1-run-4",
+        "P44:1-run-4",
+        "P47:1-run-6",
+        "P44:1-run-5",
+        "P47:1-run-7",
+        "P42:1-run-4",
+        "P43:1-run-5",
+        "P42:1-run-5",
+        "P43:1-run-6"
+      ],
+      "bridged_gaps": [
+        [
+          902.24,
+          909.94
+        ]
+      ],
+      "id": "panel-3",
+      "enter_start": 851.7900000000001,
+      "enter_end": 852.99,
+      "exit_start": 1022.97,
+      "exit_end": 1023.82
+    },
+    {
+      "start": 1046.5,
+      "end": 1558.26,
+      "source_runs": [
+        "P42:1-run-6",
+        "P43:1-run-7",
+        "P44:1-run-6",
+        "P47:1-run-8",
+        "P42:1-run-7",
+        "P43:1-run-8",
+        "P44:1-run-7",
+        "P47:1-run-9",
+        "P44:1-run-8",
+        "P47:1-run-10",
+        "P44:1-run-9",
+        "P43:1-run-9",
+        "P42:1-run-8",
+        "P44:1-run-10",
+        "P47:1-run-11",
+        "P40:1-run-4",
+        "P41:1-run-5",
+        "P38:1-run-3",
+        "P39:1-run-3",
+        "P38:1-run-4",
+        "P39:1-run-4",
+        "P41:1-run-6",
+        "P40:1-run-5",
+        "P41:1-run-7",
+        "P42:1-run-9",
+        "P43:1-run-10",
+        "P44:1-run-11",
+        "P47:1-run-12",
+        "P42:1-run-10",
+        "P43:1-run-11",
+        "P44:1-run-12",
+        "P47:1-run-13",
+        "P38:1-run-5",
+        "P39:1-run-5",
+        "P40:1-run-6",
+        "P41:1-run-8",
+        "P42:1-run-11",
+        "P43:1-run-12",
+        "P44:1-run-13",
+        "P47:1-run-14"
+      ],
+      "bridged_gaps": [
+        [
+          1118.58,
+          1133.8
+        ],
+        [
+          1308.67,
+          1312.87
+        ],
+        [
+          1318.55,
+          1324.07
+        ],
+        [
+          1387.12,
+          1390.4
+        ],
+        [
+          1468.16,
+          1478.51
+        ]
+      ],
+      "id": "panel-4",
+      "enter_start": 1045.1,
+      "enter_end": 1046.3,
+      "exit_start": 1558.26,
+      "exit_end": 1559.11
+    }
+  ],
+  "minimum_fully_absent_seconds": 15.0,
+  "minimum_source_gap_to_close_seconds": 17.25,
+  "policy": "Close only if next onset minus last voice end >=15.0+0.85+1.4 seconds",
+  "policy_source": "content/vocals/panel-policy.json",
+  "entry_slide_seconds": 1.2,
+  "mode": "horizontal_quintic_slide",
+  "x_edges": [
+    3840,
+    2620
+  ],
+  "soft_edge_width": 80
+}

@@ -1,0 +1,72 @@
+{
+  "external_files": [
+    {
+      "kind": "audio",
+      "movement": "m1",
+      "path": "materials/audio/m1.flac",
+      "original_filename": "01. I. Allegro ma non troppo, un poco maestoso.flac",
+      "sha256": "bbc884f61f45c2d855fc68744ec29765a01e4beefbe823c72ac94df8d18b4b88",
+      "bytes": 74286216,
+      "sample_rate": 44100,
+      "bits": 16,
+      "channels": 2,
+      "prepared_samples": 44585100,
+      "trim_seconds": [
+        5.0,
+        1016.0
+      ],
+      "acquisition": "Supply the identical licensed Tennstedt / LPO live 8 October 1992 recording; audio is not distributed."
+    },
+    {
+      "kind": "audio",
+      "movement": "m2",
+      "path": "materials/audio/m2.flac",
+      "original_filename": "02. II. Molto vivace.flac",
+      "sha256": "18705c58ad7f93a367eaa32f813d0f8d92cd8d45981a4c5b802ace6ed2e313a3",
+      "bytes": 40790546,
+      "sample_rate": 44100,
+      "bits": 16,
+      "channels": 2,
+      "prepared_samples": 25004700,
+      "trim_seconds": null,
+      "acquisition": "Supply the identical licensed Tennstedt / LPO live 8 October 1992 recording; audio is not distributed."
+    },
+    {
+      "kind": "audio",
+      "movement": "m3",
+      "path": "materials/audio/m3.flac",
+      "original_filename": "03. III. Adagio molto e cantabile.flac",
+      "sha256": "f14f82910033a353624dcd12ab736da5d01da9508d31ca25535fe3a7f072ea52",
+      "bytes": 69810381,
+      "sample_rate": 44100,
+      "bits": 16,
+      "channels": 2,
+      "prepared_samples": 49436100,
+      "trim_seconds": null,
+      "acquisition": "Supply the identical licensed Tennstedt / LPO live 8 October 1992 recording; audio is not distributed."
+    },
+    {
+      "kind": "audio",
+      "movement": "m4",
+      "path": "materials/audio/m4.flac",
+      "original_filename": "04. IV. Presto.flac",
+      "sha256": "312383037e864f84e962491b033b30fe7c1727487b1c0d304de3f51f094fd538",
+      "bytes": 118209941,
+      "sample_rate": 44100,
+      "bits": 16,
+      "channels": 2,
+      "prepared_samples": 71089200,
+      "trim_seconds": null,
+      "acquisition": "Supply the identical licensed Tennstedt / LPO live 8 October 1992 recording; audio is not distributed."
+    },
+    {
+      "kind": "pdf",
+      "path": "materials/pdf/full-score.pdf",
+      "original_filename": "IMSLP516486-PMLP1607-Beethoven_Breitkopf_Serie_1_Band_3_B_9_1_(etc).pdf",
+      "sha256": "8cbf91e4eb1c552ea1252c57d522824812b18a33b76a11675d0e0245524bc74f",
+      "bytes": 47612465,
+      "required_for_frozen_render": false,
+      "acquisition": "IMSLP Breitkopf full score; original reference PDF is external."
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "all_92_sections_present": true,
+  "failures": [],
+  "movements": [
+    {
+      "movement": 1,
+      "source_notes": 20480,
+      "visible_native_heads": 20463,
+      "source_sections": 31,
+      "layout_checks": 93,
+      "source_ties": 1598,
+      "colored_tie_extended_notes": 1233,
+      "failures": []
+    },
+    {
+      "movement": 2,
+      "source_notes": 17917,
+      "visible_native_heads": 17916,
+      "source_sections": 24,
+      "layout_checks": 72,
+      "source_ties": 253,
+      "colored_tie_extended_notes": 296,
+      "failures": []
+    },
+    {
+      "movement": 3,
+      "source_notes": 22272,
+      "visible_native_heads": 22264,
+      "source_sections": 20,
+      "layout_checks": 60,
+      "source_ties": 429,
+      "colored_tie_extended_notes": 489,
+      "failures": []
+    },
+    {
+      "movement": 4,
+      "source_notes": 5948,
+      "visible_native_heads": 5947,
+      "source_sections": 17,
+      "layout_checks": 51,
+      "source_ties": 230,
+      "colored_tie_extended_notes": 654,
+      "failures": []
+    }
+  ],
+  "source_note_count": 66617,
+  "scope": "Every source note/native mapping and each complete sounding section including explicit tie continuation; three layout samples per section. This does not replace all-frame connector/label or actual encoded visual review."
+}

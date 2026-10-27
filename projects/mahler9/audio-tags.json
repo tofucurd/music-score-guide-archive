@@ -1,0 +1,71 @@
+{
+  "recording": {
+    "composer": "Gustav Mahler",
+    "work": "Symphony No.9",
+    "conductor": "Bruno Walter",
+    "orchestra": "Columbia Symphony Orchestra"
+  },
+  "tracks": [
+    {
+      "movement": 1,
+      "original_filename": "1st Movement Andante Comodo.dsf",
+      "source_sha256": "9902aa44971dbb2926277136be7cad70c833afe028e7b42a2add187a95394093",
+      "channels": 2,
+      "native_dsd_rate": 5644800,
+      "tags": {
+        "album": "Symphony No. 9",
+        "artist": "Gustav Mahler",
+        "title": "1st Movement: Andante Comodo",
+        "genre": "Romantic",
+        "album_artist": "Bruno Walter/The Columbia Symphony Orchestra",
+        "date": "1962"
+      }
+    },
+    {
+      "movement": 2,
+      "original_filename": "2nd Movement Im Tempo Eines Gemächlichen Ländlers.dsf",
+      "source_sha256": "3a0330e65985bcce737d59a54e85776b9c138dd973a1d0f5bb1e863e5259f138",
+      "channels": 2,
+      "native_dsd_rate": 5644800,
+      "tags": {
+        "album": "Symphony No. 9",
+        "artist": "Gustav Mahler",
+        "title": "2nd Movement: Im Tempo Eines Gemächlichen Ländlers",
+        "genre": "Romantic",
+        "album_artist": "Bruno Walter/The Columbia Symphony Orchestra",
+        "date": "1962"
+      }
+    },
+    {
+      "movement": 3,
+      "original_filename": "3rd Movement Rondo Burleske.dsf",
+      "source_sha256": "af3b5797e3b5e2169e2bdaeffe8d66b49404d1e8729ce5a5f0259cf745f6480f",
+      "channels": 2,
+      "native_dsd_rate": 5644800,
+      "tags": {
+        "album": "Symphony No. 9",
+        "artist": "Gustav Mahler",
+        "title": "3rd Movement: Rondo: Burleske",
+        "genre": "Romantic",
+        "album_artist": "Bruno Walter/The Columbia Symphony Orchestra",
+        "date": "1962"
+      }
+    },
+    {
+      "movement": 4,
+      "original_filename": "4th Movement Adagio.dsf",
+      "source_sha256": "b2307c17ee9e00efdef42cad02324c10c2a293e77c1e1ef4dc0e5174e0121e5e",
+      "channels": 2,
+      "native_dsd_rate": 5644800,
+      "tags": {
+        "album": "Symphony No. 9",
+        "artist": "Gustav Mahler",
+        "title": "4th Movement: Adagio",
+        "genre": "Romantic",
+        "album_artist": "Bruno Walter/The Columbia Symphony Orchestra",
+        "date": "1962"
+      }
+    }
+  ],
+  "audio_files_included": false
+}

@@ -1,0 +1,22 @@
+{
+  "schema": 1,
+  "opening": {
+    "movement_id": "m1",
+    "movement_label": "第一乐章",
+    "duration_seconds": 1.13,
+    "initial_phase": 0.315,
+    "first_sounding_seconds": 1.18,
+    "alignment_sha256": "ce6d68ba21a0849d13b806f8ab74cf2e8c959108a1513b3f71d02204c3e9f7e4",
+    "method": "Cap the existing native staff weights with the reference quintic entrance; use the existing shared opacity and sqrt occupancy implementation. Return the unmodified native state at 1.13 seconds.",
+    "reference": "research/score-locators/review-01/transition-reference.json"
+  },
+  "movement_handoff": {
+    "method": "Existing score_sync.visual.render_program and movement_handoff, verified against the Beethoven VII final implementation",
+    "duration_seconds": 0.85,
+    "exit_seconds": 0.4,
+    "entry_seconds": 0.45,
+    "horizontal_displacement_pixels": 48,
+    "modify_existing_implementation": false
+  },
+  "audio_or_alignment_modified": false
+}

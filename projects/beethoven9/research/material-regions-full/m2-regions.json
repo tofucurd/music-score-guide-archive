@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "movement": 2,
+  "source_bindings": {
+    ".score-sync/m2/score.json": "99e52e2d90522a89a18223d53ed5e8ed41a2766191a7616d5fe929074899559f",
+    ".score-sync/m2/geometry.json": "4c682a7e6ea5b669f1e2497de5a95a1becf51f2e4b52adf191bd732832e9c300",
+    "derived/scores/movement-2.musicxml": "24c4f5595112e320da786a4bb03a7861e846875d9caa8754d33b13ecb119c245",
+    "materials/musicxml/beethoven-symphony-no-9-op-125.mxl": "630f7d526109e981ae24a1a215ef82d17af563cf93b299e924c26d1039f456a2",
+    "research/navigation-march-revision/Ho-2024-conductors-guide.pdf": "76fdafb40ee7761424933d28f558adc3806c6cf3164e1fc0b464fbe9bc32a039",
+    "research/material-regions-full/editorial-selection.json": "8e4f89892961571b97e7a5a5391fb34ed353beafc72a7820d506492cceb491eb",
+    "research/material-regions-full/phrase-completeness-03/complete-statements.json": "48e28b19e20d6fb7d43822a608ea7e0bd5ad29ad9234a90a253e8e96a839d165",
+    "research/material-regions-full/phrase-completeness-03/previous/m2-assignments.json": "74904a157072b86fabd058ed6a9370a2bc8386cc1847d368f43c29568ff7877d",
+    "research/material-regions-full/m2-assignments.json": "5eb6a0eb49f148e4dcdd9517ee4d68622380b05b8c5f26e0b0944ea9b8feab29"
+  },
+  "editorial_selection": {
+    "enabled": true,
+    "mode": "explicit_five_example_white_list",
+    "sections": [],
+    "automatic_recurrence_expansion": false,
+    "rule": "Only selected performed ranges. Real repeated occurrences of selected source material retain identity; written-out recapitulations are not enabled automatically."
+  },
+  "scope": {
+    "sections": []
+  },
+  "assignments": {},
+  "palette": {
+    "head": "#7D3828",
+    "second": "#59377D"
+  },
+  "short_names": {
+    "head": "谐谑曲头动机",
+    "second": "第二主题"
+  },
+  "regions": [],
+  "shared_staff_neutral_intervals": [],
+  "vocal_phrase_themes": [],
+  "counts": {
+    "regions": 0,
+    "line_neutral_intervals": 0,
+    "note_assignments_retained_in_shared_conflict": 0,
+    "badges": 0
+  },
+  "policy": "v2 only; original active highlights/voice UI untouched; no paper rims, filters or boxes. Outside editorial white list no material behavior."
+}

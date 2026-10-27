@@ -1,0 +1,48 @@
+{
+  "job_id": "b9-final-c0a761ab60a91348",
+  "bytes": 13416414274,
+  "sha256": "a4c626f4152af4e30582112cb9963406d941b551ef02b677ff7300f5a60a877b",
+  "frames": 258660,
+  "duration_seconds": 4311.0,
+  "audio": {
+    "sample_rate": 44100,
+    "bits": 16,
+    "channels": 2,
+    "samples": 190115100,
+    "codec": "pcm_s16le",
+    "sha256_pcm_s16": "d14afbf201e542ede57593ccd80cdbe44c5e28afe0edc42574bd9ef471173d9e",
+    "chapters": [
+      {
+        "id": "m1",
+        "title": "第一乐章",
+        "start_sample": 0,
+        "end_sample": 44585100
+      },
+      {
+        "id": "m2",
+        "title": "第二乐章",
+        "start_sample": 44585100,
+        "end_sample": 69589800
+      },
+      {
+        "id": "m3",
+        "title": "第三乐章",
+        "start_sample": 69589800,
+        "end_sample": 119025900
+      },
+      {
+        "id": "m4",
+        "title": "第四乐章",
+        "start_sample": 119025900,
+        "end_sample": 190115100
+      }
+    ],
+    "no_added_gap": true,
+    "resampled": false
+  },
+  "four_embedded_chapters": true,
+  "video_stream_copied": true,
+  "source_ready_sha256": "53af537b7ae8a04207663323843acd90ea3087ce380ff7c70ecceab8349fd394",
+  "source_alignment_recomputed": false,
+  "translation": "恢复钱译之前的三人复核译文850e0789，全部67键"
+}

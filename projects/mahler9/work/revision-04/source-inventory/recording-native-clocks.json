@@ -1,0 +1,135 @@
+{
+  "created_utc": "2026-10-06T21:21:34.246127+00:00",
+  "records": [
+    {
+      "movement": 1,
+      "path": "external/recordings/M1.dsf",
+      "source_sha256": "9902aa44971dbb2926277136be7cad70c833afe028e7b42a2add187a95394093",
+      "header_sha256": "4bc3584441aa62a12276608788deda8d3609927800c02e6c76ce69f61e92c63d",
+      "header_file_size": 2476027144,
+      "metadata_offset": 2474066012,
+      "channel_type": 2,
+      "channels": 2,
+      "native_DSD_one_bit_samples_per_second": 5644800,
+      "native_DSD_samples_per_channel": 9896240856,
+      "DSF_bit_order_field": 1,
+      "bit_order": "LSB-first",
+      "block_bytes_per_channel": 4096,
+      "data_payload_bytes_including_padding": 2474065920,
+      "valid_bytes_per_channel": 1237030107,
+      "padding_bytes_total": 5706,
+      "exact_duration_seconds": {
+        "numerator": 412343369,
+        "denominator": 235200
+      },
+      "duration_seconds_display": 1753.1605824829933,
+      "nominal_ffmpeg_byte_clock_rate": 705600,
+      "native_to_96k_rate_ratio": {
+        "numerator": 294,
+        "denominator": 5
+      },
+      "interpretation": "Native one-bit clock; FFmpeg byte-domain clock is /8. Output sample index mapping still needs decoder/filter delay and trimming evidence.",
+      "checks": "header/rational duration/container block padding identities only; no listening or decoding",
+      "original_filename": "1st Movement Andante Comodo.dsf"
+    },
+    {
+      "movement": 2,
+      "path": "external/recordings/M2.dsf",
+      "source_sha256": "3a0330e65985bcce737d59a54e85776b9c138dd973a1d0f5bb1e863e5259f138",
+      "header_sha256": "c80d8ccaebd4298ba406923df4127b36a8cf58bf604de0b89e022125eceb5b59",
+      "header_file_size": 1489300819,
+      "metadata_offset": 1487339612,
+      "channel_type": 2,
+      "channels": 2,
+      "native_DSD_one_bit_samples_per_second": 5644800,
+      "native_DSD_samples_per_channel": 5949350376,
+      "DSF_bit_order_field": 1,
+      "bit_order": "LSB-first",
+      "block_bytes_per_channel": 4096,
+      "data_payload_bytes_including_padding": 1487339520,
+      "valid_bytes_per_channel": 743668797,
+      "padding_bytes_total": 1926,
+      "exact_duration_seconds": {
+        "numerator": 247889599,
+        "denominator": 235200
+      },
+      "duration_seconds_display": 1053.9523767006804,
+      "nominal_ffmpeg_byte_clock_rate": 705600,
+      "native_to_96k_rate_ratio": {
+        "numerator": 294,
+        "denominator": 5
+      },
+      "interpretation": "Native one-bit clock; FFmpeg byte-domain clock is /8. Output sample index mapping still needs decoder/filter delay and trimming evidence.",
+      "checks": "header/rational duration/container block padding identities only; no listening or decoding",
+      "original_filename": "2nd Movement Im Tempo Eines Gemächlichen Ländlers.dsf"
+    },
+    {
+      "movement": 3,
+      "path": "external/recordings/M3.dsf",
+      "source_sha256": "af3b5797e3b5e2169e2bdaeffe8d66b49404d1e8729ce5a5f0259cf745f6480f",
+      "header_sha256": "ab52df4bbbe380537674311088fd2f92fd87cc4414e8e38986580c439b063278",
+      "header_file_size": 1109724425,
+      "metadata_offset": 1107763292,
+      "channel_type": 2,
+      "channels": 2,
+      "native_DSD_one_bit_samples_per_second": 5644800,
+      "native_DSD_samples_per_channel": 4431046120,
+      "DSF_bit_order_field": 1,
+      "bit_order": "LSB-first",
+      "block_bytes_per_channel": 4096,
+      "data_payload_bytes_including_padding": 1107763200,
+      "valid_bytes_per_channel": 553880765,
+      "padding_bytes_total": 1670,
+      "exact_duration_seconds": {
+        "numerator": 110776153,
+        "denominator": 141120
+      },
+      "duration_seconds_display": 784.978408446712,
+      "nominal_ffmpeg_byte_clock_rate": 705600,
+      "native_to_96k_rate_ratio": {
+        "numerator": 294,
+        "denominator": 5
+      },
+      "interpretation": "Native one-bit clock; FFmpeg byte-domain clock is /8. Output sample index mapping still needs decoder/filter delay and trimming evidence.",
+      "checks": "header/rational duration/container block padding identities only; no listening or decoding",
+      "original_filename": "3rd Movement Rondo Burleske.dsf"
+    },
+    {
+      "movement": 4,
+      "path": "external/recordings/M4.dsf",
+      "source_sha256": "b2307c17ee9e00efdef42cad02324c10c2a293e77c1e1ef4dc0e5174e0121e5e",
+      "header_sha256": "f3318696ec06390a46085183b67675163f5c35073f1adefad3ac48dd7bc30e8f",
+      "header_file_size": 1785826560,
+      "metadata_offset": 1783865436,
+      "channel_type": 2,
+      "channels": 2,
+      "native_DSD_one_bit_samples_per_second": 5644800,
+      "native_DSD_samples_per_channel": 7135454576,
+      "DSF_bit_order_field": 1,
+      "bit_order": "LSB-first",
+      "block_bytes_per_channel": 4096,
+      "data_payload_bytes_including_padding": 1783865344,
+      "valid_bytes_per_channel": 891931822,
+      "padding_bytes_total": 1700,
+      "exact_duration_seconds": {
+        "numerator": 445965911,
+        "denominator": 352800
+      },
+      "duration_seconds_display": 1264.0757114512471,
+      "nominal_ffmpeg_byte_clock_rate": 705600,
+      "native_to_96k_rate_ratio": {
+        "numerator": 294,
+        "denominator": 5
+      },
+      "interpretation": "Native one-bit clock; FFmpeg byte-domain clock is /8. Output sample index mapping still needs decoder/filter delay and trimming evidence.",
+      "checks": "header/rational duration/container block padding identities only; no listening or decoding",
+      "original_filename": "4th Movement Adagio.dsf"
+    }
+  ],
+  "new_audio_media_created": false,
+  "limitations": [
+    "No DSD decoding, amplitude/true-peak test, filtering/delay validation or audio audition.",
+    "FFmpeg source is fetched master reference, not a claim that installed binary matches that commit.",
+    "Do not count block padding as programme sound; exact declared sample count and conversion delay must govern conversion."
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "stage": "complete",
+  "revision": "sync-10",
+  "output": "output/曲谱同步-2160p-同步修正版.mov",
+  "fingerprint": "dbb3c9e07080e906523ce39e0442dc518dcd4529f7cd8807a55e8776455f69fe",
+  "frames": 144122,
+  "bytes": 5549277168,
+  "chapters": 4,
+  "sha256": "fd97abc1798da5f1ec194dac12ba1656fbcc659b750bca15891bb797e22026df",
+  "audio_encoded_packet_hash": "SHA256=b0ae4087aef3ebac488ad88483107d4d80fb402cac2ac64ef83ac462494115e8",
+  "alignment_correction": "Final IV open208<q<250 clock/note/tie correction is already frozen in .score-sync/m4/alignment.json",
+  "archive_scope": "Final full-render snapshot, without incremental old-chunk assembly dependency",
+  "recorded_streams": [
+    {
+      "codec_name": "hevc",
+      "profile": "Rext",
+      "codec_type": "video",
+      "width": 3840,
+      "height": 2160,
+      "pix_fmt": "yuv444p10le",
+      "color_range": "tv",
+      "color_space": "bt709",
+      "avg_frame_rate": "60/1",
+      "time_base": "1/15360",
+      "duration_ts": 36895232,
+      "duration": "2402.033333",
+      "nb_frames": "144122"
+    },
+    {
+      "codec_name": "alac",
+      "codec_type": "audio",
+      "sample_rate": "96000",
+      "channels": 2,
+      "avg_frame_rate": "0/0",
+      "time_base": "1/96000",
+      "duration_ts": 230594560,
+      "duration": "2402.026667",
+      "bits_per_raw_sample": "24",
+      "nb_frames": "56298"
+    },
+    {
+      "codec_name": "bin_data",
+      "codec_type": "data",
+      "avg_frame_rate": "0/0",
+      "time_base": "1/384000",
+      "duration_ts": 922378240,
+      "duration": "2402.026667",
+      "nb_frames": "4"
+    }
+  ],
+  "recorded_chapters": [
+    {
+      "id": 0,
+      "time_base": "1/384000",
+      "start": 0,
+      "start_time": "0.000000",
+      "end": 320691200,
+      "end_time": "835.133333",
+      "tags": {
+        "title": "第一乐章 稍持重地—活泼地"
+      }
+    },
+    {
+      "id": 1,
+      "time_base": "1/384000",
+      "start": 320691200,
+      "start_time": "835.133333",
+      "end": 510412800,
+      "end_time": "1329.200000",
+      "tags": {
+        "title": "第二乐章 小快板"
+      }
+    },
+    {
+      "id": 2,
+      "time_base": "1/384000",
+      "start": 510412800,
+      "start_time": "1329.200000",
+      "end": 707614720,
+      "end_time": "1842.746667",
+      "tags": {
+        "title": "第三乐章 急板"
+      }
+    },
+    {
+      "id": 3,
+      "time_base": "1/384000",
+      "start": 707614720,
+      "start_time": "1842.746667",
+      "end": 922378240,
+      "end_time": "2402.026667",
+      "tags": {
+        "title": "第四乐章 有活力的快板"
+      }
+    }
+  ],
+  "m4_alignment_sha256": "1c393eca6b0b59b95a45ad2b67c6a46871c2482a8e02276f8d7fa4e4ffdcc2be",
+  "m2_notation": "Current score.svg already contains notation09 hidden beams/slurs and Ob75 text correction",
+  "verification_scope": "Historical delivery/probe metadata retained; archive work did not execute playback, rendering, alignment, or tests"
+}

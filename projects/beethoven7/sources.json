@@ -1,0 +1,46 @@
+{
+  "external_files": [
+    {
+      "kind": "audio",
+      "path": "materials/audio/Teodor Currentzis - Beethoven_Symphony No. 7 in A Major, Op. 92 (2021) [24-96]/01. Symphony No. 7 in A Major, Op. 92- I. Poco sostenuto.flac",
+      "original_filename": "01. Symphony No. 7 in A Major, Op. 92- I. Poco sostenuto.flac",
+      "bytes": 250453438,
+      "sha256": "3492614880df38d2344add24b02316c1ddd3a762a361510061b62854899720fb",
+      "acquisition": "Obtain the identical licensed recording from its rights holder"
+    },
+    {
+      "kind": "pdf",
+      "path": "materials/pdf/IMSLP06800-Beethoven_-_Symphony_No.7_Mvt.I_(ed._Unger).pdf",
+      "original_filename": "IMSLP06800-Beethoven_-_Symphony_No.7_Mvt.I_(ed._Unger).pdf",
+      "bytes": 12182852,
+      "sha256": "77ab585d2e1d13509bb26836d90f002a5d3948f5e5f0e5ca011caf8aa147ce14",
+      "acquisition": "Obtain the identical IMSLP06800 Unger score PDF; filename identifies edition, SHA-256 identifies exact file"
+    },
+    {
+      "kind": "audio",
+      "path": "materials/audio/Teodor Currentzis - Beethoven_Symphony No. 7 in A Major, Op. 92 (2021) [24-96]/02. Symphony No. 7 in A Major, Op. 92- II. Allegretto.flac",
+      "original_filename": "02. Symphony No. 7 in A Major, Op. 92- II. Allegretto.flac",
+      "bytes": 133060615,
+      "sha256": "476e216a4dc969d9ec8685c5d4e6264c3ae601defc1671c1b3097d1d7867e16e",
+      "acquisition": "Obtain the identical licensed recording from its rights holder"
+    },
+    {
+      "kind": "audio",
+      "path": "materials/audio/Teodor Currentzis - Beethoven_Symphony No. 7 in A Major, Op. 92 (2021) [24-96]/03. Symphony No. 7 in A Major, Op. 92- III. Presto.flac",
+      "original_filename": "03. Symphony No. 7 in A Major, Op. 92- III. Presto.flac",
+      "bytes": 145923542,
+      "sha256": "465e9edc5190f5c88aab0833c63f58e31f85ee773b722d3875489b2f029b5171",
+      "acquisition": "Obtain the identical licensed recording from its rights holder"
+    },
+    {
+      "kind": "audio",
+      "path": "materials/audio/Teodor Currentzis - Beethoven_Symphony No. 7 in A Major, Op. 92 (2021) [24-96]/04. Symphony No. 7 in A Major, Op. 92- IV. Allegro con brio.flac",
+      "original_filename": "04. Symphony No. 7 in A Major, Op. 92- IV. Allegro con brio.flac",
+      "bytes": 173648287,
+      "sha256": "9bcbbf00da43d031165672cfab4722d9dbdc33a09cc2a84f5a852747752bcfbc",
+      "acquisition": "Obtain the identical licensed recording from its rights holder"
+    }
+  ],
+  "audio_policy": "Four original stereo 96000Hz/24bit FLAC tracks; no normalization, stretching or replacement release",
+  "snapshot_source": "Current .score-sync data; no engraving or alignment recomputation required"
+}

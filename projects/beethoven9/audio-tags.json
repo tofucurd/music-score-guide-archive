@@ -1,0 +1,52 @@
+{
+  "recording": {
+    "title": "第九交响曲",
+    "composer": "路德维希·凡·贝多芬",
+    "number": 9,
+    "performer": "克劳斯·滕施泰特",
+    "ensemble": "伦敦爱乐乐团与合唱团"
+  },
+  "tracks": [
+    {
+      "movement": "m1",
+      "tags": {
+        "title": "I. Allegro ma non troppo, un poco maestoso",
+        "artist": "London Philharmonic Orchestra, Klaus Tennstedt",
+        "album": "Beethoven Symphony No.9",
+        "track": "1/4",
+        "date": "1992"
+      }
+    },
+    {
+      "movement": "m2",
+      "tags": {
+        "title": "II. Molto vivace",
+        "artist": "London Philharmonic Orchestra, Klaus Tennstedt",
+        "album": "Beethoven Symphony No.9",
+        "track": "2/4",
+        "date": "1992"
+      }
+    },
+    {
+      "movement": "m3",
+      "tags": {
+        "title": "III. Adagio molto e cantabile",
+        "artist": "London Philharmonic Orchestra, Klaus Tennstedt",
+        "album": "Beethoven Symphony No.9",
+        "track": "3/4",
+        "date": "1992"
+      }
+    },
+    {
+      "movement": "m4",
+      "tags": {
+        "title": "IV. Presto",
+        "artist": "London Philharmonic Orchestra, Klaus Tennstedt",
+        "album": "Beethoven Symphony No.9",
+        "track": "4/4",
+        "date": "1992"
+      }
+    }
+  ],
+  "audio_files_included": false
+}

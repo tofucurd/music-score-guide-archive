@@ -1,0 +1,333 @@
+{
+  "reviewed": true,
+  "sections": [
+    {
+      "label": "主题呈示",
+      "start_q": 0.0,
+      "end_q": 150.0,
+      "children": [
+        {
+          "label": "A主题",
+          "start_q": 0.0,
+          "end_q": 96.0
+        },
+        {
+          "label": "B主题",
+          "start_q": 96.0,
+          "end_q": 150.0
+        }
+      ]
+    },
+    {
+      "label": "交替变奏",
+      "start_q": 150.0,
+      "end_q": 292.0,
+      "children": [
+        {
+          "label": "A主题第一变奏",
+          "start_q": 150.0,
+          "end_q": 238.0
+        },
+        {
+          "label": "B主题回归",
+          "start_q": 238.0,
+          "end_q": 292.0
+        }
+      ]
+    },
+    {
+      "label": "A主题发展",
+      "start_q": 292.0,
+      "end_q": 488.0,
+      "children": [
+        {
+          "label": "第二变奏",
+          "start_q": 292.0,
+          "end_q": 356.0
+        },
+        {
+          "label": "第三变奏",
+          "start_q": 356.0,
+          "end_q": 488.0
+        }
+      ]
+    },
+    {
+      "label": "尾声",
+      "start_q": 488.0,
+      "end_q": 710.0,
+      "children": [
+        {
+          "label": "号角插句",
+          "start_q": 488.0,
+          "end_q": 500.0
+        },
+        {
+          "label": "主题续展",
+          "start_q": 500.0,
+          "end_q": 548.0
+        },
+        {
+          "label": "号角再现",
+          "start_q": 548.0,
+          "end_q": 560.0
+        },
+        {
+          "label": "主题延展",
+          "start_q": 560.0,
+          "end_q": 632.0
+        },
+        {
+          "label": "收束",
+          "start_q": 632.0,
+          "end_q": 710.0
+        }
+      ]
+    }
+  ],
+  "draft_total_q": 710.0,
+  "source_route": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    35,
+    36,
+    37,
+    38,
+    39,
+    40,
+    41,
+    42,
+    43,
+    44,
+    45,
+    46,
+    47,
+    48,
+    49,
+    50,
+    51,
+    52,
+    53,
+    54,
+    55,
+    56,
+    57,
+    58,
+    59,
+    60,
+    61,
+    62,
+    63,
+    64,
+    65,
+    66,
+    67,
+    68,
+    69,
+    70,
+    71,
+    72,
+    73,
+    74,
+    75,
+    76,
+    77,
+    78,
+    79,
+    80,
+    81,
+    82,
+    83,
+    84,
+    85,
+    86,
+    87,
+    88,
+    89,
+    90,
+    91,
+    92,
+    93,
+    94,
+    95,
+    96,
+    97,
+    98,
+    99,
+    100,
+    101,
+    102,
+    103,
+    104,
+    105,
+    106,
+    107,
+    108,
+    109,
+    110,
+    111,
+    112,
+    113,
+    114,
+    115,
+    116,
+    117,
+    118,
+    119,
+    120,
+    121,
+    122,
+    123,
+    124,
+    125,
+    126,
+    127,
+    128,
+    129,
+    130,
+    131,
+    132,
+    133,
+    134,
+    135,
+    136,
+    137,
+    138,
+    139,
+    140,
+    141,
+    142,
+    143,
+    144,
+    145,
+    146,
+    147,
+    148,
+    149,
+    150,
+    151,
+    152,
+    153,
+    154,
+    155,
+    156,
+    157
+  ],
+  "evidence": "research/review-structure/structure-source-draft.json",
+  "note": "Research candidate. Verify against prepared score route and audition before production approval.",
+  "cohort_sections": [
+    {
+      "start_q": 0.0,
+      "end_q": 32.0
+    },
+    {
+      "start_q": 32.0,
+      "end_q": 64.0
+    },
+    {
+      "start_q": 64.0,
+      "end_q": 96.0
+    },
+    {
+      "start_q": 96.0,
+      "end_q": 120.0
+    },
+    {
+      "start_q": 120.0,
+      "end_q": 150.0
+    },
+    {
+      "start_q": 150.0,
+      "end_q": 182.0
+    },
+    {
+      "start_q": 182.0,
+      "end_q": 214.0
+    },
+    {
+      "start_q": 214.0,
+      "end_q": 238.0
+    },
+    {
+      "start_q": 238.0,
+      "end_q": 262.0
+    },
+    {
+      "start_q": 262.0,
+      "end_q": 292.0
+    },
+    {
+      "start_q": 292.0,
+      "end_q": 324.0
+    },
+    {
+      "start_q": 324.0,
+      "end_q": 356.0
+    },
+    {
+      "start_q": 356.0,
+      "end_q": 404.0
+    },
+    {
+      "start_q": 404.0,
+      "end_q": 452.0
+    },
+    {
+      "start_q": 452.0,
+      "end_q": 488.0
+    },
+    {
+      "start_q": 488.0,
+      "end_q": 560.0
+    },
+    {
+      "start_q": 560.0,
+      "end_q": 608.0
+    },
+    {
+      "start_q": 608.0,
+      "end_q": 632.0
+    },
+    {
+      "start_q": 632.0,
+      "end_q": 680.0
+    },
+    {
+      "start_q": 680.0,
+      "end_q": 710.0
+    }
+  ],
+  "review_scope": "Source thematic/tempo/form sequence and performed-route projection checked; actual timing boundaries and animated appearance are still subject to alignment and preview review."
+}

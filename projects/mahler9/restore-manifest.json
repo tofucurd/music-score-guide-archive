@@ -1,0 +1,433 @@
+{
+  "files": [
+    {
+      "path": "work/score-sync-02/render_full.py",
+      "archive_path": "work/score-sync-02/render_full.py",
+      "bytes": 11065,
+      "sha256": "e51e95947641089d07d12835e409466d8a1b53071cf0d4db1cc94bad79d11fc7",
+      "compressed": false
+    },
+    {
+      "path": "work/score-sync-02/frame_params.py",
+      "archive_path": "work/score-sync-02/frame_params.py",
+      "bytes": 5486,
+      "sha256": "13918a619a575ac93032082029a0aef8d453a15fd17dc8528954585adc47b4ee",
+      "compressed": false
+    },
+    {
+      "path": "work/score-sync-02/animation.py",
+      "archive_path": "work/score-sync-02/animation.py",
+      "bytes": 2407,
+      "sha256": "d3c3e76adb0c833d389a2c3bf5de5829599dd9352d6aab31ca76645992a8913f",
+      "compressed": false
+    },
+    {
+      "path": "work/score-sync-02/navigation.py",
+      "archive_path": "work/score-sync-02/navigation.py",
+      "bytes": 6771,
+      "sha256": "315a69d3fab0a5dd1d373e5d21e4f5ffa9ef295b16d426dd933c6a4611c5ccb3",
+      "compressed": false
+    },
+    {
+      "path": "work/score-sync-02/dependency_schedule.py",
+      "archive_path": "work/score-sync-02/dependency_schedule.py",
+      "bytes": 3092,
+      "sha256": "69e68c9b80917d7c5da214ff69b33b353c1e16672fe00509491f6cb22e1c5f75",
+      "compressed": false
+    },
+    {
+      "path": "work/score-sync-02/spacing.py",
+      "archive_path": "work/score-sync-02/spacing.py",
+      "bytes": 10525,
+      "sha256": "391ffc11899f0c9ea55a04ab92de1d81e4a2820b582c0cb77adeb52a49b70c31",
+      "compressed": false
+    },
+    {
+      "path": "work/score-sync-02/materials.py",
+      "archive_path": "work/score-sync-02/materials.py",
+      "bytes": 1340,
+      "sha256": "6aa1b7d29b54f78a2c5c490e34f091da7e2a56677832b7e6b5fe2352924fdc21",
+      "compressed": false
+    },
+    {
+      "path": "work/score-sync-02/runtime_environment.py",
+      "archive_path": "work/score-sync-02/runtime_environment.py",
+      "bytes": 638,
+      "sha256": "3bd68e52cf5b8bfbde2fa6deddbaeff7d2d3f39db0ca9f78455420367bf68b49",
+      "compressed": false
+    },
+    {
+      "path": "work/score-sync-02/render_finalize.py",
+      "archive_path": "work/score-sync-02/render_finalize.py",
+      "bytes": 2637,
+      "sha256": "ce082a7b407e3c1bd6e40857fe3f9ad95ec98f766bbd1ed5d80705dda82bac03",
+      "compressed": false
+    },
+    {
+      "path": "work/score-sync-02/run_scene.mjs",
+      "archive_path": "work/score-sync-02/run_scene.mjs",
+      "bytes": 8488,
+      "sha256": "d398b09990fc18aec34eca9db1d2eb001a4f3bc0a5ffad4f25cf935a3738d81a",
+      "compressed": false
+    },
+    {
+      "path": "work/score-sync-02/scene_noteink_stroke.mjs",
+      "archive_path": "work/score-sync-02/scene_noteink_stroke.mjs",
+      "bytes": 18732,
+      "sha256": "c88b9ffbf9334900d68c7ac5a4fa300901e93ca20a7c9f9792813de76772a9fe",
+      "compressed": false
+    },
+    {
+      "path": "work/score-sync-02/note_ink_parts_stroke.mjs",
+      "archive_path": "work/score-sync-02/note_ink_parts_stroke.mjs",
+      "bytes": 6689,
+      "sha256": "d7422ec0b2e6d626f1c577b74750ad01c3acdf4a89f6bff79daa947c2bfa4b38",
+      "compressed": false
+    },
+    {
+      "path": "work/score-sync-02/ink_presence.mjs",
+      "archive_path": "work/score-sync-02/ink_presence.mjs",
+      "bytes": 723,
+      "sha256": "26bfc66efc23116099ebcf6b12db6bd4c10d8426f0eeb10d48e3fd30072ea351",
+      "compressed": false
+    },
+    {
+      "path": "work/score-sync-02/head_ink.mjs",
+      "archive_path": "work/score-sync-02/head_ink.mjs",
+      "bytes": 1064,
+      "sha256": "24ffe1eee6c770a61dde26b825ce92116a195ce64623142102772727e5c8b156",
+      "compressed": false
+    },
+    {
+      "path": "work/score-sync-02/ink_bounds.mjs",
+      "archive_path": "work/score-sync-02/ink_bounds.mjs",
+      "bytes": 2569,
+      "sha256": "895f39fd300bb717e9571c641b2179cd9703727c0625610fd034cd0e35588fc2",
+      "compressed": false
+    },
+    {
+      "path": "work/score-sync-02/beamspan_connector.mjs",
+      "archive_path": "work/score-sync-02/beamspan_connector.mjs",
+      "bytes": 2622,
+      "sha256": "b8b8b8eeda09acc890c93b37779d0817e580d1681e1982db80aa222ab1c6ae02",
+      "compressed": false
+    },
+    {
+      "path": "work/score-sync-02/beamspan_members.py",
+      "archive_path": "work/score-sync-02/beamspan_members.py",
+      "bytes": 3824,
+      "sha256": "510e610c46783d7b60627135d26b5000ef2110e7355e657c8d2d04aefed8bd1c",
+      "compressed": false
+    },
+    {
+      "path": "work/score-sync-02/scene_source.py",
+      "archive_path": "work/score-sync-02/scene_source.py",
+      "bytes": 1418,
+      "sha256": "18b35be2c58dc97a80f686c7d2d0990894b8da9955e7688466cd47cd8512914e",
+      "compressed": false
+    },
+    {
+      "path": "work/score-sync-02/build_canonical.py",
+      "archive_path": "work/score-sync-02/build_canonical.py",
+      "bytes": 6562,
+      "sha256": "f0db164142031d8b19ff40da8bb22234576524edebc89b70b7be75b4a441a810",
+      "compressed": false
+    },
+    {
+      "path": "work/score-sync-02/freeze_inputs.py",
+      "archive_path": "work/score-sync-02/freeze_inputs.py",
+      "bytes": 2173,
+      "sha256": "310b2bd96f457e988789b92065d9b14450d16f45774a1382f3dc24dff2817703",
+      "compressed": false
+    },
+    {
+      "path": "work/score-sync-02/audit_assets.py",
+      "archive_path": "work/score-sync-02/audit_assets.py",
+      "bytes": 2931,
+      "sha256": "c2cd2470e23bc73a373c396b4ab26d8d937e7ccddd9f41d1672c8d8270d8bbad",
+      "compressed": false
+    },
+    {
+      "path": "work/score-sync-02/asset-audit.json",
+      "archive_path": "work/score-sync-02/asset-audit.json",
+      "bytes": 1317,
+      "sha256": "abef067dbc8b8fd9b82a44334d6f89a90aaf50b197e4e29c58849a0630bcba28",
+      "compressed": false
+    },
+    {
+      "path": "work/score-sync-02/visual-review.json",
+      "archive_path": "work/score-sync-02/visual-review.json",
+      "bytes": 1212,
+      "sha256": "6b26be9b954213cf39149a3e521c1c36d27266a9f1d6c3dd3e666e969c1c938f",
+      "compressed": false
+    },
+    {
+      "path": "work/score-sync-02/render-inputs.json",
+      "archive_path": "work/score-sync-02/render-inputs.json.gz",
+      "bytes": 375032,
+      "sha256": "345bc1ec3aa3186177fa9676464894eae73b4930e9ba9aff7190b0943d6c0bdf",
+      "compressed": true
+    },
+    {
+      "path": "work/score-sync-02/covers/build_covers.py",
+      "archive_path": "work/score-sync-02/covers/build_covers.py",
+      "bytes": 5610,
+      "sha256": "58d1f76614e9ecc159e614404d3a3a72c420c7bf8c16cc1d250c081e344c4875",
+      "compressed": false
+    },
+    {
+      "path": "work/score-sync-02/covers/render_covers.mjs",
+      "archive_path": "work/score-sync-02/covers/render_covers.mjs",
+      "bytes": 2890,
+      "sha256": "dabacc155250cfab616e89f16885e1c99fd614c7f53364fa180b800b946360e6",
+      "compressed": false
+    },
+    {
+      "path": "work/score-sync-02/assets/labels.json",
+      "archive_path": "work/score-sync-02/assets/labels.json",
+      "bytes": 5822,
+      "sha256": "228e1c5518e1dec31c680421092c37f630d959453aba4a0fae4c0c7c5e4f1967",
+      "compressed": false
+    },
+    {
+      "path": "work/score-sync-02/assets/spacing-M1.json",
+      "archive_path": "work/score-sync-02/assets/spacing-M1.json.gz",
+      "bytes": 186604,
+      "sha256": "0924bfee8826f20c9762687967dac6dd716b53bf9b42bda2d1765714ba716e42",
+      "compressed": true
+    },
+    {
+      "path": "work/score-sync-02/assets/spacing-M2.json",
+      "archive_path": "work/score-sync-02/assets/spacing-M2.json",
+      "bytes": 134754,
+      "sha256": "40c815b75ab260482fbe68fd66bb8a0ca6b0609b8c5ed0187cbf0ae3816a3741",
+      "compressed": false
+    },
+    {
+      "path": "work/score-sync-02/assets/spacing-M3.json",
+      "archive_path": "work/score-sync-02/assets/spacing-M3.json",
+      "bytes": 122927,
+      "sha256": "8b9bc654b3eda91f194264cbb18b6ea4f7f019ac8275b898ebe4d12b56af11ed",
+      "compressed": false
+    },
+    {
+      "path": "work/score-sync-02/assets/spacing-M4.json",
+      "archive_path": "work/score-sync-02/assets/spacing-M4.json",
+      "bytes": 77473,
+      "sha256": "7021b787598204104a79d8b89c4b39f9ea0be4915c5f6b5ff0f72e15c0670acf",
+      "compressed": false
+    },
+    {
+      "path": "work/score-sync-01/timeline.json",
+      "archive_path": "work/score-sync-01/timeline.json",
+      "bytes": 1320,
+      "sha256": "55fa9a2e72ff239eec783a0f3729600024fc6f6a1d0439ed90a3dbb8d719812e",
+      "compressed": false
+    },
+    {
+      "path": "work/score-sync-01/core.py",
+      "archive_path": "work/score-sync-01/core.py",
+      "bytes": 1411,
+      "sha256": "bebb05f5b845ce97bdb796c20aa7e4c9e8184524ca1c71b48ef00fe3b6a5769e",
+      "compressed": false
+    },
+    {
+      "path": "work/score-sync-01/scroll_renderer.py",
+      "archive_path": "work/score-sync-01/scroll_renderer.py",
+      "bytes": 10106,
+      "sha256": "4e61c4684c1c829d2ede79e5d0627e2896ae9764f4c233c82ec8b65d62136f28",
+      "compressed": false
+    },
+    {
+      "path": "work/score-sync-01/prepare_data.py",
+      "archive_path": "work/score-sync-01/prepare_data.py",
+      "bytes": 7494,
+      "sha256": "aebdc39eabb396b5f27cd0fafdaa3ac71b27b36f25974110ddb52bec7fc32040",
+      "compressed": false
+    },
+    {
+      "path": "work/score-sync-01/trill_display.py",
+      "archive_path": "work/score-sync-01/trill_display.py",
+      "bytes": 6530,
+      "sha256": "026b60464aa072427398784943d819a04aec7f326856e133e1959c32ce10c056",
+      "compressed": false,
+      "original_sha256": "b2b91e9a2b9fbad425fa70ae83abe73a76a28a2d3bc3f9ef374cfef8a857fc30",
+      "change": "Private MXL paths replaced by MAHLER9_M1_MXL/MAHLER9_M3_MXL environment variables"
+    },
+    {
+      "path": "work/score-sync-01/prepare_audio.py",
+      "archive_path": "work/score-sync-01/prepare_audio.py",
+      "bytes": 4121,
+      "sha256": "6b25d0547dbb9a39c0cf80048710f02e2b6ff5c2678400b69e70bf7f46d7307f",
+      "compressed": false
+    },
+    {
+      "path": "work/score-sync-01/audio/manifest.json",
+      "archive_path": "work/score-sync-01/audio/manifest.json",
+      "bytes": 1377,
+      "sha256": "9cd9f1aa22e953d6d5a35943ef9a9431af7ceeb08533ed8b79bf3293eac2e014",
+      "compressed": false
+    },
+    {
+      "path": "work/score-sync-01/audio/M2.json",
+      "archive_path": "work/score-sync-01/audio/M2.json",
+      "bytes": 324,
+      "sha256": "4f877d4b8ec20604e28e044d28384e438d05aa5cd2febe4402b31a690b28e7f1",
+      "compressed": false
+    },
+    {
+      "path": "work/score-sync-01/audio/M3.json",
+      "archive_path": "work/score-sync-01/audio/M3.json",
+      "bytes": 323,
+      "sha256": "0595708c95659a218b850ea1f7bec2addc5cec303ae05b2a8b71a73b93d0550f",
+      "compressed": false
+    },
+    {
+      "path": "work/score-sync-01/audio/M4.json",
+      "archive_path": "work/score-sync-01/audio/M4.json",
+      "bytes": 324,
+      "sha256": "d872ba55c502bbce0c7c11b305f7b04f9b2d93dd011ee09ca799519e0afa3274",
+      "compressed": false
+    },
+    {
+      "path": "work/score-sync-01/data/M1/data.json",
+      "archive_path": "work/score-sync-01/data/M1/data.json.gz",
+      "bytes": 12540984,
+      "sha256": "8e6a187750a5e3c0713c721a154483846216d656aed61a6ecd39bf6f03551922",
+      "compressed": true
+    },
+    {
+      "path": "work/score-sync-01/data/M2/data.json",
+      "archive_path": "work/score-sync-01/data/M2/data.json.gz",
+      "bytes": 11773192,
+      "sha256": "e9937bd70d9b3966e2b6147525896a56a2fac722f6e1dc0facf64187b4c5c936",
+      "compressed": true
+    },
+    {
+      "path": "work/score-sync-01/data/M3/data.json",
+      "archive_path": "work/score-sync-01/data/M3/data.json.gz",
+      "bytes": 14690197,
+      "sha256": "9bf3a1b73860d797395ef8349c4dc13c7f22c7a30b921b9a620a9f690699ef33",
+      "compressed": true
+    },
+    {
+      "path": "work/score-sync-01/data/M4/data.json",
+      "archive_path": "work/score-sync-01/data/M4/data.json.gz",
+      "bytes": 3637799,
+      "sha256": "5819dea639c5a361e6290f273646ad1e3bac9098c74c7e8e71c870241511f69c",
+      "compressed": true
+    },
+    {
+      "path": "work/score-sync-02/canonical/M1/normalized.mei",
+      "archive_path": "work/score-sync-02/canonical/M1/normalized.mei.gz",
+      "bytes": 13127588,
+      "sha256": "d74495d177fe610f4fb483363f06169d415ec4d694f70aba9fd50b232d639268",
+      "compressed": true
+    },
+    {
+      "path": "work/score-sync-02/canonical/M1/source.json",
+      "archive_path": "work/score-sync-02/canonical/M1/source.json.gz",
+      "bytes": 6532858,
+      "sha256": "a6e700703026bf0f9feef69dc5bc751afeb2618ac8eb8b0e62dab536f0d0552b",
+      "compressed": true
+    },
+    {
+      "path": "work/score-sync-02/canonical/M1/style.css",
+      "archive_path": "work/score-sync-02/canonical/M1/style.css",
+      "bytes": 473,
+      "sha256": "104be8fc6e4c2e7c164d4dec51583fca145b11d8f1e4e9100dd9a014d2822e40",
+      "compressed": false
+    },
+    {
+      "path": "work/score-sync-02/canonical/M2/normalized.mei",
+      "archive_path": "work/score-sync-02/canonical/M2/normalized.mei.gz",
+      "bytes": 13820060,
+      "sha256": "cf2fbfce52e06b2eab64cbe9a8cc93ae77342224f78b9651f15f502ef8c72b38",
+      "compressed": true
+    },
+    {
+      "path": "work/score-sync-02/canonical/M2/source.json",
+      "archive_path": "work/score-sync-02/canonical/M2/source.json.gz",
+      "bytes": 6127076,
+      "sha256": "b94bcc2518b1e48f7c3ed2efec022624665a3123bf4263ed176800a0363b3ddf",
+      "compressed": true
+    },
+    {
+      "path": "work/score-sync-02/canonical/M2/style.css",
+      "archive_path": "work/score-sync-02/canonical/M2/style.css",
+      "bytes": 473,
+      "sha256": "10a49217a81daa903e07c98faef0ea2b5a27179d9d259ce5f85898c04761c584",
+      "compressed": false
+    },
+    {
+      "path": "work/score-sync-02/canonical/M3/normalized.mei",
+      "archive_path": "work/score-sync-02/canonical/M3/normalized.mei.gz",
+      "bytes": 15891666,
+      "sha256": "6376968ff76d1b54fb7c301d2d3a58c49388bf910bac7f03e06128611ee938d1",
+      "compressed": true
+    },
+    {
+      "path": "work/score-sync-02/canonical/M3/source.json",
+      "archive_path": "work/score-sync-02/canonical/M3/source.json.gz",
+      "bytes": 6609556,
+      "sha256": "a7c6e6ae0f9e486bbc49da42409d0ef83b1fe8eea136994155464a44f6f4969c",
+      "compressed": true
+    },
+    {
+      "path": "work/score-sync-02/canonical/M3/style.css",
+      "archive_path": "work/score-sync-02/canonical/M3/style.css",
+      "bytes": 473,
+      "sha256": "42bdb6454ebc8aa420be03bd92272b4dab2bb16d185cef12ce480281b6646143",
+      "compressed": false
+    },
+    {
+      "path": "work/score-sync-02/canonical/M4/normalized.mei",
+      "archive_path": "work/score-sync-02/canonical/M4/normalized.mei.gz",
+      "bytes": 3819772,
+      "sha256": "49b7acb2ee1440b2a1a88a20f9b2c46cd414d943f2277d8a227cf5ce0048a93c",
+      "compressed": true
+    },
+    {
+      "path": "work/score-sync-02/canonical/M4/source.json",
+      "archive_path": "work/score-sync-02/canonical/M4/source.json.gz",
+      "bytes": 1749499,
+      "sha256": "973b7953b44677ce810678f9202f76dc06757a2862005f3861ef78be7043808b",
+      "compressed": true
+    },
+    {
+      "path": "work/score-sync-02/canonical/M4/style.css",
+      "archive_path": "work/score-sync-02/canonical/M4/style.css",
+      "bytes": 473,
+      "sha256": "6aadd8299f8b33d3abbefaedd42cc7e87472f2b24fe32978e92c1e97948cd87f",
+      "compressed": false
+    },
+    {
+      "path": "work/revision-04/engineering/root-source-han-routing-working-01/src/cdp-transport.mjs",
+      "archive_path": "work/revision-04/engineering/root-source-han-routing-working-01/src/cdp-transport.mjs",
+      "bytes": 3826,
+      "sha256": "f97c8bdcaf52c753626505748ebd5900b0ae13934af6783697b4c94bbb495bc2",
+      "compressed": false
+    },
+    {
+      "path": "work/revision-04/engineering/root-integration-working-01/native_staff_projection.py",
+      "archive_path": "work/revision-04/engineering/root-integration-working-01/native_staff_projection.py",
+      "bytes": 7115,
+      "sha256": "bf33e46093ffa4a906dd26887319dcbb3f478080c71b84b81ed5fee30feaec09",
+      "compressed": false
+    },
+    {
+      "path": "work/revision-04/engineering/root-integration-working-01/pcm24-numeric-evidence-01/recipe-candidate.json",
+      "archive_path": "work/revision-04/engineering/root-integration-working-01/pcm24-numeric-evidence-01/recipe-candidate.json",
+      "bytes": 1258,
+      "sha256": "b99fa80bbd9ad7da6263a2bc43ca54d160caf996585d18695118d0dfa80cc38f",
+      "compressed": false
+    },
+    {
+      "path": "work/revision-04/source-inventory/recording-native-clocks.json",
+      "archive_path": "work/revision-04/source-inventory/recording-native-clocks.json",
+      "bytes": 5951,
+      "sha256": "02c2b8ba4a484eb76947f599d37306d8de904e2eb5ef1aeb81d7030c9a0ba578",
+      "compressed": false
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "cover": {
+    "first_measure": 67,
+    "last_measure": 76,
+    "staves": [
+      "P1:1",
+      "P4:1",
+      "P11:1"
+    ],
+    "sample_q": 266.08,
+    "native_excerpt_builder": "code/build_reference_cover.py",
+    "layout": "mahler9-final",
+    "aspect_ranges": {
+      "16x9": [
+        67,
+        76
+      ],
+      "4x3": [
+        67,
+        74
+      ]
+    }
+  },
+  "words": {
+    "performer_zh": "库伦齐斯指挥",
+    "ensemble_zh": "musicAeterna 乐团",
+    "performer_en": "TEODOR CURRENTZIS",
+    "ensemble_en": "MUSICAETERNA"
+  },
+  "size": {
+    "16x9": [
+      3840,
+      2160
+    ],
+    "4x3": [
+      2880,
+      2160
+    ]
+  },
+  "final_native_svg": ".score-sync/m1/score.svg"
+}
