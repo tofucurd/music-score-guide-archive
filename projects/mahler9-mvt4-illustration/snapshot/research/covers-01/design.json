@@ -1,0 +1,59 @@
+{
+  "reference": "mahler9/output/score-sync-02/封面",
+  "layout": "Existing paper cover; movement-specific edition label; native M4 measures 3–10",
+  "config": {
+    "work": {
+      "title": "第九交响曲",
+      "composer": "古斯塔夫·马勒",
+      "performer": "布鲁诺·瓦尔特",
+      "ensemble": "哥伦比亚交响乐团",
+      "number": 9
+    },
+    "movements": [
+      {
+        "id": "m4",
+        "title": "第四乐章"
+      }
+    ],
+    "settings": {
+      "fps": 60
+    },
+    "cover": {
+      "layout": "paper",
+      "first_measure": 3,
+      "last_measure": 10,
+      "staves": [
+        "P25:1",
+        "P28:1",
+        "P30:1"
+      ],
+      "sample_q": 11,
+      "words": {
+        "composer_en": "GUSTAV MAHLER",
+        "composer_zh": "马勒",
+        "performer_zh": "瓦尔特指挥",
+        "ensemble_zh": "哥伦比亚交响乐团",
+        "performer_en": "BRUNO WALTER",
+        "ensemble_en": "COLUMBIA SYMPHONY ORCHESTRA",
+        "work_type_en": "SYMPHONY",
+        "edition_label": "第四乐章导赏"
+      }
+    }
+  },
+  "aspects": {
+    "16x9": [
+      3840,
+      2160
+    ],
+    "4x3": [
+      2880,
+      2160
+    ]
+  },
+  "source_sha256": {
+    "score.svg": "4de8167f52c423d471e22d34271fc3281e0661fb02b0367846b71fe39845275f",
+    "geometry.json": "8dae0b3a07d13fbb9910ce98b738ce1520016ce079098b8ac076f7df176eaa45",
+    "alignment.json": "87faa823af60315ce46a2bd363658e2ba35bcd103645de68302ad82fc1b8bbad"
+  },
+  "renderer_base_sha256": "171c9dee82ca38f2c7258e57a001d0f9a738dd5a4a8ea2bd0674309fc04904f8"
+}

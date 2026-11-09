@@ -1,0 +1,245 @@
+{
+  "reviewed": true,
+  "review_scope": "Design preview form macro boundaries checked against supplied guide pages1/19/28/53/63/98; children are descriptive reading spans, not a claim of a final published analysis",
+  "sections": [
+    {
+      "label": "引子",
+      "start_q": 0,
+      "end_q": 8,
+      "children": [
+        {
+          "label": "三个动机",
+          "start_q": 0,
+          "end_q": 8
+        }
+      ]
+    },
+    {
+      "label": "主部Ⅰ",
+      "start_q": 8,
+      "end_q": 108,
+      "children": [
+        {
+          "label": "主题呈示",
+          "start_q": 8,
+          "end_q": 40
+        },
+        {
+          "label": "主题中段",
+          "start_q": 40,
+          "end_q": 64
+        },
+        {
+          "label": "主题回归",
+          "start_q": 64,
+          "end_q": 88
+        },
+        {
+          "label": "上行与终止",
+          "start_q": 88,
+          "end_q": 108
+        }
+      ]
+    },
+    {
+      "label": "副部Ⅰ",
+      "start_q": 108,
+      "end_q": 192,
+      "children": [
+        {
+          "label": "高低声部对答",
+          "start_q": 108,
+          "end_q": 132
+        },
+        {
+          "label": "移调与模仿",
+          "start_q": 132,
+          "end_q": 156
+        },
+        {
+          "label": "原调回归",
+          "start_q": 156,
+          "end_q": 192
+        }
+      ]
+    },
+    {
+      "label": "主部Ⅱ",
+      "start_q": 192,
+      "end_q": 348,
+      "children": [
+        {
+          "label": "主题变奏",
+          "start_q": 192,
+          "end_q": 228
+        },
+        {
+          "label": "交织与引子回响",
+          "start_q": 228,
+          "end_q": 260
+        },
+        {
+          "label": "主题融合",
+          "start_q": 260,
+          "end_q": 288
+        },
+        {
+          "label": "前乐章回忆",
+          "start_q": 288,
+          "end_q": 348
+        }
+      ]
+    },
+    {
+      "label": "副部Ⅱ",
+      "start_q": 348,
+      "end_q": 426,
+      "children": [
+        {
+          "label": "竖琴与主题回返",
+          "start_q": 348,
+          "end_q": 368
+        },
+        {
+          "label": "木管三重唱",
+          "start_q": 368,
+          "end_q": 392
+        },
+        {
+          "label": "寂静中的追忆",
+          "start_q": 392,
+          "end_q": 426
+        }
+      ]
+    },
+    {
+      "label": "主部Ⅲ",
+      "start_q": 426,
+      "end_q": 634,
+      "children": [
+        {
+          "label": "第五、第六部分",
+          "start_q": 426,
+          "end_q": 452
+        },
+        {
+          "label": "增值与复合对位",
+          "start_q": 452,
+          "end_q": 480.0
+        },
+        {
+          "label": "引子扩张",
+          "start_q": 480.0,
+          "end_q": 500
+        },
+        {
+          "label": "主题重构",
+          "start_q": 500,
+          "end_q": 550.0
+        },
+        {
+          "label": "最后的回眸",
+          "start_q": 550.0,
+          "end_q": 578.0
+        },
+        {
+          "label": "逐渐消解",
+          "start_q": 578.0,
+          "end_q": 634
+        }
+      ]
+    },
+    {
+      "label": "尾声",
+      "start_q": 634,
+      "end_q": 746,
+      "children": [
+        {
+          "label": "弱音弦乐",
+          "start_q": 634,
+          "end_q": 654
+        },
+        {
+          "label": "悼亡儿之歌",
+          "start_q": 654,
+          "end_q": 708.0
+        },
+        {
+          "label": "余响",
+          "start_q": 708.0,
+          "end_q": 746
+        }
+      ]
+    }
+  ],
+  "cohort_sections": [
+    {
+      "start_q": 0,
+      "end_q": 39.94812362030905
+    },
+    {
+      "start_q": 39.94812362030905,
+      "end_q": 76.0
+    },
+    {
+      "start_q": 76.0,
+      "end_q": 108.0
+    },
+    {
+      "start_q": 108.0,
+      "end_q": 132.0
+    },
+    {
+      "start_q": 132.0,
+      "end_q": 192.0
+    },
+    {
+      "start_q": 192.0,
+      "end_q": 260.0
+    },
+    {
+      "start_q": 260.0,
+      "end_q": 304.0
+    },
+    {
+      "start_q": 304.0,
+      "end_q": 348.0
+    },
+    {
+      "start_q": 348.0,
+      "end_q": 392.0
+    },
+    {
+      "start_q": 392.0,
+      "end_q": 426.0
+    },
+    {
+      "start_q": 426.0,
+      "end_q": 468.0
+    },
+    {
+      "start_q": 468.0,
+      "end_q": 480.0
+    },
+    {
+      "start_q": 480.0,
+      "end_q": 532.0
+    },
+    {
+      "start_q": 532.0,
+      "end_q": 566.0
+    },
+    {
+      "start_q": 566.0,
+      "end_q": 590.0
+    },
+    {
+      "start_q": 590.0,
+      "end_q": 634.0
+    },
+    {
+      "start_q": 634.0,
+      "end_q": 746
+    }
+  ]
+}

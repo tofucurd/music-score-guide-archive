@@ -1,0 +1,42 @@
+{
+  "python": "3.12 production; root archive recommends 3.14",
+  "tools": {
+    "node": {
+      "sha256": "ad19784f7e90ba789a099eccba77ede8dc90a778c424f1c10a70fed3ff903fdc"
+    },
+    "ffmpeg": {
+      "sha256": "4c6bed4b432ead1f9213e19412af96b30ac674a8ecea3e3218f975d9d3317b73"
+    },
+    "ffprobe": {
+      "sha256": "8ca87c042f8c21eadd5b06a8b4f32dab45f2cf9cf861bd24a48f78a3165b28af"
+    },
+    "chrome": {
+      "sha256": "230f0db8c5086182f46c59c867c0d461eb525d6552dfad226ea6b4d9ec249db2"
+    },
+    "python": {
+      "sha256": "8b61f0cffba069e7559496b9dcb982b95af1aa06440247c59f2af2233faad565"
+    }
+  },
+  "video": {
+    "frames": 75845,
+    "fps": 60,
+    "width": 3840,
+    "height": 2160,
+    "codec": "hevc",
+    "pix_fmt": "yuv444p10le",
+    "encoder": "hevc_nvenc",
+    "preset": "p7",
+    "cq": 16,
+    "maxrate": "25M",
+    "bufsize": "50M"
+  },
+  "audio": {
+    "samples": 121351268,
+    "sample_rate": 96000,
+    "channels": 2,
+    "bits": 24
+  },
+  "production_concurrency_limit": 5,
+  "movie_timescale": 96000,
+  "note": "Host names, service names, account paths, driver locations and resource reservations are deliberately omitted."
+}

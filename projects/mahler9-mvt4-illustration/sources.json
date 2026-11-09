@@ -1,0 +1,66 @@
+{
+  "external_files": [
+    {
+      "kind": "audio",
+      "path": "materials/audio/4th Movement Adagio.dsf",
+      "sha256": "b2307c17ee9e00efdef42cad02324c10c2a293e77c1e1ef4dc0e5174e0121e5e",
+      "recording": {
+        "composer": "Gustav Mahler",
+        "work": "Symphony No.9",
+        "conductor": "Bruno Walter",
+        "orchestra": "Columbia Symphony Orchestra"
+      },
+      "required_for": "prepare-audio/render"
+    },
+    {
+      "kind": "guide-pdf",
+      "path": "materials/pdf/马九四乐章页面.pdf",
+      "sha256": "9713f98c48eb68b0a0c7312bfd26258c2e999ab5bd44049fea63a0dcad175758",
+      "required_for": "source consultation only; display text and native annotations are frozen in the snapshot"
+    },
+    {
+      "kind": "score-pdf",
+      "path": "materials/pdf/original-full-score.pdf",
+      "sha256": "73d738b7e7913a2477be0b95fdfe427c55f6fe4ef9b0d6f70b8b203d7ab7261b",
+      "required_for": "source consultation only"
+    }
+  ],
+  "audio": {
+    "prepared_sha256": "e370eccd2b6098ac85e6a744f316874e29274663e32471fed09bdb951be65087",
+    "path": "audio.wav",
+    "sample_rate": 96000,
+    "channels": 2,
+    "bits": 24,
+    "samples": 121351268,
+    "source_sha256": "b2307c17ee9e00efdef42cad02324c10c2a293e77c1e1ef4dc0e5174e0121e5e",
+    "audio_range": null,
+    "recipe": {
+      "argv": [
+        "ffmpeg",
+        "-v",
+        "error",
+        "-nostdin",
+        "-y",
+        "-i",
+        "research/M4.dsf",
+        "-map",
+        "0:a:0",
+        "-af",
+        "aresample=osr=96000:osf=dbl:tsf=dblp:resampler=swr:filter_size=128:phase_shift=10:linear_interp=0:exact_rational=1:cutoff=0.97:filter_type=kaiser:kaiser_beta=9:dither_method=none:async=0,aresample=osr=96000:osf=s32:dither_method=none:output_sample_bits=24:async=0",
+        "-c:a",
+        "pcm_s24le",
+        "-rf64",
+        "auto",
+        ".score-sync/m4/audio.wav"
+      ],
+      "gain": 1,
+      "processing": "Legacy Walter DSD-to-PCM filter recipe; no normalization, cuts, or time stretch"
+    }
+  },
+  "source_pcm": {
+    "sha256": "688c22983212a6e7878531b7303831907966fe3f249c5e38325295c57f5b4c83",
+    "bytes": 970810144,
+    "samples": 121351268
+  },
+  "redistribution": "No recording or original PDF is distributed."
+}

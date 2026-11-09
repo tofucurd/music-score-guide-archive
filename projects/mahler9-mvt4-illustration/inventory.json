@@ -1,0 +1,462 @@
+{
+  "schema": 1,
+  "project": "mahler9-mvt4-illustration",
+  "version": "production-04",
+  "files": [
+    {
+      "path": "engine/LICENSE",
+      "archive_path": "snapshot/engine/LICENSE",
+      "compressed": false,
+      "bytes": 1065,
+      "sha256": "4538a770d7ff7e9881f1b17a3e9cc711a9a69aacc0a149954789858168f503f6",
+      "original_sha256": "4538a770d7ff7e9881f1b17a3e9cc711a9a69aacc0a149954789858168f503f6"
+    },
+    {
+      "path": "engine/THIRD_PARTY_NOTICES.md",
+      "archive_path": "snapshot/engine/THIRD_PARTY_NOTICES.md",
+      "compressed": false,
+      "bytes": 1768,
+      "sha256": "3d343900f5ba7973ef14e61233222130c1b0d5c8b8710fa2b0325094d204557a",
+      "original_sha256": "3d343900f5ba7973ef14e61233222130c1b0d5c8b8710fa2b0325094d204557a"
+    },
+    {
+      "path": "engine/assets/style.json",
+      "archive_path": "snapshot/engine/assets/style.json",
+      "compressed": false,
+      "bytes": 405,
+      "sha256": "eea79e0b396fe7eef03c8af6117091c7a3b797dc0465f4f1a16f8f05f6114ff0",
+      "original_sha256": "eea79e0b396fe7eef03c8af6117091c7a3b797dc0465f4f1a16f8f05f6114ff0"
+    },
+    {
+      "path": "engine/requirements.lock",
+      "archive_path": "snapshot/engine/requirements.lock",
+      "compressed": false,
+      "bytes": 603,
+      "sha256": "44807643cfb6842adc9ba5357d14e200efdd086bdf10a845b5b35edfcff1d913",
+      "original_sha256": "44807643cfb6842adc9ba5357d14e200efdd086bdf10a845b5b35edfcff1d913"
+    },
+    {
+      "path": "engine/scripts/cdp-transport.mjs",
+      "archive_path": "snapshot/engine/scripts/cdp-transport.mjs",
+      "compressed": false,
+      "bytes": 3826,
+      "sha256": "f97c8bdcaf52c753626505748ebd5900b0ae13934af6783697b4c94bbb495bc2",
+      "original_sha256": "f97c8bdcaf52c753626505748ebd5900b0ae13934af6783697b4c94bbb495bc2"
+    },
+    {
+      "path": "engine/scripts/layers/opening.mjs",
+      "archive_path": "snapshot/engine/scripts/layers/opening.mjs",
+      "compressed": false,
+      "bytes": 443,
+      "sha256": "4c9372389c8d2dff2e7835014aa50e58b70ca9a7ea42a2f9440a916647614194",
+      "original_sha256": "4c9372389c8d2dff2e7835014aa50e58b70ca9a7ea42a2f9440a916647614194"
+    },
+    {
+      "path": "engine/scripts/layers/program_vocals.mjs",
+      "archive_path": "snapshot/engine/scripts/layers/program_vocals.mjs",
+      "compressed": false,
+      "bytes": 17740,
+      "sha256": "6b363cb4409e377ae86acbd20f54b8a252f2cbd4c6f3e92e39cc24c9e1982b58",
+      "original_sha256": "6b363cb4409e377ae86acbd20f54b8a252f2cbd4c6f3e92e39cc24c9e1982b58"
+    },
+    {
+      "path": "engine/scripts/layers/region_ink.mjs",
+      "archive_path": "snapshot/engine/scripts/layers/region_ink.mjs",
+      "compressed": false,
+      "bytes": 11500,
+      "sha256": "d10696973bdc18c36a1d2b68ef072bb43968093d6dc43331ff3d39deb50eacee",
+      "original_sha256": "d10696973bdc18c36a1d2b68ef072bb43968093d6dc43331ff3d39deb50eacee"
+    },
+    {
+      "path": "engine/scripts/layers/score_locators.mjs",
+      "archive_path": "snapshot/engine/scripts/layers/score_locators.mjs",
+      "compressed": false,
+      "bytes": 2417,
+      "sha256": "9a6d7d912de6bb101643c5022a68d4f7f69ef780bfef62bfc590d4f384b362f4",
+      "original_sha256": "9a6d7d912de6bb101643c5022a68d4f7f69ef780bfef62bfc590d4f384b362f4"
+    },
+    {
+      "path": "engine/scripts/layers/staff_signatures.mjs",
+      "archive_path": "snapshot/engine/scripts/layers/staff_signatures.mjs",
+      "compressed": false,
+      "bytes": 2767,
+      "sha256": "9f9532c39cc3300cf4a9fc9f3ded38ff563c418e73da88ee18a5f5cad4277502",
+      "original_sha256": "9f9532c39cc3300cf4a9fc9f3ded38ff563c418e73da88ee18a5f5cad4277502"
+    },
+    {
+      "path": "engine/scripts/layers/vocal_overlay.mjs",
+      "archive_path": "snapshot/engine/scripts/layers/vocal_overlay.mjs",
+      "compressed": false,
+      "bytes": 24323,
+      "sha256": "4e311dac71e86bb425df2868526a54da6cdd8bddd3eaedcbac8be9dc6340ce9c",
+      "original_sha256": "4e311dac71e86bb425df2868526a54da6cdd8bddd3eaedcbac8be9dc6340ce9c"
+    },
+    {
+      "path": "engine/scripts/score_sync/__init__.py",
+      "archive_path": "snapshot/engine/scripts/score_sync/__init__.py",
+      "compressed": false,
+      "bytes": 46,
+      "sha256": "5d6305634e5d29774485dfd41b50b80e823d9fb4c6541c55ba3b802d76862923",
+      "original_sha256": "5d6305634e5d29774485dfd41b50b80e823d9fb4c6541c55ba3b802d76862923"
+    },
+    {
+      "path": "engine/scripts/score_sync/alignment.py",
+      "archive_path": "snapshot/engine/scripts/score_sync/alignment.py",
+      "compressed": false,
+      "bytes": 14979,
+      "sha256": "447f24e3a4ea8b599e00aa8481644727d5eb76a1df6728492b8d2efd66921420",
+      "original_sha256": "447f24e3a4ea8b599e00aa8481644727d5eb76a1df6728492b8d2efd66921420"
+    },
+    {
+      "path": "engine/scripts/score_sync/alignment_pipeline.py",
+      "archive_path": "snapshot/engine/scripts/score_sync/alignment_pipeline.py",
+      "compressed": false,
+      "bytes": 33007,
+      "sha256": "2d3b4a035d437c6530869035abb3c613151461ad1175f14a6410dd889d186256",
+      "original_sha256": "2d3b4a035d437c6530869035abb3c613151461ad1175f14a6410dd889d186256"
+    },
+    {
+      "path": "engine/scripts/score_sync/audio.py",
+      "archive_path": "snapshot/engine/scripts/score_sync/audio.py",
+      "compressed": false,
+      "bytes": 2894,
+      "sha256": "aff289d9273d67369047c9c8c31300057ca98f37cdbdfe65b78adea1d43ab45f",
+      "original_sha256": "aff289d9273d67369047c9c8c31300057ca98f37cdbdfe65b78adea1d43ab45f"
+    },
+    {
+      "path": "engine/scripts/score_sync/bindings.py",
+      "archive_path": "snapshot/engine/scripts/score_sync/bindings.py",
+      "compressed": false,
+      "bytes": 2039,
+      "sha256": "a52e118832d58e76520666cb0aa06497743fbe34327a999a04241ac942647651",
+      "original_sha256": "a52e118832d58e76520666cb0aa06497743fbe34327a999a04241ac942647651"
+    },
+    {
+      "path": "engine/scripts/score_sync/covers.py",
+      "archive_path": "snapshot/engine/scripts/score_sync/covers.py",
+      "compressed": false,
+      "bytes": 4477,
+      "sha256": "71b0b3dce8d284c32b00a6a88b13ac97a30f29103926ebcae1e7c399b4ecd0d8",
+      "original_sha256": "71b0b3dce8d284c32b00a6a88b13ac97a30f29103926ebcae1e7c399b4ecd0d8"
+    },
+    {
+      "path": "engine/scripts/score_sync/dashes.py",
+      "archive_path": "snapshot/engine/scripts/score_sync/dashes.py",
+      "compressed": false,
+      "bytes": 3014,
+      "sha256": "bbbb09391e7b7261da17ab5d4166dd88e1eb1c6137007050f039ef45ba1d90ec",
+      "original_sha256": "bbbb09391e7b7261da17ab5d4166dd88e1eb1c6137007050f039ef45ba1d90ec"
+    },
+    {
+      "path": "engine/scripts/score_sync/engraving_overrides.py",
+      "archive_path": "snapshot/engine/scripts/score_sync/engraving_overrides.py",
+      "compressed": false,
+      "bytes": 2667,
+      "sha256": "9b20845a3d318f81e1a222685336be072b61cecef0178bce8c4ebf93c6d8cb1c",
+      "original_sha256": "9b20845a3d318f81e1a222685336be072b61cecef0178bce8c4ebf93c6d8cb1c"
+    },
+    {
+      "path": "engine/scripts/score_sync/environment.py",
+      "archive_path": "snapshot/engine/scripts/score_sync/environment.py",
+      "compressed": false,
+      "bytes": 4748,
+      "sha256": "ecb87208c4341f31e2b97f7a17aa72d2fa7227c7a2864391147b48a2182e4400",
+      "original_sha256": "ecb87208c4341f31e2b97f7a17aa72d2fa7227c7a2864391147b48a2182e4400"
+    },
+    {
+      "path": "engine/scripts/score_sync/hidden_ink.py",
+      "archive_path": "snapshot/engine/scripts/score_sync/hidden_ink.py",
+      "compressed": false,
+      "bytes": 4078,
+      "sha256": "b94cb8118e1e2abd905a96c27dc36c400069c7a55e54c9a0a37ba25d52a23961",
+      "original_sha256": "b94cb8118e1e2abd905a96c27dc36c400069c7a55e54c9a0a37ba25d52a23961"
+    },
+    {
+      "path": "engine/scripts/score_sync/keys.py",
+      "archive_path": "snapshot/engine/scripts/score_sync/keys.py",
+      "compressed": false,
+      "bytes": 9256,
+      "sha256": "823c9e3ef17c76e53132f521a675838449871ffe97da7a76d1a480a21608b721",
+      "original_sha256": "823c9e3ef17c76e53132f521a675838449871ffe97da7a76d1a480a21608b721"
+    },
+    {
+      "path": "engine/scripts/score_sync/layout_overrides.py",
+      "archive_path": "snapshot/engine/scripts/score_sync/layout_overrides.py",
+      "compressed": false,
+      "bytes": 3358,
+      "sha256": "f1f9bc90b655c14ac78b52c759dd3ba364647df3542420a1223afb7048798b0a",
+      "original_sha256": "f1f9bc90b655c14ac78b52c759dd3ba364647df3542420a1223afb7048798b0a"
+    },
+    {
+      "path": "engine/scripts/score_sync/navigation.py",
+      "archive_path": "snapshot/engine/scripts/score_sync/navigation.py",
+      "compressed": false,
+      "bytes": 7416,
+      "sha256": "0c60faa1e47a90884c033209f2e295a82ef2e98bb7fc4c5999ba55e56ff7c12d",
+      "original_sha256": "0c60faa1e47a90884c033209f2e295a82ef2e98bb7fc4c5999ba55e56ff7c12d"
+    },
+    {
+      "path": "engine/scripts/score_sync/notation_labels.py",
+      "archive_path": "snapshot/engine/scripts/score_sync/notation_labels.py",
+      "compressed": false,
+      "bytes": 6623,
+      "sha256": "ed2e6fbc3c5d2679a2b32eb8539275d4101f0ae6dd9958dadabeb7872e571319",
+      "original_sha256": "ed2e6fbc3c5d2679a2b32eb8539275d4101f0ae6dd9958dadabeb7872e571319"
+    },
+    {
+      "path": "engine/scripts/score_sync/presentation_layers.py",
+      "archive_path": "snapshot/engine/scripts/score_sync/presentation_layers.py",
+      "compressed": false,
+      "bytes": 7501,
+      "sha256": "3ad36276f42bd452d05ad1d4df1752acb9b6013075834fc65c9ebc42f6f5ca2a",
+      "original_sha256": "3ad36276f42bd452d05ad1d4df1752acb9b6013075834fc65c9ebc42f6f5ca2a"
+    },
+    {
+      "path": "engine/scripts/score_sync/profiles.py",
+      "archive_path": "snapshot/engine/scripts/score_sync/profiles.py",
+      "compressed": false,
+      "bytes": 7470,
+      "sha256": "db8880547ed69e50c7231facd642af634ad91c040027fadcee68ceb2f557c2fa",
+      "original_sha256": "db8880547ed69e50c7231facd642af634ad91c040027fadcee68ceb2f557c2fa"
+    },
+    {
+      "path": "engine/scripts/score_sync/refinement_diagnostics.py",
+      "archive_path": "snapshot/engine/scripts/score_sync/refinement_diagnostics.py",
+      "compressed": false,
+      "bytes": 6367,
+      "sha256": "480abdde769de6e3ab19a0fb2d9376718ca8a6f06ebd54e3b075e08c588550cd",
+      "original_sha256": "480abdde769de6e3ab19a0fb2d9376718ca8a6f06ebd54e3b075e08c588550cd"
+    },
+    {
+      "path": "engine/scripts/score_sync/refinement_graces.py",
+      "archive_path": "snapshot/engine/scripts/score_sync/refinement_graces.py",
+      "compressed": false,
+      "bytes": 11393,
+      "sha256": "37d9bb280e3c84f2c304f16ec9c892915583a5578de55cf65aa52179a6722d52",
+      "original_sha256": "37d9bb280e3c84f2c304f16ec9c892915583a5578de55cf65aa52179a6722d52"
+    },
+    {
+      "path": "engine/scripts/score_sync/review_pdf.py",
+      "archive_path": "snapshot/engine/scripts/score_sync/review_pdf.py",
+      "compressed": false,
+      "bytes": 1638,
+      "sha256": "203a75d473a13b57685b10404493672525a5074a11a930d1f0866c37a17fb1e8",
+      "original_sha256": "203a75d473a13b57685b10404493672525a5074a11a930d1f0866c37a17fb1e8"
+    },
+    {
+      "path": "engine/scripts/score_sync/score.py",
+      "archive_path": "snapshot/engine/scripts/score_sync/score.py",
+      "compressed": false,
+      "bytes": 16910,
+      "sha256": "4c711883425c866516862b4d602e33cb23659386c9cf11dbd8a7a8ecbe3684eb",
+      "original_sha256": "4c711883425c866516862b4d602e33cb23659386c9cf11dbd8a7a8ecbe3684eb"
+    },
+    {
+      "path": "engine/scripts/score_sync/ties.py",
+      "archive_path": "snapshot/engine/scripts/score_sync/ties.py",
+      "compressed": false,
+      "bytes": 1795,
+      "sha256": "42dc79c2f6978715d827b2c2d870deef81e1b2ef4cff73e6523b504bb4298217",
+      "original_sha256": "42dc79c2f6978715d827b2c2d870deef81e1b2ef4cff73e6523b504bb4298217"
+    },
+    {
+      "path": "engine/scripts/score_sync/visual.py",
+      "archive_path": "snapshot/engine/scripts/score_sync/visual.py",
+      "compressed": false,
+      "bytes": 15299,
+      "sha256": "898d7b4747a7753941049cbd88c6fe0e825e0e6166be42d872d7bebf2f6906e8",
+      "original_sha256": "898d7b4747a7753941049cbd88c6fe0e825e0e6166be42d872d7bebf2f6906e8"
+    },
+    {
+      "path": "engine/scripts/score_sync/vocal_layout.py",
+      "archive_path": "snapshot/engine/scripts/score_sync/vocal_layout.py",
+      "compressed": false,
+      "bytes": 4239,
+      "sha256": "0b498167ef7b44d876044fe07f2e282519c27ae43b992cec4434d0b6df73f376",
+      "original_sha256": "0b498167ef7b44d876044fe07f2e282519c27ae43b992cec4434d0b6df73f376"
+    },
+    {
+      "path": "engine/scripts/score_sync/vocal_schedule.py",
+      "archive_path": "snapshot/engine/scripts/score_sync/vocal_schedule.py",
+      "compressed": false,
+      "bytes": 8400,
+      "sha256": "fe6f53d54125cde270d7b897b93643020b1ec190c78ce2a9db028a1216a84468",
+      "original_sha256": "fe6f53d54125cde270d7b897b93643020b1ec190c78ce2a9db028a1216a84468"
+    },
+    {
+      "path": "engine/scripts/score_sync/workflow.py",
+      "archive_path": "snapshot/engine/scripts/score_sync/workflow.py",
+      "compressed": false,
+      "bytes": 25249,
+      "sha256": "5cecdcc94a20e194cc1f10f0d0915a2766e423954246f15e59a53e49a7bce7b2",
+      "original_sha256": "5cecdcc94a20e194cc1f10f0d0915a2766e423954246f15e59a53e49a7bce7b2"
+    },
+    {
+      "path": "output/production-04/queue/template.json",
+      "archive_path": "snapshot/output/production-04/queue/template.json.gz",
+      "compressed": true,
+      "bytes": 25305965,
+      "sha256": "987a57d28e3c9677fdbf2d941f6195620567c06aa76cff4c94e84d1e6ab0476c",
+      "original_sha256": "952775e76a6704a60362519093612d555b07f10e3d8586614f0ad7bb6acf54e3"
+    },
+    {
+      "path": "project-preview.json",
+      "archive_path": "snapshot/project-preview.json",
+      "compressed": false,
+      "bytes": 292,
+      "sha256": "818e96ff977e29abead37dc957a9201a830af6225c702d88ffed260a1c1a659e",
+      "original_sha256": "818e96ff977e29abead37dc957a9201a830af6225c702d88ffed260a1c1a659e"
+    },
+    {
+      "path": "research/02-linkage/connection_capacity.py",
+      "archive_path": "snapshot/research/02-linkage/connection_capacity.py",
+      "compressed": false,
+      "bytes": 10329,
+      "sha256": "5fdc5198e8fdfdb8791aec6700dbefa4c0f7552c169805938ebd02d0f42510ea",
+      "original_sha256": "5fdc5198e8fdfdb8791aec6700dbefa4c0f7552c169805938ebd02d0f42510ea"
+    },
+    {
+      "path": "research/02-linkage/region_ink.mjs",
+      "archive_path": "snapshot/research/02-linkage/region_ink.mjs",
+      "compressed": false,
+      "bytes": 18144,
+      "sha256": "56e797109b8bfd0473ac235e8008ac7f642708a43f52a6fe2ad3ad182e1e4a98",
+      "original_sha256": "56e797109b8bfd0473ac235e8008ac7f642708a43f52a6fe2ad3ad182e1e4a98"
+    },
+    {
+      "path": "research/covers-01/design.json",
+      "archive_path": "snapshot/research/covers-01/design.json",
+      "compressed": false,
+      "bytes": 1565,
+      "sha256": "8ce7dba0dce5a10cbe9f863f8afa008813faae0493fdadc7c1c9c5a36e6428c7",
+      "original_sha256": "8ce7dba0dce5a10cbe9f863f8afa008813faae0493fdadc7c1c9c5a36e6428c7"
+    },
+    {
+      "path": "research/covers-01/render.mjs",
+      "archive_path": "snapshot/research/covers-01/render.mjs",
+      "compressed": false,
+      "bytes": 31954,
+      "sha256": "23948450f4a4d5771d99c17dbd4376c25e917baaab8b9ca3f80e7c50761202b3",
+      "original_sha256": "23948450f4a4d5771d99c17dbd4376c25e917baaab8b9ca3f80e7c50761202b3"
+    },
+    {
+      "path": "research/covers-01/spec-16x9.json",
+      "archive_path": "snapshot/research/covers-01/spec-16x9.json.gz",
+      "compressed": true,
+      "bytes": 1847716,
+      "sha256": "96d3b10403bf41c88c3937c40765b8455870b3ffc9934b0928a680cc866af32e",
+      "original_sha256": "96d3b10403bf41c88c3937c40765b8455870b3ffc9934b0928a680cc866af32e"
+    },
+    {
+      "path": "research/covers-01/spec-4x3.json",
+      "archive_path": "snapshot/research/covers-01/spec-4x3.json.gz",
+      "compressed": true,
+      "bytes": 1847716,
+      "sha256": "c5a35633f69ed0e2423dd3e93bb30d7c9faa95da9b4a97848ac674615f83464d",
+      "original_sha256": "c5a35633f69ed0e2423dd3e93bb30d7c9faa95da9b4a97848ac674615f83464d"
+    },
+    {
+      "path": "research/shared-base/m4/alignment.json",
+      "archive_path": "snapshot/research/shared-base/m4/alignment.json.gz",
+      "compressed": true,
+      "bytes": 384412,
+      "sha256": "87faa823af60315ce46a2bd363658e2ba35bcd103645de68302ad82fc1b8bbad",
+      "original_sha256": "87faa823af60315ce46a2bd363658e2ba35bcd103645de68302ad82fc1b8bbad"
+    },
+    {
+      "path": "research/shared-base/m4/audio.json",
+      "archive_path": "snapshot/research/shared-base/m4/audio.json",
+      "compressed": false,
+      "bytes": 978,
+      "sha256": "9fd6ee3f333bb2ea3ac56953417f7cafeba096e0b66bc2394089e4f432c6224c",
+      "original_sha256": "8cd1f94c6fd5b2c3bf4f30e0f54b43b9558148a73d30ebc631f57825375c909f"
+    },
+    {
+      "path": "research/shared-base/m4/geometry.json",
+      "archive_path": "snapshot/research/shared-base/m4/geometry.json.gz",
+      "compressed": true,
+      "bytes": 3952482,
+      "sha256": "8dae0b3a07d13fbb9910ce98b738ce1520016ce079098b8ac076f7df176eaa45",
+      "original_sha256": "8dae0b3a07d13fbb9910ce98b738ce1520016ce079098b8ac076f7df176eaa45"
+    },
+    {
+      "path": "research/shared-base/m4/labels.json",
+      "archive_path": "snapshot/research/shared-base/m4/labels.json",
+      "compressed": false,
+      "bytes": 1139,
+      "sha256": "ed8dd41fad46685a2b750ab4b5996eb3bfd681de694cda3fb253bc26b7c72114",
+      "original_sha256": "ed8dd41fad46685a2b750ab4b5996eb3bfd681de694cda3fb253bc26b7c72114"
+    },
+    {
+      "path": "research/shared-base/m4/score-locators.json",
+      "archive_path": "snapshot/research/shared-base/m4/score-locators.json",
+      "compressed": false,
+      "bytes": 4278,
+      "sha256": "b31108a9af0e570200c7451f38ffa7a4d6d1a233f00bad229364765cc775a91d",
+      "original_sha256": "bf1fbb64f8d4f9250eaa627be37f03f9aa12d6b829ae499d97336d38749226c8"
+    },
+    {
+      "path": "research/shared-base/m4/score.json",
+      "archive_path": "snapshot/research/shared-base/m4/score.json.gz",
+      "compressed": true,
+      "bytes": 7163674,
+      "sha256": "a986e69e124cf3022293affbecfd713e9be7574c3c44f4ccb8a7163c7b8bf0d3",
+      "original_sha256": "d4b46f1a0774e7970d11aa3fdd8bc5e3967f2f2321fcf7cfcca994387557d39e"
+    },
+    {
+      "path": "research/shared-base/m4/score.svg",
+      "archive_path": "snapshot/research/shared-base/m4/score.svg.gz",
+      "compressed": true,
+      "bytes": 13505607,
+      "sha256": "4de8167f52c423d471e22d34271fc3281e0661fb02b0367846b71fe39845275f",
+      "original_sha256": "4de8167f52c423d471e22d34271fc3281e0661fb02b0367846b71fe39845275f"
+    },
+    {
+      "path": "research/shared-base/m4/staff-signatures.json",
+      "archive_path": "snapshot/research/shared-base/m4/staff-signatures.json",
+      "compressed": false,
+      "bytes": 37501,
+      "sha256": "490c3af1d20f5a38c8ce4acacffe7302835048b08280da6ffdb6a79f12f31e0c",
+      "original_sha256": "4e06403a23e81d81c78c41390d2cdcb5ab5ffb1e218adbd482bfd44a39aa40f3"
+    },
+    {
+      "path": "research/shared-base/m4/structure.json",
+      "archive_path": "snapshot/research/shared-base/m4/structure.json",
+      "compressed": false,
+      "bytes": 4607,
+      "sha256": "a5a01501f817ebabe991484d4e79c76869fefe0ad183d4bf3427d906135bd073",
+      "original_sha256": "a5a01501f817ebabe991484d4e79c76869fefe0ad183d4bf3427d906135bd073"
+    },
+    {
+      "path": "research/vertical-layout-03/render.mjs",
+      "archive_path": "snapshot/research/vertical-layout-03/render.mjs",
+      "compressed": false,
+      "bytes": 43689,
+      "sha256": "737b92a79ea002805be3e828215b821da21e1375775bada484904fa3acc2f89c",
+      "original_sha256": "737b92a79ea002805be3e828215b821da21e1375775bada484904fa3acc2f89c"
+    }
+  ],
+  "shared_files": [
+    {
+      "path": "engine/assets/fonts/LICENSE.txt",
+      "repository_path": "vendor/score-sync-video/assets/fonts/LICENSE.txt",
+      "sha256": "9ff5bb567e1b92c801fc1069e5fbf992ff8efccacb9db94e5959a5b3ba9bb903"
+    },
+    {
+      "path": "engine/assets/fonts/SourceHanSerifSC-Light.otf",
+      "repository_path": "vendor/score-sync-video/assets/fonts/SourceHanSerifSC-Light.otf",
+      "sha256": "b1bdb1a3581ae143ba3c7a27fc351ec66d2161b057262936e2c65348b0b058fa"
+    },
+    {
+      "path": "engine/assets/fonts/SourceHanSerifSC-Medium.otf",
+      "repository_path": "vendor/score-sync-video/assets/fonts/SourceHanSerifSC-Medium.otf",
+      "sha256": "1d4dc4b757c07034e2412d6edf48f54f94ec7172d4deb3b90a3e4fc9dcb94f5d"
+    },
+    {
+      "path": "engine/assets/fonts/SourceHanSerifSC-Regular.otf",
+      "repository_path": "vendor/score-sync-video/assets/fonts/SourceHanSerifSC-Regular.otf",
+      "sha256": "78aa7a328fd974df2d688c8a9fd74a33d8334dfa84ab24d9d11efb2ffc464117"
+    }
+  ],
+  "note": "Final frozen executable inputs only. Original/archive hashes differ only for documented path sanitization, JSON serialization and repaired source metadata bindings; no music, annotation geometry or timing was recomputed."
+}

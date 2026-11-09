@@ -1,0 +1,26 @@
+{
+  "recording": {
+    "composer": "Gustav Mahler",
+    "work": "Symphony No.9",
+    "conductor": "Bruno Walter",
+    "orchestra": "Columbia Symphony Orchestra"
+  },
+  "tracks": [
+    {
+      "movement": 4,
+      "original_filename": "4th Movement Adagio.dsf",
+      "source_sha256": "b2307c17ee9e00efdef42cad02324c10c2a293e77c1e1ef4dc0e5174e0121e5e",
+      "channels": 2,
+      "native_dsd_rate": 5644800,
+      "tags": {
+        "album": "Symphony No. 9",
+        "artist": "Gustav Mahler",
+        "title": "4th Movement: Adagio",
+        "genre": "Romantic",
+        "album_artist": "Bruno Walter/The Columbia Symphony Orchestra",
+        "date": "1962"
+      }
+    }
+  ],
+  "audio_files_included": false
+}

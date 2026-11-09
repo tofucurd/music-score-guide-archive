@@ -1,0 +1,17 @@
+{
+  "work": {
+    "title": "第九交响曲",
+    "composer": "古斯塔夫·马勒",
+    "performer": "布鲁诺·瓦尔特",
+    "ensemble": "哥伦比亚交响乐团"
+  },
+  "movements": [
+    {
+      "id": "m4",
+      "title": "第四乐章"
+    }
+  ],
+  "settings": {
+    "fps": 60
+  }
+}

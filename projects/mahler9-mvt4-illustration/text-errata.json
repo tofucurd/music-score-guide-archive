@@ -1,0 +1,27 @@
+{
+  "corrections": [
+    {
+      "block": 48,
+      "unit": "unit-p042-b002-0",
+      "page": 42,
+      "measure": [
+        70,
+        71
+      ],
+      "before": "完整的第四部分出现在长笛上",
+      "after": "完整的第四部分出现在双簧管上"
+    },
+    {
+      "block": 49,
+      "unit": "unit-p043-b002-0",
+      "page": 43,
+      "measure": [
+        72,
+        72
+      ],
+      "before": "小提和长笛从低处攀升",
+      "after": "小提和双簧管从低处攀升"
+    }
+  ],
+  "source": "Verified against PDF labels and native score; original guide PDF unchanged."
+}
