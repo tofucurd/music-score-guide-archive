@@ -1,0 +1,70 @@
+{
+  "schema": "guarded-native-visibility-override.v1",
+  "input_svg_sha256": "fe0ec92dfe31be720e330b2376c13e0093bed28ea21deb0b4714fc8e0019d1d8",
+  "output_svg_sha256": "a446c36b34eec8dc6d6f3c90499ca4bf3813d970d7382e6fbabf4d92ba416c39",
+  "groups": [
+    {
+      "source_measure": 510,
+      "part": "P1",
+      "direction_ordinal": 2,
+      "per_minute": 100,
+      "svg_id": "e184hrcf",
+      "svg_class": "tempo",
+      "proposed_visibility": "hidden",
+      "observed_text": "\n                        \n                     \n                     \n                         = 100"
+    },
+    {
+      "source_measure": 515,
+      "part": "P1",
+      "direction_ordinal": 1,
+      "per_minute": 128,
+      "svg_id": "nh2cpfb",
+      "svg_class": "tempo",
+      "proposed_visibility": "hidden",
+      "observed_text": "\n                        \n                     \n                     \n                         = 128"
+    },
+    {
+      "source_measure": 519,
+      "part": "P1",
+      "direction_ordinal": 1,
+      "per_minute": 136,
+      "svg_id": "wypfrcy",
+      "svg_class": "tempo",
+      "proposed_visibility": "hidden",
+      "observed_text": "\n                        \n                     \n                     \n                         = 136"
+    },
+    {
+      "source_measure": 523,
+      "part": "P1",
+      "direction_ordinal": 1,
+      "per_minute": 144,
+      "svg_id": "e1fhkbyy",
+      "svg_class": "tempo",
+      "proposed_visibility": "hidden",
+      "observed_text": "\n                        \n                     \n                     \n                         = 144"
+    },
+    {
+      "source_measure": 527,
+      "part": "P1",
+      "direction_ordinal": 1,
+      "per_minute": 152,
+      "svg_id": "ny41xa2",
+      "svg_class": "tempo",
+      "proposed_visibility": "hidden",
+      "observed_text": "\n                        \n                     \n                     \n                         = 152"
+    }
+  ],
+  "preserved": {
+    "source_measure": 511,
+    "svg_id": "f1tucy74",
+    "text": "poco a poco sempre più allegro ed accelerando il tempo",
+    "sound_tempo": 112
+  },
+  "source_finding": "research/material-reference-03/reviewer-c-metronome-finding.json",
+  "unchanged_files": {
+    "score.json": "6c7009f1fad056d56750de74d64887e882ccf722b1bbc2d873cde30677a4b04b",
+    "geometry.json": "d755a5f924fd7c3e0eb8b47cb80ff8f8c91f454fa195975da54293a73baac452",
+    "alignment.json": "1053a04c0f0eff7a594893bf6ce11100c88768ae2c2eb4459ce5edb4547300e9",
+    "alignment-graces.json": "2a2857aab15d338ac9792188e31934bdbed6a20e9aceb38802446f6e97799da5"
+  }
+}

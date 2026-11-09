@@ -1,0 +1,40 @@
+{
+  "video": {
+    "frames": 58868,
+    "fps": 60,
+    "width": 3840,
+    "height": 2160,
+    "encoder": "hevc_nvenc",
+    "pix_fmt": "yuv444p10le",
+    "maxrate": "25M",
+    "chunk_frames": 300
+  },
+  "audio": {
+    "sample_rate": 48000,
+    "samples": 47093760,
+    "channels": 2,
+    "bits": 24
+  },
+  "tools": {
+    "node": {
+      "sha256": "ad19784f7e90ba789a099eccba77ede8dc90a778c424f1c10a70fed3ff903fdc"
+    },
+    "ffmpeg": {
+      "sha256": "4c6bed4b432ead1f9213e19412af96b30ac674a8ecea3e3218f975d9d3317b73"
+    },
+    "ffprobe": {
+      "sha256": "8ca87c042f8c21eadd5b06a8b4f32dab45f2cf9cf861bd24a48f78a3165b28af"
+    },
+    "chrome": {
+      "sha256": "230f0db8c5086182f46c59c867c0d461eb525d6552dfad226ea6b4d9ec249db2"
+    },
+    "python": {
+      "sha256": "8b61f0cffba069e7559496b9dcb982b95af1aa06440247c59f2af2233faad565"
+    }
+  },
+  "production_concurrency_limit": 7,
+  "chunk_seconds": 5,
+  "skill_source_commit": "35c8d5a",
+  "recording_clock": "Original audio; frozen output frames include a separate 2.2-second lead-in",
+  "note": "Public replay uses commands on PATH and SCORE_SYNC_CHROME. No host, login, network, service or driver-library paths are included."
+}

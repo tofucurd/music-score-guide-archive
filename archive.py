@@ -127,9 +127,9 @@ def covers(name):
   for aspect,spec in build_cover_specs(cfg,b).items():visual.run_browser(spec,out/f'封面-{aspect}.svg','cover')
 
 def main():
- p=argparse.ArgumentParser(description=__doc__);p.add_argument('action',choices=['restore','prepare-audio','render','covers','show-inputs']);p.add_argument('project',choices=['beethoven7','beethoven9','mahler9','mahler9-mvt4-illustration']);p.add_argument('--sources',type=Path);p.add_argument('--workers',type=int,choices=range(1,6),default=1,help='Guide project only: concurrent chunks, default 1')
+ p=argparse.ArgumentParser(description=__doc__);p.add_argument('action',choices=['restore','prepare-audio','render','covers','show-inputs']);p.add_argument('project',choices=['beethoven7','beethoven9','mahler9','mahler9-mvt4-illustration','beethoven-grosse-fuge']);p.add_argument('--sources',type=Path);p.add_argument('--workers',type=int,choices=range(1,8),default=1,help='Guide: up to 5; Grosse Fuge: up to 7; default 1')
  a=p.parse_args()
- if a.project=='mahler9-mvt4-illustration':
+ if a.project in ('mahler9-mvt4-illustration','beethoven-grosse-fuge'):
   command=[sys.executable,str(ROOT/'projects'/a.project/'archive.py'),a.action,'--workers',str(a.workers)]
   if a.sources is not None:command+=['--sources',str(a.sources.resolve())]
   subprocess.run(command,check=True);return

@@ -1,0 +1,106 @@
+{
+  "external_files": [
+    {
+      "kind": "audio",
+      "path": "materials/audio/Hollywood Quartet 1957.flac",
+      "sha256": "ddd48e1647c8c1df2a40a2d0e27538f185d90b35a8035023511a1de0fd3082dd",
+      "bytes": 170168687,
+      "required_for": "prepare-audio/render"
+    },
+    {
+      "kind": "color-reference-video",
+      "path": "materials/reference/video/Demystifying Beethoven's Große Fuge (music only - commentary removed) [owzXO8b1ykk].mkv",
+      "sha256": "a04813277b38e98d7e252040285b91f42ef010fb51ea21b5fff509d454691141",
+      "bytes": 48191260,
+      "required_for": "Source consultation only; final score and display states are frozen"
+    },
+    {
+      "kind": "score-pdf",
+      "path": "materials/score/IMSLP04771-Beethoven_-_Grosse_Fuge_Dover.pdf",
+      "sha256": "1fa7122659da21044db739f127280666a48424b5f662f522986880fb3cae1a1e",
+      "bytes": 5825921,
+      "required_for": "Source consultation only; final score and display states are frozen"
+    },
+    {
+      "kind": "musicxml-source",
+      "path": "materials/score/grosse-fuge-in-b-flat-major-op133-ludwig-van-beethoven.mxl",
+      "sha256": "04a844052cc766e73686d35d5ac7b87edcb4cd73b662a10959c0cef6fc317a5e",
+      "bytes": 184309,
+      "required_for": "Source consultation only; final score and display states are frozen"
+    }
+  ],
+  "audio": {
+    "prepared_sha256": "eb72fed0ebb5c21210d93ec2549245c17ca0407e83c0d6238442e800e2009175",
+    "path": ".score-sync/m1/audio.wav",
+    "sample_rate": 48000,
+    "channels": 2,
+    "bits": 24,
+    "samples": 46988160,
+    "source_sha256": "ddd48e1647c8c1df2a40a2d0e27538f185d90b35a8035023511a1de0fd3082dd",
+    "audio_range": null,
+    "recipe": {
+      "argv": [
+        "ffmpeg",
+        "-v",
+        "error",
+        "-nostdin",
+        "-y",
+        "-i",
+        "materials/audio/Hollywood Quartet 1957.flac",
+        "-map",
+        "0:a:0",
+        "-vn",
+        "-ar",
+        "48000",
+        "-ac",
+        "2",
+        "-c:a",
+        "pcm_s24le",
+        "-rf64",
+        "auto",
+        ".score-sync/m1/audio.wav"
+      ],
+      "source_codec": "flac",
+      "float_quantization_to_24bit": false,
+      "processing": "decode only; optional requested range; no normalization/downmix/time stretch",
+      "lossless_relative_to": "decoded PCM master, not DSD bitstream or lossy original encoding"
+    }
+  },
+  "lead_in": {
+    "schema": "sampled-noise-lead-in.v1",
+    "source": ".score-sync/m1/audio.wav",
+    "audio": "output/audio-with-lead-in.wav",
+    "duration_seconds": 2.2,
+    "prefix_samples": 105600,
+    "sample_rate": 48000,
+    "channels": 2,
+    "bits": 24,
+    "seed_original_seconds": [
+      0.06,
+      0.26
+    ],
+    "loop_crossfade_seconds": 0.02,
+    "edge_fade_seconds": 0.12,
+    "gain": 1.0,
+    "prefix_rms_dbfs": -89.73770573104615,
+    "source_samples": 46988160,
+    "output_samples": 47093760,
+    "original_decoded_int32_sha256": "3961fbc2215ce8e088b21880afd62e4cdf6596c8d1c47696f175319b25d58846",
+    "post_prefix_decoded_int32_sha256": "3961fbc2215ce8e088b21880afd62e4cdf6596c8d1c47696f175319b25d58846",
+    "entrance": {
+      "duration_seconds": 2.0,
+      "settled_hold_seconds": 0.2,
+      "initial_phase": 0.315,
+      "layout": "Continuous screen-space endpoint interpolation",
+      "this_first_grace_seconds": 2.715,
+      "cursor_navigation": "fixed from first frame"
+    }
+  },
+  "color_reference": {
+    "author": "Richard Atkinson",
+    "title": "Demystifying Beethoven’s Große Fuge (music only - commentary removed)",
+    "url": "https://www.youtube.com/watch?v=owzXO8b1ykk",
+    "scope": "Material spans and related color families informed the project; this recording is not the master audio."
+  },
+  "redistribution": "No recording, PDF, reference video, final MOV or cover image is distributed. Corrected OpenScore CC0 MusicXML and native engraving data retain their source notices."
+}

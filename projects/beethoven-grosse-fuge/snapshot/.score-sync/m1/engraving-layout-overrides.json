@@ -1,0 +1,16 @@
+{
+  "applied": 1,
+  "already_applied": false,
+  "operations": [
+    {
+      "kind": "text_y",
+      "class": "tempo",
+      "id": "dqsc2pz",
+      "text": "Allegro molto e con brio",
+      "before": 1311,
+      "after": 951,
+      "reason": "Separate source533 tempo text from source534 trill; two native staff spaces up, all note geometry unchanged."
+    }
+  ],
+  "svg_sha256": "fe0ec92dfe31be720e330b2376c13e0093bed28ea21deb0b4714fc8e0019d1d8"
+}

@@ -1,0 +1,30 @@
+{
+  "schema": "sampled-noise-lead-in.v1",
+  "source": ".score-sync/m1/audio.wav",
+  "audio": "output/audio-with-lead-in.wav",
+  "duration_seconds": 2.2,
+  "prefix_samples": 105600,
+  "sample_rate": 48000,
+  "channels": 2,
+  "bits": 24,
+  "seed_original_seconds": [
+    0.06,
+    0.26
+  ],
+  "loop_crossfade_seconds": 0.02,
+  "edge_fade_seconds": 0.12,
+  "gain": 1.0,
+  "prefix_rms_dbfs": -89.73770573104615,
+  "source_samples": 46988160,
+  "output_samples": 47093760,
+  "original_decoded_int32_sha256": "3961fbc2215ce8e088b21880afd62e4cdf6596c8d1c47696f175319b25d58846",
+  "post_prefix_decoded_int32_sha256": "3961fbc2215ce8e088b21880afd62e4cdf6596c8d1c47696f175319b25d58846",
+  "entrance": {
+    "duration_seconds": 2.0,
+    "settled_hold_seconds": 0.2,
+    "initial_phase": 0.315,
+    "layout": "Continuous screen-space endpoint interpolation",
+    "this_first_grace_seconds": 2.715,
+    "cursor_navigation": "fixed from first frame"
+  }
+}

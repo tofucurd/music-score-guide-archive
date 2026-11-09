@@ -1,0 +1,119 @@
+{
+  "reviewed": true,
+  "sections": [
+    {
+      "label": "序奏与赋格Ⅰ",
+      "start_q": 0.0,
+      "end_q": 598.0,
+      "children": [
+        {
+          "label": "序奏",
+          "start_q": 0.0,
+          "end_q": 84.0
+        },
+        {
+          "label": "赋格Ⅰ",
+          "start_q": 84.0,
+          "end_q": 598.0
+        }
+      ]
+    },
+    {
+      "label": "赋格Ⅱ",
+      "start_q": 598.0,
+      "end_q": 746.0,
+      "children": [
+        {
+          "label": "主题变奏",
+          "start_q": 598.0,
+          "end_q": 666.0
+        },
+        {
+          "label": "倒影变形",
+          "start_q": 666.0,
+          "end_q": 698.0
+        },
+        {
+          "label": "扩展与收束",
+          "start_q": 698.0,
+          "end_q": 746.0
+        }
+      ]
+    },
+    {
+      "label": "第三赋格组与回归",
+      "start_q": 746.0,
+      "end_q": 1978.0,
+      "children": [
+        {
+          "label": "第三组起始",
+          "start_q": 746.0,
+          "end_q": 864.5
+        },
+        {
+          "label": "降A调赋格",
+          "start_q": 864.5,
+          "end_q": 1289.0
+        },
+        {
+          "label": "主题再组合",
+          "start_q": 1289.0,
+          "end_q": 1406.0
+        },
+        {
+          "label": "倒影与继续展开",
+          "start_q": 1406.0,
+          "end_q": 1526.0
+        },
+        {
+          "label": "第二赋格回归",
+          "start_q": 1526.0,
+          "end_q": 1562.0
+        },
+        {
+          "label": "连接",
+          "start_q": 1562.0,
+          "end_q": 1606.0
+        },
+        {
+          "label": "第三组回归",
+          "start_q": 1606.0,
+          "end_q": 1702.0
+        },
+        {
+          "label": "延展与收束",
+          "start_q": 1702.0,
+          "end_q": 1978.0
+        }
+      ]
+    },
+    {
+      "label": "回顾与终结",
+      "start_q": 1978.0,
+      "end_q": 2233.5,
+      "children": [
+        {
+          "label": "主题回顾",
+          "start_q": 1978.0,
+          "end_q": 2050.5
+        },
+        {
+          "label": "结束段起始",
+          "start_q": 2050.5,
+          "end_q": 2155.5
+        },
+        {
+          "label": "双主题汇合",
+          "start_q": 2155.5,
+          "end_q": 2233.5
+        }
+      ]
+    }
+  ],
+  "cohort_sections": [
+    {
+      "start_q": 0,
+      "end_q": 2233.5
+    }
+  ]
+}

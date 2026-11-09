@@ -1,0 +1,32 @@
+{
+  "status": "Preview14: green subject family with larger within-family hue and lightness differences; no blue or purple material colors.",
+  "colors": {
+    "core_chromatic": "#309A36",
+    "core_medium": "#006F4C",
+    "six_eight_counterfigure": "#98AC08",
+    "leaping_fugue": "#BE647F",
+    "flowing_sixteenths": "#C98A3F",
+    "triplet_continuation": "#A58435",
+    "eighth_two_sixteenths": "#AE7652",
+    "episode_trill": "#C97F63",
+    "intro_gesture": "#856044"
+  },
+  "family": {
+    "core_chromatic": "chromatic_subject",
+    "core_medium": "chromatic_subject",
+    "six_eight_counterfigure": "chromatic_subject"
+  },
+  "principle": "Green identifies the subject family; emerald, grass and yellow-green distinguish forms by both hue tendency and lightness. Other materials vacate green and use distinct warm inks, checked in actual co-occurring passages. Warm colors do not assert an undocumented genealogical relationship. Playback brick red and navigation blue stay unchanged.",
+  "visual_family_encoding": {
+    "chromatic_subject": {
+      "hue_family": "绿系：深翡翠／鲜草绿／黄绿",
+      "family_color": "#309A36",
+      "variants": {
+        "core_chromatic": "鲜草绿",
+        "core_medium": "深翡翠",
+        "six_eight_counterfigure": "黄绿"
+      },
+      "constraint": "Preserve one green family while spreading both hue tendency and lightness; do not rely on three tiny value changes. Green is reserved exclusively for this subject family."
+    }
+  }
+}

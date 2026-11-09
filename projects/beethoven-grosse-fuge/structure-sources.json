@@ -1,0 +1,1696 @@
+{
+  "numbering_policy": "Numbers are conventional/MusicXML labels, not continuously printed numbers in Dover PDF. Physical locations use PDF page/system/bar. Intervals in executable navigation are half-open.",
+  "sources": {
+    "L": {
+      "author": "David B. Levy",
+      "title": "“Ma però beschleunigend”: Notation and Meaning in Ops. 133/134",
+      "publication": "Beethoven Forum 14/2 (Fall 2007; copyright 2008), 129–149",
+      "url": "https://bf.press.uillinois.edu/pdfs/BF-VOL-14.2.pdf",
+      "read_scope": "All article text pp129–149, one-based PDF pages35–55. Table1 p131 visually checked. Other issue articles not read.",
+      "dependency": "Table1 explicitly adapted from Lockwood 2003 pp464–465; Lockwood book not independently read and not a second independent witness.",
+      "limit": "Later argument concerns notation and possible rhetoric, not proof of a unique formal hierarchy. Programmatic interpretation remains conditional.",
+      "sha256": "bfa709a90206e5927cf40597411214fab2210fdbd660ee49f34844c3477d02d0"
+    },
+    "S": {
+      "author": "Marián Štúň",
+      "title": "Fúga ako vrcholný prejav kontrapunktu v posledných kvartetách Ludwiga van Beethovena",
+      "publication": "Clavibus unitis 9/3 (2020), 1–16",
+      "url": "https://www.acecs.cz/media/cu_2020_09_03_stun.pdf",
+      "read_scope": "All16 pages read; GrosseFuge-specific analysis pp5–11, conclusions pp15–16; Table1 p7 visually checked. Later Op131 discussion is not evidence for Op133 measure ranges.",
+      "dependency": "Independent contrapuntal analysis informed by Watson and others; cited older books not represented as separately read.",
+      "limit": "Table has overlapping30/657 endpoints and493–510 label disagrees with p8 prose; conventional form labels are not an executable segmentation.",
+      "sha256": "f1c85ab0d0b4708a78b7a370dfc021b5013ab0fde671cd0e64fbcc2679f257e2"
+    },
+    "C": {
+      "author": "Barry Cooper",
+      "title": "Rehearsal Letters, Rhythmic Modes and Structural Issues in Beethoven’s Grosse Fuge",
+      "publication": "Nineteenth-Century Music Review14/2 (2017),177–193; online2016-07-26",
+      "doi": "10.1017/S1479409816000069",
+      "url": "https://www.cambridge.org/core/journals/nineteenth-century-music-review/article/abs/rehearsal-letters-rhythmic-modes-and-structural-issues-in-beethovens-grosse-fuge/DE12F05805D01F9FA46ACF34EF9F5353",
+      "read_scope": "Public abstract and visible notes, especially20/23/24 only. Full article NOT obtained/read.",
+      "limit": "No exact ranges assigned to abstract’s three movements; no inference that our four parents reproduce Cooper.",
+      "sha256": "c1e1afeb87f4a28cf296b59efa3161aa5f39916eef6cb3466914c1655e714942"
+    }
+  },
+  "author_models": {
+    "L": {
+      "locator": "p131 Table1",
+      "descriptive_blocks": [
+        {
+          "label": "Overtura",
+          "range_as_printed": "1–30"
+        },
+        {
+          "label": "Double fugue",
+          "range_as_printed": "31–158"
+        },
+        {
+          "label": "Double fugato",
+          "range_as_printed": "159–232"
+        },
+        {
+          "label": "Episode/March",
+          "range_as_printed": "233–272"
+        },
+        {
+          "label": "Double fugue",
+          "range_as_printed": "273–414"
+        },
+        {
+          "label": "Fantasy",
+          "range_as_printed": "415–492"
+        },
+        {
+          "label": "Double fugato + transition",
+          "range_as_printed": "493–510 + 511–532"
+        },
+        {
+          "label": "March reprise",
+          "range_as_printed": "533–564"
+        },
+        {
+          "label": "Coda I",
+          "range_as_printed": "565–662"
+        },
+        {
+          "label": "Coda II",
+          "range_as_printed": "663–741"
+        }
+      ],
+      "alternative_parent_readings": [
+        {
+          "name": "Sonata-form movement?",
+          "groups": {
+            "introduction": [
+              1
+            ],
+            "exposition": [
+              2,
+              3
+            ],
+            "exposition_coda": [
+              4
+            ],
+            "development": [
+              5,
+              6
+            ],
+            "recapitulation": [
+              7,
+              8
+            ],
+            "coda": [
+              9,
+              10
+            ]
+          },
+          "status": "explicit question-mark hypothesis"
+        },
+        {
+          "name": "Multimovement work?",
+          "groups": {
+            "first_movement": [
+              1,
+              2
+            ],
+            "slow_movement": [
+              3
+            ],
+            "interlude": [
+              4
+            ],
+            "scherzo_equivalent": [
+              5,
+              6
+            ],
+            "composite_finale": [
+              7,
+              8,
+              9,
+              10
+            ]
+          },
+          "status": "explicit question-mark hypothesis"
+        }
+      ],
+      "full_read_findings": [
+        {
+          "pages": "129–131",
+          "finding": "Avoid force-fitting a common formal paradigm; synoptic/multivalent perspective allows different simultaneous functions."
+        },
+        {
+          "pages": "132–145",
+          "finding": "Notation/paired-eighth articulation and possible historical-rhetorical models are the principal topic; this does not generate additional parent-section boundaries."
+        },
+        {
+          "pages": "146–149",
+          "finding": "Possible relation to Cavatina/Passion narrative is qualified;233–272 resists that reading. Rhetorical recapitulation can be heard from477, while Table1’s formal reprise is493.533 has decisive release;657–662 recalls earlier difficulties. These functions are not all the same segmentation."
+        }
+      ]
+    },
+    "S": {
+      "locator": "p7 Table1; pp8–11 text",
+      "descriptive_blocks": [
+        {
+          "label": "Introduction/Anticipation",
+          "range_as_printed": "1–30"
+        },
+        {
+          "label": "Fugue I",
+          "range_as_printed": "30–158"
+        },
+        {
+          "label": "Fugue II",
+          "range_as_printed": "159–232"
+        },
+        {
+          "label": "Fugue III",
+          "range_as_printed": "233–492"
+        },
+        {
+          "label": "Fugue III [table label preserved]",
+          "range_as_printed": "493–510"
+        },
+        {
+          "label": "Connecting section",
+          "range_as_printed": "511–532"
+        },
+        {
+          "label": "Fugue III",
+          "range_as_printed": "533–657"
+        },
+        {
+          "label": "Recapitulation",
+          "range_as_printed": "657–680"
+        },
+        {
+          "label": "Ending",
+          "range_as_printed": "681–741"
+        }
+      ],
+      "parent_reading": "Introduction, three varied fugal types with returns/interruption, retrospective and ending; the third is not uninterrupted strict fugue.",
+      "full_read_findings": [
+        {
+          "pages": "1–4",
+          "finding": "Historical/methodological setup; Op133 studied sequentially, Op131 systematically. No Op133 executable boundary list here."
+        },
+        {
+          "pages": "5–7",
+          "finding": "Two themes and their fragments connect sections; introduction anticipates three transformed types in reverse order."
+        },
+        {
+          "pages": "8–11",
+          "finding": "Specific local contrapuntal events explain development and returns; table493 label is inconsistent with explicit second-fugue return in prose."
+        },
+        {
+          "pages": "11–14",
+          "finding": "Op131 analysis; not imported as evidence for Op133."
+        },
+        {
+          "pages": "15–16",
+          "finding": "Thematic fragmentation and reconstruction unify the argument. Score examples reference the same Dover/IMSLP04771 edition as this project."
+        }
+      ]
+    },
+    "C": {
+      "locator": "abstract; public notes20/23/24",
+      "parent_reading": "Three main movements, third longest; no exact spans available in accessed abstract.",
+      "exact_parent_ranges": null,
+      "corroboration_scope": "Only broad multiplicity of fugal expositions and specific public-footnote objections; no full model reconstruction."
+    }
+  },
+  "comparison": [
+    {
+      "landmark": "30/31",
+      "source_difference": "L starts full-bar block31; S says30 with introduction also ending30.",
+      "navigation_decision": "Score Fuga at30+2q; adopt q84, include weak pickup; not a disagreement about literalbar count."
+    },
+    {
+      "landmark": "159–232 internal",
+      "source_difference": "S p8 locates inversion193–198; p10 locates expansion209–216; L table has no internal split.",
+      "navigation_decision": "Use193 and209 as child starts. Extend their labels to next chosen landmark as editorial coverage, not author’s complete three-part analysis."
+    },
+    {
+      "landmark": "233",
+      "source_difference": "L: episode; S: third fugue begins here, with an8-bar exposition.",
+      "navigation_decision": "Choose S as primary model, use 第三组起始 to avoid implying continuously contrapuntal texture."
+    },
+    {
+      "landmark": "272/273",
+      "source_difference": "Both give273 as full-bar new exposition; score cello pickup begins272+1.5q.",
+      "navigation_decision": "Place child boundary on audible pickup q864.5."
+    },
+    {
+      "landmark": "414/415/416/418",
+      "source_difference": "L table415; C note20 cites414; S example begins414, p11 enumerates416 entry, p9–10 locates second-theme fragment418.",
+      "navigation_decision": "These can denote preparatory change, grouped section, first exposition entry, and second-theme appearance respectively. No universal one-bar correction claimed; use414 for navigation preparation."
+    },
+    {
+      "landmark": "453",
+      "source_difference": "S p10 highlights453–460 interruption and inversion; L keeps whole415–492 block.",
+      "navigation_decision": "Local child at453, not a new parent."
+    },
+    {
+      "landmark": "477/493",
+      "source_difference": "L p148 rhetoric traces abbreviated recapitulation from477 pedal, Table1 uses493 formal reprise.",
+      "navigation_decision": "Keep477 within continuation. Choose493 material/tempo return; never assert every use of recapitulation means identical point."
+    },
+    {
+      "landmark": "493",
+      "source_difference": "S table saysFugueIII but p8 explicitly sayssecond appearance ofFugueII; C note23 rejects standard new fugal exposition.",
+      "navigation_decision": "Preserve discrepancy. Adopt return ofII from prose; no fresh standard-exposition label."
+    },
+    {
+      "landmark": "511/533",
+      "source_difference": "L and S separate transition511–532; S thencontinuesIII while L calls533–564 Marchreprise.",
+      "navigation_decision": "Keep connector and materialreturn as distinct children under the larger mixed third group."
+    },
+    {
+      "landmark": "565",
+      "source_difference": "L beginsCodaI; S keepsIII through657.",
+      "navigation_decision": "Retain565 as lower-level landmark; remove old parent 尾声 and lower label 尾声展开. Selected top-level reading stays inIIIgroup."
+    },
+    {
+      "landmark": "657",
+      "source_difference": "S shares657 between III andRecapitulation; L includes657–662 inCodaI.",
+      "navigation_decision": "Use actualAllegro q1978 as half-open start of回顾与终结; this is convention-to-navigation normalization, not extra measureduration."
+    },
+    {
+      "landmark": "662/X1/663",
+      "source_difference": "L table countsCodaII663; project XML has actualshort662, implicitX1, then numeric663.",
+      "navigation_decision": "No new selected boundary at663. Audit all identities explicitly; all remainwithin657–680回顾. Never use source_index663 as label663."
+    },
+    {
+      "landmark": "681",
+      "source_difference": "S startsEnding681; L keepsCodaII.",
+      "navigation_decision": "Parent containsending aschild; q2050.5 uses sourceordinal682."
+    },
+    {
+      "landmark": "716",
+      "source_difference": "S prose discussesfinalexpandedthemes without giving716.",
+      "navigation_decision": "716 split remains explicitly project score analysis; q2155.5 is sourceordinal717, not author’s statedboundary."
+    }
+  ],
+  "selected_model": {
+    "primary": "S",
+    "choice": "Three fugal material groups and their returns, framed by introduction and end retrospection.",
+    "not_consensus": true,
+    "parents": [
+      {
+        "id": "opening",
+        "label": "序奏与赋格Ⅰ",
+        "xml_measure_span": "1–158",
+        "start_q": 0.0,
+        "end_q": 598.0,
+        "source_model": "S primary; L compared",
+        "basis": "S将序奏与赋格I分列；本项目为导航合并。L的多乐章备选也把两者合成首乐章，但该备选不是共识。",
+        "editorial_grouping": true,
+        "children_ids": [
+          "intro",
+          "fugue_i"
+        ]
+      },
+      {
+        "id": "second",
+        "label": "赋格Ⅱ",
+        "xml_measure_span": "159–232",
+        "start_q": 598.0,
+        "end_q": 746.0,
+        "source_model": "S primary; L compared",
+        "basis": "直接采用S表1的独立第二赋格；L称double fugato，C摘要称第二部分本质为赋格。内部三子段是文献定位与读谱归组。",
+        "editorial_grouping": true,
+        "children_ids": [
+          "ii_variation",
+          "ii_inversion",
+          "ii_expansion"
+        ]
+      },
+      {
+        "id": "third",
+        "label": "第三赋格组与回归",
+        "xml_measure_span": "233–656",
+        "start_q": 746.0,
+        "end_q": 1978.0,
+        "source_model": "S primary; L compared",
+        "basis": "采用S关于第三组的变奏主线；容纳L所称插部、493的赋格II回归及511连接。连续父范围是本项目编辑包装，不宣称此处每小节都处于严格赋格。",
+        "editorial_grouping": true,
+        "children_ids": [
+          "iii_opening",
+          "ab_fugue",
+          "recombination",
+          "inversion_development",
+          "ii_return",
+          "transition",
+          "iii_return",
+          "iii_continuation"
+        ]
+      },
+      {
+        "id": "closing",
+        "label": "回顾与终结",
+        "xml_measure_span": "657–741（含X1）",
+        "start_q": 1978.0,
+        "end_q": 2233.5,
+        "source_model": "S primary; L compared",
+        "basis": "合并S的657–680回顾和681–741结束；不是照抄作者的单一父段。657共享边界按半开区间划给回顾。",
+        "editorial_grouping": true,
+        "children_ids": [
+          "retrospective",
+          "ending_return",
+          "final_convergence"
+        ]
+      }
+    ],
+    "children": [
+      {
+        "id": "intro",
+        "label": "序奏",
+        "xml_measure_span": "1–29；30 第1–2拍",
+        "start_q": 0.0,
+        "end_q": 84.0,
+        "start_identity": {
+          "source_measure_ordinal": 1,
+          "xml_label": "1",
+          "offset_q": [
+            0,
+            1
+          ],
+          "q": [
+            0,
+            1
+          ],
+          "q_float": 0.0,
+          "score_q": [
+            0,
+            1
+          ],
+          "score_end_q": [
+            3,
+            1
+          ],
+          "geometry_svg_id": "m-p1-o1",
+          "geometry_q": [
+            0,
+            1
+          ],
+          "geometry_end_q": [
+            3,
+            1
+          ],
+          "pdf_location": {
+            "pdf_page": 1,
+            "pdf_system": 1,
+            "bar_in_system": 1
+          }
+        },
+        "end_identity": {
+          "source_measure_ordinal": 30,
+          "xml_label": "30",
+          "offset_q": [
+            2,
+            1
+          ],
+          "q": [
+            84,
+            1
+          ],
+          "q_float": 84.0,
+          "score_q": [
+            82,
+            1
+          ],
+          "score_end_q": [
+            86,
+            1
+          ],
+          "geometry_svg_id": "m-p1-o30",
+          "geometry_q": [
+            82,
+            1
+          ],
+          "geometry_end_q": [
+            86,
+            1
+          ],
+          "pdf_location": {
+            "pdf_page": 1,
+            "pdf_system": 4,
+            "bar_in_system": 3
+          }
+        },
+        "source_ids": [
+          "L",
+          "S"
+        ],
+        "basis": "L 表1、S 表1都保留序奏；本项目在m30 Fuga文字offset2切换，非把L的31机械套到小节起点。",
+        "boundary_status": "coordinate_verified; interpretation_adopted_with_disclosed_editorial_scope"
+      },
+      {
+        "id": "fugue_i",
+        "label": "赋格Ⅰ",
+        "xml_measure_span": "30 第3拍起–158",
+        "start_q": 84.0,
+        "end_q": 598.0,
+        "start_identity": {
+          "source_measure_ordinal": 30,
+          "xml_label": "30",
+          "offset_q": [
+            2,
+            1
+          ],
+          "q": [
+            84,
+            1
+          ],
+          "q_float": 84.0,
+          "score_q": [
+            82,
+            1
+          ],
+          "score_end_q": [
+            86,
+            1
+          ],
+          "geometry_svg_id": "m-p1-o30",
+          "geometry_q": [
+            82,
+            1
+          ],
+          "geometry_end_q": [
+            86,
+            1
+          ],
+          "pdf_location": {
+            "pdf_page": 1,
+            "pdf_system": 4,
+            "bar_in_system": 3
+          }
+        },
+        "end_identity": {
+          "source_measure_ordinal": 159,
+          "xml_label": "159",
+          "offset_q": [
+            0,
+            1
+          ],
+          "q": [
+            598,
+            1
+          ],
+          "q_float": 598.0,
+          "score_q": [
+            598,
+            1
+          ],
+          "score_end_q": [
+            600,
+            1
+          ],
+          "geometry_svg_id": "m-p1-o159",
+          "geometry_q": [
+            598,
+            1
+          ],
+          "geometry_end_q": [
+            600,
+            1
+          ],
+          "pdf_location": {
+            "pdf_page": 8,
+            "pdf_system": 2,
+            "bar_in_system": 3
+          }
+        },
+        "source_ids": [
+          "L",
+          "S"
+        ],
+        "basis": "L给31–158，S给30–158。导航含Fuga文字处之后的弱起；首个ff音还晚0.75q。",
+        "boundary_status": "coordinate_verified; interpretation_adopted_with_disclosed_editorial_scope"
+      },
+      {
+        "id": "ii_variation",
+        "label": "主题变奏",
+        "xml_measure_span": "159–192",
+        "start_q": 598.0,
+        "end_q": 666.0,
+        "start_identity": {
+          "source_measure_ordinal": 159,
+          "xml_label": "159",
+          "offset_q": [
+            0,
+            1
+          ],
+          "q": [
+            598,
+            1
+          ],
+          "q_float": 598.0,
+          "score_q": [
+            598,
+            1
+          ],
+          "score_end_q": [
+            600,
+            1
+          ],
+          "geometry_svg_id": "m-p1-o159",
+          "geometry_q": [
+            598,
+            1
+          ],
+          "geometry_end_q": [
+            600,
+            1
+          ],
+          "pdf_location": {
+            "pdf_page": 8,
+            "pdf_system": 2,
+            "bar_in_system": 3
+          }
+        },
+        "end_identity": {
+          "source_measure_ordinal": 193,
+          "xml_label": "193",
+          "offset_q": [
+            0,
+            1
+          ],
+          "q": [
+            666,
+            1
+          ],
+          "q_float": 666.0,
+          "score_q": [
+            666,
+            1
+          ],
+          "score_end_q": [
+            668,
+            1
+          ],
+          "geometry_svg_id": "m-p1-o193",
+          "geometry_q": [
+            666,
+            1
+          ],
+          "geometry_end_q": [
+            668,
+            1
+          ],
+          "pdf_location": {
+            "pdf_page": 9,
+            "pdf_system": 3,
+            "bar_in_system": 6
+          }
+        },
+        "source_ids": [
+          "S"
+        ],
+        "basis": "S p7表1把159–232作赋格II；此第一子段以193倒影事件为终点，是本项目覆盖性分组，不称文献规定的呈示部。",
+        "boundary_status": "coordinate_verified; interpretation_adopted_with_disclosed_editorial_scope"
+      },
+      {
+        "id": "ii_inversion",
+        "label": "倒影变形",
+        "xml_measure_span": "193–208",
+        "start_q": 666.0,
+        "end_q": 698.0,
+        "start_identity": {
+          "source_measure_ordinal": 193,
+          "xml_label": "193",
+          "offset_q": [
+            0,
+            1
+          ],
+          "q": [
+            666,
+            1
+          ],
+          "q_float": 666.0,
+          "score_q": [
+            666,
+            1
+          ],
+          "score_end_q": [
+            668,
+            1
+          ],
+          "geometry_svg_id": "m-p1-o193",
+          "geometry_q": [
+            666,
+            1
+          ],
+          "geometry_end_q": [
+            668,
+            1
+          ],
+          "pdf_location": {
+            "pdf_page": 9,
+            "pdf_system": 3,
+            "bar_in_system": 6
+          }
+        },
+        "end_identity": {
+          "source_measure_ordinal": 209,
+          "xml_label": "209",
+          "offset_q": [
+            0,
+            1
+          ],
+          "q": [
+            698,
+            1
+          ],
+          "q_float": 698.0,
+          "score_q": [
+            698,
+            1
+          ],
+          "score_end_q": [
+            700,
+            1
+          ],
+          "geometry_svg_id": "m-p1-o209",
+          "geometry_q": [
+            698,
+            1
+          ],
+          "geometry_end_q": [
+            700,
+            1
+          ],
+          "pdf_location": {
+            "pdf_page": 10,
+            "pdf_system": 1,
+            "bar_in_system": 5
+          }
+        },
+        "source_ids": [
+          "S"
+        ],
+        "basis": "S p8明确193–198倒影，例10横跨188–199。延伸到208是导航归组；193大提琴长主题第二拍入，界面在该小节起点预示过程。",
+        "boundary_status": "coordinate_verified; interpretation_adopted_with_disclosed_editorial_scope"
+      },
+      {
+        "id": "ii_expansion",
+        "label": "扩展与收束",
+        "xml_measure_span": "209–232",
+        "start_q": 698.0,
+        "end_q": 746.0,
+        "start_identity": {
+          "source_measure_ordinal": 209,
+          "xml_label": "209",
+          "offset_q": [
+            0,
+            1
+          ],
+          "q": [
+            698,
+            1
+          ],
+          "q_float": 698.0,
+          "score_q": [
+            698,
+            1
+          ],
+          "score_end_q": [
+            700,
+            1
+          ],
+          "geometry_svg_id": "m-p1-o209",
+          "geometry_q": [
+            698,
+            1
+          ],
+          "geometry_end_q": [
+            700,
+            1
+          ],
+          "pdf_location": {
+            "pdf_page": 10,
+            "pdf_system": 1,
+            "bar_in_system": 5
+          }
+        },
+        "end_identity": {
+          "source_measure_ordinal": 233,
+          "xml_label": "233",
+          "offset_q": [
+            0,
+            1
+          ],
+          "q": [
+            746,
+            1
+          ],
+          "q_float": 746.0,
+          "score_q": [
+            746,
+            1
+          ],
+          "score_end_q": [
+            749,
+            1
+          ],
+          "geometry_svg_id": "m-p1-o233",
+          "geometry_q": [
+            746,
+            1
+          ],
+          "geometry_end_q": [
+            749,
+            1
+          ],
+          "pdf_location": {
+            "pdf_page": 11,
+            "pdf_system": 1,
+            "bar_in_system": 1
+          }
+        },
+        "source_ids": [
+          "S"
+        ],
+        "basis": "S p10明确回指209–216主题扩展；209–232全段命名及232收束归组属本项目读谱。PDF p10/system1/bar5与E标记一致，但排练字母不是单独分析依据。",
+        "boundary_status": "coordinate_verified; interpretation_adopted_with_disclosed_editorial_scope"
+      },
+      {
+        "id": "iii_opening",
+        "label": "第三组起始",
+        "xml_measure_span": "233–271；272 前半",
+        "start_q": 746.0,
+        "end_q": 864.5,
+        "start_identity": {
+          "source_measure_ordinal": 233,
+          "xml_label": "233",
+          "offset_q": [
+            0,
+            1
+          ],
+          "q": [
+            746,
+            1
+          ],
+          "q_float": 746.0,
+          "score_q": [
+            746,
+            1
+          ],
+          "score_end_q": [
+            749,
+            1
+          ],
+          "geometry_svg_id": "m-p1-o233",
+          "geometry_q": [
+            746,
+            1
+          ],
+          "geometry_end_q": [
+            749,
+            1
+          ],
+          "pdf_location": {
+            "pdf_page": 11,
+            "pdf_system": 1,
+            "bar_in_system": 1
+          }
+        },
+        "end_identity": {
+          "source_measure_ordinal": 272,
+          "xml_label": "272",
+          "offset_q": [
+            3,
+            2
+          ],
+          "q": [
+            1729,
+            2
+          ],
+          "q_float": 864.5,
+          "score_q": [
+            863,
+            1
+          ],
+          "score_end_q": [
+            866,
+            1
+          ],
+          "geometry_svg_id": "m-p1-o272",
+          "geometry_q": [
+            863,
+            1
+          ],
+          "geometry_end_q": [
+            866,
+            1
+          ],
+          "pdf_location": {
+            "pdf_page": 11,
+            "pdf_system": 5,
+            "bar_in_system": 6
+          }
+        },
+        "source_ids": [
+          "L",
+          "S"
+        ],
+        "basis": "主读法随S把233当第三赋格起点；L称插部/进行曲。中文使用材料组称谓保留同音性织体事实，不把所有小节标作严格赋格。",
+        "boundary_status": "coordinate_verified; interpretation_adopted_with_disclosed_editorial_scope"
+      },
+      {
+        "id": "ab_fugue",
+        "label": "降A调赋格",
+        "xml_measure_span": "272 后半–413",
+        "start_q": 864.5,
+        "end_q": 1289.0,
+        "start_identity": {
+          "source_measure_ordinal": 272,
+          "xml_label": "272",
+          "offset_q": [
+            3,
+            2
+          ],
+          "q": [
+            1729,
+            2
+          ],
+          "q_float": 864.5,
+          "score_q": [
+            863,
+            1
+          ],
+          "score_end_q": [
+            866,
+            1
+          ],
+          "geometry_svg_id": "m-p1-o272",
+          "geometry_q": [
+            863,
+            1
+          ],
+          "geometry_end_q": [
+            866,
+            1
+          ],
+          "pdf_location": {
+            "pdf_page": 11,
+            "pdf_system": 5,
+            "bar_in_system": 6
+          }
+        },
+        "end_identity": {
+          "source_measure_ordinal": 414,
+          "xml_label": "414",
+          "offset_q": [
+            0,
+            1
+          ],
+          "q": [
+            1289,
+            1
+          ],
+          "q_float": 1289.0,
+          "score_q": [
+            1289,
+            1
+          ],
+          "score_end_q": [
+            1292,
+            1
+          ],
+          "geometry_svg_id": "m-p1-o414",
+          "geometry_q": [
+            1289,
+            1
+          ],
+          "geometry_end_q": [
+            1292,
+            1
+          ],
+          "pdf_location": {
+            "pdf_page": 15,
+            "pdf_system": 3,
+            "bar_in_system": 1
+          }
+        },
+        "source_ids": [
+          "L",
+          "S"
+        ],
+        "basis": "两篇都确认273的新赋格/呈示；本项目将272后半大提琴弱起归入，q864.5。到414新调号与新处理前止。",
+        "boundary_status": "coordinate_verified; interpretation_adopted_with_disclosed_editorial_scope"
+      },
+      {
+        "id": "recombination",
+        "label": "主题再组合",
+        "xml_measure_span": "414–452",
+        "start_q": 1289.0,
+        "end_q": 1406.0,
+        "start_identity": {
+          "source_measure_ordinal": 414,
+          "xml_label": "414",
+          "offset_q": [
+            0,
+            1
+          ],
+          "q": [
+            1289,
+            1
+          ],
+          "q_float": 1289.0,
+          "score_q": [
+            1289,
+            1
+          ],
+          "score_end_q": [
+            1292,
+            1
+          ],
+          "geometry_svg_id": "m-p1-o414",
+          "geometry_q": [
+            1289,
+            1
+          ],
+          "geometry_end_q": [
+            1292,
+            1
+          ],
+          "pdf_location": {
+            "pdf_page": 15,
+            "pdf_system": 3,
+            "bar_in_system": 1
+          }
+        },
+        "end_identity": {
+          "source_measure_ordinal": 453,
+          "xml_label": "453",
+          "offset_q": [
+            0,
+            1
+          ],
+          "q": [
+            1406,
+            1
+          ],
+          "q_float": 1406.0,
+          "score_q": [
+            1406,
+            1
+          ],
+          "score_end_q": [
+            1409,
+            1
+          ],
+          "geometry_svg_id": "m-p1-o453",
+          "geometry_q": [
+            1406,
+            1
+          ],
+          "geometry_end_q": [
+            1409,
+            1
+          ],
+          "pdf_location": {
+            "pdf_page": 16,
+            "pdf_system": 2,
+            "bar_in_system": 5
+          }
+        },
+        "source_ids": [
+          "L",
+          "S",
+          "C"
+        ],
+        "basis": "L表1新块415，S例13始414、p11列416为呈示型入口、p9–10说418见第二主题；C注20给414附近不同命名。导航在414包括引入，用保守材料标签。",
+        "boundary_status": "coordinate_verified; interpretation_adopted_with_disclosed_editorial_scope"
+      },
+      {
+        "id": "inversion_development",
+        "label": "倒影与继续展开",
+        "xml_measure_span": "453–492",
+        "start_q": 1406.0,
+        "end_q": 1526.0,
+        "start_identity": {
+          "source_measure_ordinal": 453,
+          "xml_label": "453",
+          "offset_q": [
+            0,
+            1
+          ],
+          "q": [
+            1406,
+            1
+          ],
+          "q_float": 1406.0,
+          "score_q": [
+            1406,
+            1
+          ],
+          "score_end_q": [
+            1409,
+            1
+          ],
+          "geometry_svg_id": "m-p1-o453",
+          "geometry_q": [
+            1406,
+            1
+          ],
+          "geometry_end_q": [
+            1409,
+            1
+          ],
+          "pdf_location": {
+            "pdf_page": 16,
+            "pdf_system": 2,
+            "bar_in_system": 5
+          }
+        },
+        "end_identity": {
+          "source_measure_ordinal": 493,
+          "xml_label": "493",
+          "offset_q": [
+            0,
+            1
+          ],
+          "q": [
+            1526,
+            1
+          ],
+          "q_float": 1526.0,
+          "score_q": [
+            1526,
+            1
+          ],
+          "score_end_q": [
+            1528,
+            1
+          ],
+          "geometry_svg_id": "m-p1-o493",
+          "geometry_q": [
+            1526,
+            1
+          ],
+          "geometry_end_q": [
+            1528,
+            1
+          ],
+          "pdf_location": {
+            "pdf_page": 17,
+            "pdf_system": 2,
+            "bar_in_system": 1
+          }
+        },
+        "source_ids": [
+          "S"
+        ],
+        "basis": "S p10把453–460停顿/倒影列作重要转折。延伸至493回归前是本项目导航归组；不把477踏音另立奏鸣曲再现。",
+        "boundary_status": "coordinate_verified; interpretation_adopted_with_disclosed_editorial_scope"
+      },
+      {
+        "id": "ii_return",
+        "label": "第二赋格回归",
+        "xml_measure_span": "493–510",
+        "start_q": 1526.0,
+        "end_q": 1562.0,
+        "start_identity": {
+          "source_measure_ordinal": 493,
+          "xml_label": "493",
+          "offset_q": [
+            0,
+            1
+          ],
+          "q": [
+            1526,
+            1
+          ],
+          "q_float": 1526.0,
+          "score_q": [
+            1526,
+            1
+          ],
+          "score_end_q": [
+            1528,
+            1
+          ],
+          "geometry_svg_id": "m-p1-o493",
+          "geometry_q": [
+            1526,
+            1
+          ],
+          "geometry_end_q": [
+            1528,
+            1
+          ],
+          "pdf_location": {
+            "pdf_page": 17,
+            "pdf_system": 2,
+            "bar_in_system": 1
+          }
+        },
+        "end_identity": {
+          "source_measure_ordinal": 511,
+          "xml_label": "511",
+          "offset_q": [
+            0,
+            1
+          ],
+          "q": [
+            1562,
+            1
+          ],
+          "q_float": 1562.0,
+          "score_q": [
+            1562,
+            1
+          ],
+          "score_end_q": [
+            1564,
+            1
+          ],
+          "geometry_svg_id": "m-p1-o511",
+          "geometry_q": [
+            1562,
+            1
+          ],
+          "geometry_end_q": [
+            1564,
+            1
+          ],
+          "pdf_location": {
+            "pdf_page": 17,
+            "pdf_system": 5,
+            "bar_in_system": 1
+          }
+        },
+        "source_ids": [
+          "L",
+          "S",
+          "C"
+        ],
+        "basis": "S p8明确这是赋格II再现；其p7表却误写或另写FugaIII，原文矛盾保留。C注23否认标准新呈示性质；标签意为此前材料回归。",
+        "boundary_status": "coordinate_verified; interpretation_adopted_with_disclosed_editorial_scope"
+      },
+      {
+        "id": "transition",
+        "label": "连接",
+        "xml_measure_span": "511–532",
+        "start_q": 1562.0,
+        "end_q": 1606.0,
+        "start_identity": {
+          "source_measure_ordinal": 511,
+          "xml_label": "511",
+          "offset_q": [
+            0,
+            1
+          ],
+          "q": [
+            1562,
+            1
+          ],
+          "q_float": 1562.0,
+          "score_q": [
+            1562,
+            1
+          ],
+          "score_end_q": [
+            1564,
+            1
+          ],
+          "geometry_svg_id": "m-p1-o511",
+          "geometry_q": [
+            1562,
+            1
+          ],
+          "geometry_end_q": [
+            1564,
+            1
+          ],
+          "pdf_location": {
+            "pdf_page": 17,
+            "pdf_system": 5,
+            "bar_in_system": 1
+          }
+        },
+        "end_identity": {
+          "source_measure_ordinal": 533,
+          "xml_label": "533",
+          "offset_q": [
+            0,
+            1
+          ],
+          "q": [
+            1606,
+            1
+          ],
+          "q_float": 1606.0,
+          "score_q": [
+            1606,
+            1
+          ],
+          "score_end_q": [
+            1609,
+            1
+          ],
+          "geometry_svg_id": "m-p1-o533",
+          "geometry_q": [
+            1606,
+            1
+          ],
+          "geometry_end_q": [
+            1609,
+            1
+          ],
+          "pdf_location": {
+            "pdf_page": 18,
+            "pdf_system": 2,
+            "bar_in_system": 1
+          }
+        },
+        "source_ids": [
+          "L",
+          "S"
+        ],
+        "basis": "两篇同列连接；S说明半音碎片化，L pp148–149讨论其修辞功能。此处连续渐快不是另一个大型乐章。",
+        "boundary_status": "coordinate_verified; interpretation_adopted_with_disclosed_editorial_scope"
+      },
+      {
+        "id": "iii_return",
+        "label": "第三组回归",
+        "xml_measure_span": "533–564",
+        "start_q": 1606.0,
+        "end_q": 1702.0,
+        "start_identity": {
+          "source_measure_ordinal": 533,
+          "xml_label": "533",
+          "offset_q": [
+            0,
+            1
+          ],
+          "q": [
+            1606,
+            1
+          ],
+          "q_float": 1606.0,
+          "score_q": [
+            1606,
+            1
+          ],
+          "score_end_q": [
+            1609,
+            1
+          ],
+          "geometry_svg_id": "m-p1-o533",
+          "geometry_q": [
+            1606,
+            1
+          ],
+          "geometry_end_q": [
+            1609,
+            1
+          ],
+          "pdf_location": {
+            "pdf_page": 18,
+            "pdf_system": 2,
+            "bar_in_system": 1
+          }
+        },
+        "end_identity": {
+          "source_measure_ordinal": 565,
+          "xml_label": "565",
+          "offset_q": [
+            0,
+            1
+          ],
+          "q": [
+            1702,
+            1
+          ],
+          "q_float": 1702.0,
+          "score_q": [
+            1702,
+            1
+          ],
+          "score_end_q": [
+            1705,
+            1
+          ],
+          "geometry_svg_id": "m-p1-o565",
+          "geometry_q": [
+            1702,
+            1
+          ],
+          "geometry_end_q": [
+            1705,
+            1
+          ],
+          "pdf_location": {
+            "pdf_page": 18,
+            "pdf_system": 5,
+            "bar_in_system": 8
+          }
+        },
+        "source_ids": [
+          "L",
+          "S"
+        ],
+        "basis": "S表列533–657为赋格III，L把533–564另称进行曲再现。采用回归材料标签，565保持下层转折。",
+        "boundary_status": "coordinate_verified; interpretation_adopted_with_disclosed_editorial_scope"
+      },
+      {
+        "id": "iii_continuation",
+        "label": "延展与收束",
+        "xml_measure_span": "565–656",
+        "start_q": 1702.0,
+        "end_q": 1978.0,
+        "start_identity": {
+          "source_measure_ordinal": 565,
+          "xml_label": "565",
+          "offset_q": [
+            0,
+            1
+          ],
+          "q": [
+            1702,
+            1
+          ],
+          "q_float": 1702.0,
+          "score_q": [
+            1702,
+            1
+          ],
+          "score_end_q": [
+            1705,
+            1
+          ],
+          "geometry_svg_id": "m-p1-o565",
+          "geometry_q": [
+            1702,
+            1
+          ],
+          "geometry_end_q": [
+            1705,
+            1
+          ],
+          "pdf_location": {
+            "pdf_page": 18,
+            "pdf_system": 5,
+            "bar_in_system": 8
+          }
+        },
+        "end_identity": {
+          "source_measure_ordinal": 657,
+          "xml_label": "657",
+          "offset_q": [
+            0,
+            1
+          ],
+          "q": [
+            1978,
+            1
+          ],
+          "q_float": 1978.0,
+          "score_q": [
+            1978,
+            1
+          ],
+          "score_end_q": [
+            1982,
+            1
+          ],
+          "geometry_svg_id": "m-p1-o657",
+          "geometry_q": [
+            1978,
+            1
+          ],
+          "geometry_end_q": [
+            1982,
+            1
+          ],
+          "pdf_location": {
+            "pdf_page": 21,
+            "pdf_system": 1,
+            "bar_in_system": 1
+          }
+        },
+        "source_ids": [
+          "L",
+          "S"
+        ],
+        "basis": "L从565称Coda I；S仍纳入第三赋格至657。本项目选S的上层，把565作下层导航，以材料过程名避免宣布尾声起点共识。",
+        "boundary_status": "coordinate_verified; interpretation_adopted_with_disclosed_editorial_scope"
+      },
+      {
+        "id": "retrospective",
+        "label": "主题回顾",
+        "xml_measure_span": "657–662；X1；663–680",
+        "start_q": 1978.0,
+        "end_q": 2050.5,
+        "start_identity": {
+          "source_measure_ordinal": 657,
+          "xml_label": "657",
+          "offset_q": [
+            0,
+            1
+          ],
+          "q": [
+            1978,
+            1
+          ],
+          "q_float": 1978.0,
+          "score_q": [
+            1978,
+            1
+          ],
+          "score_end_q": [
+            1982,
+            1
+          ],
+          "geometry_svg_id": "m-p1-o657",
+          "geometry_q": [
+            1978,
+            1
+          ],
+          "geometry_end_q": [
+            1982,
+            1
+          ],
+          "pdf_location": {
+            "pdf_page": 21,
+            "pdf_system": 1,
+            "bar_in_system": 1
+          }
+        },
+        "end_identity": {
+          "source_measure_ordinal": 682,
+          "xml_label": "681",
+          "offset_q": [
+            0,
+            1
+          ],
+          "q": [
+            4101,
+            2
+          ],
+          "q_float": 2050.5,
+          "score_q": [
+            4101,
+            2
+          ],
+          "score_end_q": [
+            4107,
+            2
+          ],
+          "geometry_svg_id": "m-p1-o682",
+          "geometry_q": [
+            4101,
+            2
+          ],
+          "geometry_end_q": [
+            4107,
+            2
+          ],
+          "pdf_location": {
+            "pdf_page": 21,
+            "pdf_system": 3,
+            "bar_in_system": 9
+          }
+        },
+        "source_ids": [
+          "L",
+          "S"
+        ],
+        "basis": "S表1列657–680回顾；L把657–662放Coda I末、663后另作Coda II。选S；X1是真实有声弱起，完整留在该段。",
+        "boundary_status": "coordinate_verified; interpretation_adopted_with_disclosed_editorial_scope"
+      },
+      {
+        "id": "ending_return",
+        "label": "结束段起始",
+        "xml_measure_span": "681–715",
+        "start_q": 2050.5,
+        "end_q": 2155.5,
+        "start_identity": {
+          "source_measure_ordinal": 682,
+          "xml_label": "681",
+          "offset_q": [
+            0,
+            1
+          ],
+          "q": [
+            4101,
+            2
+          ],
+          "q_float": 2050.5,
+          "score_q": [
+            4101,
+            2
+          ],
+          "score_end_q": [
+            4107,
+            2
+          ],
+          "geometry_svg_id": "m-p1-o682",
+          "geometry_q": [
+            4101,
+            2
+          ],
+          "geometry_end_q": [
+            4107,
+            2
+          ],
+          "pdf_location": {
+            "pdf_page": 21,
+            "pdf_system": 3,
+            "bar_in_system": 9
+          }
+        },
+        "end_identity": {
+          "source_measure_ordinal": 717,
+          "xml_label": "716",
+          "offset_q": [
+            0,
+            1
+          ],
+          "q": [
+            4311,
+            2
+          ],
+          "q_float": 2155.5,
+          "score_q": [
+            4311,
+            2
+          ],
+          "score_end_q": [
+            4317,
+            2
+          ],
+          "geometry_svg_id": "m-p1-o717",
+          "geometry_q": [
+            4311,
+            2
+          ],
+          "geometry_end_q": [
+            4317,
+            2
+          ],
+          "pdf_location": {
+            "pdf_page": 22,
+            "pdf_system": 2,
+            "bar_in_system": 3
+          }
+        },
+        "source_ids": [
+          "S"
+        ],
+        "basis": "S表1给681–741结束。681后起始材料回返为本项目对照m233所作分析；716进一步切分不是S明示的小节界。",
+        "boundary_status": "coordinate_verified; interpretation_adopted_with_disclosed_editorial_scope"
+      },
+      {
+        "id": "final_convergence",
+        "label": "双主题汇合",
+        "xml_measure_span": "716–741",
+        "start_q": 2155.5,
+        "end_q": 2233.5,
+        "start_identity": {
+          "source_measure_ordinal": 717,
+          "xml_label": "716",
+          "offset_q": [
+            0,
+            1
+          ],
+          "q": [
+            4311,
+            2
+          ],
+          "q_float": 2155.5,
+          "score_q": [
+            4311,
+            2
+          ],
+          "score_end_q": [
+            4317,
+            2
+          ],
+          "geometry_svg_id": "m-p1-o717",
+          "geometry_q": [
+            4311,
+            2
+          ],
+          "geometry_end_q": [
+            4317,
+            2
+          ],
+          "pdf_location": {
+            "pdf_page": 22,
+            "pdf_system": 2,
+            "bar_in_system": 3
+          }
+        },
+        "end_identity": {
+          "source_measure_ordinal": 742,
+          "xml_label": "741",
+          "offset_q": [
+            3,
+            1
+          ],
+          "q": [
+            4467,
+            2
+          ],
+          "q_float": 2233.5,
+          "score_q": [
+            4461,
+            2
+          ],
+          "score_end_q": [
+            4467,
+            2
+          ],
+          "geometry_svg_id": "m-p1-o742",
+          "geometry_q": [
+            4461,
+            2
+          ],
+          "geometry_end_q": [
+            4467,
+            2
+          ],
+          "pdf_location": {
+            "pdf_page": 22,
+            "pdf_system": 5,
+            "bar_in_system": 7
+          }
+        },
+        "source_ids": [
+          "S"
+        ],
+        "basis": "S p10说末尾两主题扩展但未注明716。716是本项目读谱节点：第一小提琴跳进材料，大提琴后半长时值主题；该精确边界不归给作者。",
+        "boundary_status": "coordinate_verified; interpretation_adopted_with_disclosed_editorial_scope"
+      }
+    ]
+  },
+  "reading_limitations": [
+    "No claim of scholarly consensus.",
+    "Cooper fulltext notread; Lockwood book notread directly.",
+    "Interpretive distinctions remain; reviewed means deliberate documented navigation choice, not final musicological adjudication."
+  ]
+}

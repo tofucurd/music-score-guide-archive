@@ -1,0 +1,101 @@
+{
+  "schema": "reference-display-shades.v1",
+  "overrides": [
+    {
+      "span_id": "full-0297",
+      "palette_key": "core_medium",
+      "source_note_ids": [
+        "s-p2-m297-n3"
+      ],
+      "observed_reference_color": "dark blue",
+      "reference_frames": [
+        "research/material-reference-10/reference-m298/reference-486.5.png",
+        "research/material-reference-02/dense-states/state-0215.jpg"
+      ],
+      "reason": "The reference directly shows a dark-blue C4 before the cyan Db4/Bb4 inversion. Preserve the dark family shade in display; do not assert an independently proven medium-form identity or transparent-overlap explanation.",
+      "semantic_assignment_unchanged": "core_chromatic"
+    },
+    {
+      "kind": "tied_note_continuity",
+      "palette_key": "leaping_fugue",
+      "id": "audit-a-p1-m159-tied-tail",
+      "source_note_ids": [
+        "s-p1-m159-n1"
+      ],
+      "global_q_start": 598.0,
+      "global_q_end": 598.25,
+      "reason": "158n8 C-sharp5以真正延音线连至159n1 C-sharp5，当前持续同一音在换拍/新速度处从red变黑；159q0.25起的新core仍保持原边界。建议仅把延音终点和相应延音线显示为前音颜色，不将其误归为core，也不声称原框越过了159小节线。",
+      "evidence": [
+        {
+          "state": "state-0100",
+          "path": "research/material-reference-02/dense-states/state-0100.jpg",
+          "reference_seconds": 265.5
+        },
+        {
+          "state": "state-0102",
+          "path": "research/material-reference-02/dense-states/state-0102.jpg",
+          "reference_seconds": 272.0
+        }
+      ]
+    },
+    {
+      "kind": "tied_note_continuity",
+      "palette_key": "leaping_fugue",
+      "id": "audit-a-p4-m120-tied-head",
+      "source_note_ids": [
+        "s-p4-m120-n9"
+      ],
+      "global_q_start": 445.5,
+      "global_q_end": 446.0,
+      "reason": "120n9 A-flat2以真正延音线连到121n1同音。新原帧203.75s确认120红框只到q2 F2长音，q3.5 A-flat2仍在框外；故保留此单音显示覆写，不能称原框覆盖。新增120前部red与此覆写无重叠。",
+      "evidence": [
+        {
+          "state": "state-0074",
+          "path": "research/material-reference-02/dense-states/state-0074.jpg",
+          "reference_seconds": 205.0
+        },
+        {
+          "state": "novel-0010",
+          "path": "research/material-reference-12/interstitial-8hz/novel-0010-0203.750.jpg",
+          "reference_seconds": 203.75
+        }
+      ]
+    },
+    {
+      "id": "p3-m313-inversion-dark-display",
+      "span_id": "full-0315",
+      "palette_key": "core_medium",
+      "source_note_ids": [
+        "s-p3-m313-n2",
+        "s-p3-m314-n1",
+        "s-p3-m314-n2",
+        "s-p3-m315-n2",
+        "s-p3-m316-n1",
+        "s-p3-m316-n2"
+      ],
+      "global_q_start": 987.5,
+      "global_q_end": 997.5,
+      "reason": "state0228 P3独立深蓝Inv框从313q1.5到316q2.5前；state0229浅蓝长音从316q2.5开始。不是跨谱表竖臂。",
+      "reference_frames": [
+        "state-0228",
+        "state-0229"
+      ]
+    },
+    {
+      "id": "p4-m313-inversion-dark-display",
+      "span_id": "full-0316",
+      "palette_key": "core_medium",
+      "source_note_ids": [
+        "s-p4-m313-n3",
+        "s-p4-m314-n1"
+      ],
+      "global_q_start": 987.5,
+      "global_q_end": 990.0,
+      "reason": "state0228 P4深蓝Inv头包含313q1.5 Db4、314q0 C4；314q1起另有青色快型边界。",
+      "reference_frames": [
+        "state-0228",
+        "state-0229"
+      ]
+    }
+  ]
+}

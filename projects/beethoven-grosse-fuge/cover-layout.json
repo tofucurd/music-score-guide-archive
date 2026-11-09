@@ -1,0 +1,17 @@
+{
+  "revision": "cover-revision-04",
+  "baseline_previous": "cover-revision-03/final",
+  "opus_group_offset_y": -32,
+  "heading_moves_with_opus": true,
+  "aspects": {
+    "16x9": [
+      3840,
+      2160
+    ],
+    "4x3": [
+      2880,
+      2160
+    ]
+  },
+  "original_outputs_included": false
+}

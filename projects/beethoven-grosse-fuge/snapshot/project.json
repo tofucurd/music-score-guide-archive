@@ -1,0 +1,73 @@
+{
+  "schema": 1,
+  "work": {
+    "title": "大赋格",
+    "composer": "路德维希·范·贝多芬",
+    "number": "",
+    "opus": "Op.133",
+    "performer": "好莱坞弦乐四重奏",
+    "ensemble": "Hollywood String Quartet"
+  },
+  "movements": [
+    {
+      "id": "m1",
+      "title": "大赋格 Op.133",
+      "label": "大赋格 Op.133",
+      "score": "source/score.corrected.musicxml",
+      "pdf": "materials/score/IMSLP04771-Beethoven_-_Grosse_Fuge_Dover.pdf",
+      "audio": "materials/audio/Hollywood Quartet 1957.flac",
+      "alignment": {
+        "pipeline": "refined"
+      }
+    }
+  ],
+  "output": "output",
+  "cover": {
+    "layout": "paper",
+    "first_measure": 30,
+    "last_measure": 35,
+    "occurrence": 1,
+    "aspect_ranges": {
+      "16x9": [
+        30,
+        35
+      ],
+      "4x3": [
+        30,
+        35
+      ]
+    },
+    "staves": [
+      "P1:1",
+      "P2:1",
+      "P3:1",
+      "P4:1"
+    ],
+    "sample_q": 88.2,
+    "words": {
+      "composer_en": "LUDWIG VAN BEETHOVEN",
+      "composer_zh": "贝多芬",
+      "performer_zh": "好莱坞弦乐四重奏",
+      "ensemble_zh": "1957年录音",
+      "performer_en": "HOLLYWOOD STRING QUARTET",
+      "ensemble_en": "1957 RECORDING",
+      "work_type_en": "GROSSE FUGE"
+    },
+    "identifier": "opus",
+    "identifier_layout": {
+      "16x9": {
+        "offset_y": -32
+      },
+      "4x3": {
+        "offset_y": -32
+      }
+    }
+  },
+  "settings": {
+    "fps": 60,
+    "preview_height": 720,
+    "final_height": 2160,
+    "chunk_seconds": 5,
+    "min_free_gib": 4
+  }
+}
