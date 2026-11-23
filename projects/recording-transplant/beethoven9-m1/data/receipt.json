@@ -1,0 +1,34 @@
+{
+  "source_sha256": "bbc884f61f45c2d855fc68744ec29765a01e4beefbe823c72ac94df8d18b4b88",
+  "reference_sha256": "482c92abb1bdc5d075f3a88617c9d4222f76f518762a1cbb4836476ae23823bb",
+  "clock_sha256": "c07d1a663f1f21fdea8bf5bf6304e9c76625cbd9f8b2cccb58debdd49ac04880",
+  "engine_map_sha256": "9aba4bd2627a5317304d20ee09f69edb7c0abea672e14042ed4047d8f287e7da",
+  "original_sample_range": [
+    0,
+    44545277
+  ],
+  "engine_keys_including_endpoints": 2935,
+  "max_map_export_error_ms": 0.7985412187519528,
+  "engine": "Rubber Band R3 3.3.0",
+  "engine_options": [
+    "-q",
+    "-3",
+    "--centre-focus",
+    "--ignore-clipping",
+    "-t",
+    "1.0247500986468216"
+  ],
+  "target_to_donor_duration_ratio": 1.0247500986468216,
+  "generations_of_time_stretch": 1,
+  "continuous_stereo_passes": 1,
+  "joins": 0,
+  "prior_render_inputs": [],
+  "source_headroom": 0.5,
+  "final_net_gain": 1.0,
+  "peak_at_half_amplitude": 0.3818475604057312,
+  "frames": 45647777,
+  "samplerate": 44100,
+  "channels": 2,
+  "output_subtype": "PCM_24",
+  "sha256": "c023736ac97b91061e29d217c88d2263eae03a990614c722ccb7c69458ef2ee7"
+}

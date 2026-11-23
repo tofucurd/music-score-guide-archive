@@ -127,9 +127,10 @@ def covers(name):
   for aspect,spec in build_cover_specs(cfg,b).items():visual.run_browser(spec,out/f'封面-{aspect}.svg','cover')
 
 def main():
- p=argparse.ArgumentParser(description=__doc__);p.add_argument('action',choices=['restore','prepare-audio','render','covers','show-inputs']);p.add_argument('project',choices=['beethoven7','beethoven9','mahler9','mahler9-mvt4-illustration','beethoven-grosse-fuge']);p.add_argument('--sources',type=Path);p.add_argument('--workers',type=int,choices=range(1,8),default=1,help='Guide: up to 5; Grosse Fuge: up to 7; default 1')
+ p=argparse.ArgumentParser(description=__doc__);p.add_argument('action',choices=['restore','prepare-audio','render','covers','show-inputs']);p.add_argument('project',choices=['beethoven7','beethoven9','mahler9','mahler9-mvt4-illustration','beethoven-grosse-fuge','recording-transplant/beethoven9-m1']);p.add_argument('--sources',type=Path);p.add_argument('--workers',type=int,choices=range(1,8),help='Defaults to 5 for the tempo transplant and 1 for score projects')
  a=p.parse_args()
- if a.project in ('mahler9-mvt4-illustration','beethoven-grosse-fuge'):
+ if a.project in ('mahler9-mvt4-illustration','beethoven-grosse-fuge','recording-transplant/beethoven9-m1'):
+  if a.workers is None:a.workers=5 if a.project=='recording-transplant/beethoven9-m1' else 1
   command=[sys.executable,str(ROOT/'projects'/a.project/'archive.py'),a.action,'--workers',str(a.workers)]
   if a.sources is not None:command+=['--sources',str(a.sources.resolve())]
   subprocess.run(command,check=True);return

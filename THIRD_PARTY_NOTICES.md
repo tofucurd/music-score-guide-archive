@@ -23,3 +23,9 @@ Python依赖、Chromium、Node.js和FFmpeg沿用各自许可。FFmpeg的许可�
 ## 贝多芬大赋格
 
 修订MusicXML来自OpenScore CC0，保留转录者markpearse、作曲家和原谱来源声明。冻结SVG/MEI保留原生刻谱字形；嵌入的思源宋体子集沿用上述OFL许可。Richard Atkinson的公开视频只作为材料位置与色彩关系参考，原视频未分发；曲式文献只保留引文信息和本工程分析，不附带论文PDF。1957年Hollywood String Quartet录音不分发，使用者自行持有sources.json指定发行文件。第三方录音和文献不会因本仓库代码采用MIT而获得额外授权。
+
+## 贝九第一乐章速度移植
+
+封面标题字形取自 Adobe 思源黑体 SC Heavy 2.004。工程随附的 Tempo Poster Heavy 为仅含定稿所需字符的改名子集。版权声明和 SIL Open Font License 1.1 全文见[字体许可](projects/recording-transplant/beethoven9-m1/cover/OFL.txt)。封面插画是制作中使用的 ImageGen 双人肖像图层。两位指挥的馆藏参考照片未收录。肖像参考来自[柏林爱乐档案](https://www.berliner-philharmoniker.de/en/about-us/orchestra/history/wilhelm-furtwaengler/)和[华纳唱片人物资料](https://www.warnerclassics.com/artist/klaus-tennstedt)。
+
+Rubber Band、libsndfile、FFmpeg、PyAV、librsvg 和 ImageMagick 均由使用者按各自许可安装。Pristine 与 London Philharmonic Orchestra 录音的权利由各权利人保留。

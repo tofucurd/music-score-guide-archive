@@ -1,0 +1,25 @@
+{
+  "version": "共同粗钟＋02（学习型声学匹配＋全曲单调解码）",
+  "selection": "direct",
+  "pcm_s24le_sha256": "a5decfabaebd7bd4e8fbd3a6c4841925ef81426971da6c8a94c98d9f5ae369ea",
+  "movie_sha256": "2e581d4602a31c82eff36aaa36960c8803e0c3ce4257e38499f145992ae36ffa",
+  "cover_jpg_sha256": {
+    "16x9": "05096808b9f77a7d8a65ef4c11adad9f87fae7ca47f34d7e86c3cd5bb0fdc535",
+    "4x3": "689c88296957777e9821f99d59a3f862a06d434c4eadea9b5297d31e713dddaf"
+  },
+  "runtime": {
+    "python": "3.12.12",
+    "numpy": "2.5.0",
+    "scipy": "1.18.0",
+    "soundfile": "0.14.0",
+    "libsndfile": "1.2.2",
+    "rubber_band": "3.3.0",
+    "pyav": "17.1.0",
+    "pillow": "12.2.0",
+    "cairo": "1.18.2",
+    "pygobject": "3.46.0",
+    "librsvg": "2.57.1",
+    "mux_ffmpeg": "n9.0.2-17-g2a571b6068"
+  },
+  "original_structure_sha256": "96cf9beb76ad3c4a0df9f7b0240ac03bafa21e74469f3fc3f4bc97c7fb37f965"
+}

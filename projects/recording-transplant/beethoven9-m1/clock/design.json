@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "numerical_budget": {
+    "lag_grid_s": 0.012,
+    "max_velocity_states": 7,
+    "maximum_em_iterations": 8,
+    "max_bootstrap_frames": 1536
+  },
+  "decisions": {
+    "mesh_spacing_and_lag_support": "training motion time step and observed largest residual",
+    "tempo_states": "BIC on observed training velocities, accounting for lattice resolution",
+    "dynamic_model": "regime transition counts and empirical displacement-dependent step kernels from known training paths",
+    "audio_correspondence": "learned from paired polyphonic training audio with a no-match outcome",
+    "recording_adaptation": "marginal likelihood EM on the reliability of acoustic matches, using BIC to choose adapted versus inherited odds",
+    "hard_constraints": ["input bounds", "strict temporal order", "fixed endpoint pair"]
+  }
+}

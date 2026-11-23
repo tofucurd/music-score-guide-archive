@@ -1,0 +1,4 @@
+data/*.csv -text
+clock/*.npz binary
+clock/acoustics/*.npz binary
+cover/*.png binary

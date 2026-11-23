@@ -1,0 +1,91 @@
+{
+  "algorithm": "learned acoustic correspondence and empirical switching clock",
+  "bootstrap": "supplied common coarse route",
+  "source_sha256": "bbc884f61f45c2d855fc68744ec29765a01e4beefbe823c72ac94df8d18b4b88",
+  "reference_sha256": "482c92abb1bdc5d075f3a88617c9d4222f76f518762a1cbb4836476ae23823bb",
+  "acoustic_sha256": "e1c3fc3ce7d42dbbfc0eff27cfabe0423398cb787ad053b35b6afc8334f35832",
+  "dynamics_sha256": "fabad2c2fe0f55ffd36335e63b040ee0c5a23734efb43deb804f37180845b910",
+  "clock_sha256": "c07d1a663f1f21fdea8bf5bf6304e9c76625cbd9f8b2cccb58debdd49ac04880",
+  "em_trace": [
+    {
+      "iteration": 0,
+      "bias": 0.0,
+      "log_evidence": 14015.381484349735,
+      "expected_match": 0.7824580605207281
+    },
+    {
+      "iteration": 1,
+      "bias": 1.8365651172450483,
+      "log_evidence": 15757.36502163067,
+      "expected_match": 0.8568857448818369
+    },
+    {
+      "iteration": 2,
+      "bias": 3.3983739430465643,
+      "log_evidence": 16470.771023345893,
+      "expected_match": 0.8950250841908571
+    },
+    {
+      "iteration": 3,
+      "bias": 4.695583315977397,
+      "log_evidence": 16803.255376495177,
+      "expected_match": 0.9182481557748514
+    },
+    {
+      "iteration": 4,
+      "bias": 5.777315131891418,
+      "log_evidence": 16982.662901254338,
+      "expected_match": 0.9336673183049854
+    },
+    {
+      "iteration": 5,
+      "bias": 6.661807207667841,
+      "log_evidence": 17084.57804175399,
+      "expected_match": 0.944329349856054
+    },
+    {
+      "iteration": 6,
+      "bias": 7.371238518681472,
+      "log_evidence": 17143.622790433466,
+      "expected_match": 0.9518811272607213
+    },
+    {
+      "iteration": 7,
+      "bias": 7.937780909364636,
+      "log_evidence": 17178.972536928304,
+      "expected_match": 0.9574094959794942
+    },
+    {
+      "iteration": 8,
+      "bias": 8.399549438501007,
+      "log_evidence": 17201.567552063196,
+      "expected_match": 0.9616198975923695
+    }
+  ],
+  "pair_odds_adapted": true,
+  "controls": 8418,
+  "lag_count": 195,
+  "lag_support_s": [
+    -1.164,
+    1.164
+  ],
+  "learned_regime_velocities": [
+    -0.14466751320493842,
+    -0.0005073670060001939,
+    0.14394622428068185
+  ],
+  "posterior_width_ms_p50_p90": [
+    36.00000000000001,
+    108.00000000000001
+  ],
+  "match_probability_p10_p50_p90": [
+    0.9940986261272625,
+    0.9999933472262075,
+    0.9999995718026228
+  ],
+  "shift_from_coarse_ms_p50_p90_max": [
+    26.663839061143335,
+    100.85886337952168,
+    316.21926031516523
+  ]
+}

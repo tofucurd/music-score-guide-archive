@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "train_seeds": [202611230, 202611374],
+  "calibration_seeds": [4703000, 4703024],
+  "validation_seeds": [9214800, 9214836],
+  "optimizer_seed": 77491,
+  "scene_seconds": 28.8,
+  "motion_step_seconds": 0.12,
+  "rows_per_training_scene": 100,
+  "choices_per_row": 49,
+  "target_sigma_seconds": 0.035,
+  "hidden_units": 40,
+  "null_hidden_units": 20,
+  "batch_rows": 64,
+  "epochs": 24,
+  "initial_learning_rate": 0.0012,
+  "context_seconds": [-0.48, -0.18, 0.0, 0.18, 0.48]
+}
