@@ -1,6 +1,6 @@
 # 曲谱同步最终工程存档
 
-保存六个已经交付项目的最终工程状态。只收录实际采用的代码、冻结曲谱几何、录音时间映射、声部与材料配置、唱词排版和封面配方；不收录废弃方案、预览、渲染分块或最终媒体。
+保存七个已经交付项目的最终工程状态。只收录实际采用的代码、冻结曲谱几何、录音时间映射、声部与材料配置、唱词排版和封面配方；不收录废弃方案、预览、渲染分块或最终媒体。
 
 | 项目 | 录音 | 归档状态 |
 |---|---|---|
@@ -10,6 +10,7 @@
 | [马九第四乐章导赏版](projects/mahler9-mvt4-illustration/README.md) | Bruno Walter / Columbia Symphony Orchestra | production-04；最终导赏、连线、标签、染色、对照谱例及双比例封面配置，未执行重建测试 |
 | [贝多芬大赋格 Op.133](projects/beethoven-grosse-fuge/README.md) | Hollywood String Quartet，1957 / PACM082 | 最终长连线修订04、封面04；完整冻结帧与染色/对齐配置，未执行重建测试 |
 | [贝多芬第九交响曲第一乐章速度移植](projects/recording-transplant/beethoven9-m1/README.md) | 声音来自滕斯泰特 1992，时间参考为富特文格勒 1942，Pristine PASC 250 | 共同粗钟＋02（学习型声学匹配＋全曲单调解码）。含一次变速、全曲速度图和双人肖像封面配方 |
+| [贝多芬第九交响曲第四乐章速度移植](projects/recording-transplant/beethoven9-m4/README.md) | 滕斯泰特 1992 的录音，富特文格勒 1942 的演绎提供时间参考 | 15 全乐章多尺度声学对齐＋谱面音序复核＋乐句脉动约束（Rubber Band R3）＋打击乐分声部调整。含全曲速度图、双层导航与两种画幅的定稿封面配方 |
 
 未完成的马勒第二交响曲不在本仓库。
 
@@ -23,7 +24,7 @@
 
 ## 将来使用
 
-第一乐章速度移植有独立的音频和视频依赖。安装方法、两份外部录音的命名及定稿重建命令见[速度移植工程](projects/recording-transplant/beethoven9-m1/README.md)。
+两个速度移植工程使用各自的定稿时钟与音频处理配方。外部录音指纹、依赖与重建命令见[第一乐章](projects/recording-transplant/beethoven9-m1/README.md)和[第四乐章](projects/recording-transplant/beethoven9-m4/README.md)。
 
 需要 Python 3.14、Node.js、FFmpeg/FFprobe、Chromium和 `requirements.txt` 中的依赖。项目的原工具版本写在对应环境记录中；`SCORE_SYNC_CHROME` 可指定浏览器。贝九、马九第四乐章导赏版及大赋格正式编码需要支持 HEVC 10bit 4:4:4 的 NVIDIA NVENC，不能静默改成420。
 
@@ -61,7 +62,7 @@ python archive.py covers beethoven-grosse-fuge
 
 ## 目录
 
-- `projects/`：六个最终工程的精简快照与外部素材清单。
+- `projects/`：七个最终工程的精简快照与外部素材清单。
 - `vendor/score-sync-video/`：冻结的公共逐帧、导航、音频封装与封面代码，以及带OFL许可的思源宋体；不包含旧实验或对齐候选缓存。
 - `archive.py`：显式恢复、音频准备、渲染和封面入口，导入时不会自动渲染。
 - `MANIFEST.sha256`：本次公开归档文件指纹，不是端到端复现结果。

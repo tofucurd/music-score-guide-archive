@@ -1,0 +1,49 @@
+{
+  "work": "贝多芬第九交响曲第四乐章",
+  "version": "15 全乐章多尺度声学对齐＋谱面音序复核＋乐句脉动约束（Rubber Band R3）＋打击乐分声部调整",
+  "external_files": [
+    {
+      "role": "donor",
+      "path": "tennstedt.flac",
+      "conductor": "Klaus Tennstedt",
+      "performance_year": 1992,
+      "release": "London Philharmonic Orchestra, live 1992-10-08",
+      "sha256": "312383037e864f84e962491b033b30fe7c1727487b1c0d304de3f51f094fd538",
+      "sample_rate": 44100,
+      "frames": 71089200,
+      "channels": 2,
+      "bits": 16,
+      "tags": {
+        "title": "IV. Presto",
+        "artist": "London Philharmonic Orchestra, Klaus Tennstedt",
+        "album": "Beethoven Symphony No.9",
+        "track": "4/4",
+        "date": "1992"
+      },
+      "music_frames": 69388263,
+      "pcm_md5": "620b87046eaa606c9ca02899236c9283",
+      "required_for_render": true
+    },
+    {
+      "role": "reference",
+      "path": "furtwangler.flac",
+      "conductor": "Wilhelm Furtwängler",
+      "performance_year": 1942,
+      "release": "Pristine Audio PASC 250, 2010 transfer of the 1942 performance",
+      "sha256": "6db24522113f5f8a728bea002aa0656fdd4f7c228a2b8aec453fd22995542c49",
+      "sample_rate": 44100,
+      "frames": 64283114,
+      "channels": 2,
+      "bits": 16,
+      "tags": {
+        "title": "Symphony No.9 In D Minor, Op.125 - IV. Presto - Allegro assai",
+        "artist": "Berlin Philharmonic Orchestra, Wilhelm Furtwängler",
+        "album": "Beethoven : Symphony No. 9 'Choral'",
+        "track": "04"
+      },
+      "music_frames": 64169096,
+      "pcm_md5": "eaf0b8e8ae2c1d97746f0cd66e29d96f",
+      "required_for_render": false
+    }
+  ]
+}

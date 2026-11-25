@@ -1,0 +1,5 @@
+data/*.csv -text
+clock/**/*.csv -text
+clock/*.csv -text
+clock/**/*.npz binary
+cover/*.png binary

@@ -1,0 +1,52 @@
+{
+  "frames": 64169096,
+  "sample_rate": 44100,
+  "source_sha256": "17b18aa34ad8053ecc20062a62af4acc1d420d0af56e4fd55edc9bc7487a66d6",
+  "output_sha256": "af48390cfdc0327df9cf342459055f41ac0f84002894542df03190c4ee785938",
+  "outside_hit_seconds": 1082.68,
+  "outside_hit_max_pcm_difference": 0.0,
+  "peak_dbfs": -1.286,
+  "difference_to_mix_rms_db": -19.01,
+  "band_measurement": {
+    "timpani": {
+      "paired_hits": 490,
+      "median_attack_contrast_gain_db": 1.65
+    },
+    "triangle": {
+      "paired_hits": 283,
+      "median_attack_contrast_gain_db": 1.73
+    },
+    "cymbals": {
+      "paired_hits": 192,
+      "median_attack_contrast_gain_db": 1.25
+    },
+    "bass_drum": {
+      "paired_hits": 199,
+      "median_attack_contrast_gain_db": 0.84
+    }
+  },
+  "estimate": "同一乐段的乐器频带起音对比。齐奏的频带包含其他声部。",
+  "label": "15 全乐章多尺度声学对齐＋谱面音序复核＋乐句脉动约束（Rubber Band R3）＋打击乐分声部调整",
+  "clock_sha256": "676fd741e2cab39b2218eafdd08d53060806dc83f25c68a975704b6293c37a6f",
+  "candidates_by_part": {
+    "timpani": 873,
+    "bass_drum": 234,
+    "triangle": 375,
+    "cymbals": 224
+  },
+  "accepted_by_part": {
+    "timpani": 760,
+    "bass_drum": 226,
+    "triangle": 341,
+    "cymbals": 211
+  },
+  "recorded_channels": 2,
+  "coda_cymbal_attack_shift_ms": {
+    "n": 24,
+    "p90": 5.86,
+    "max": 16.87
+  },
+  "events_sha256": "30ed08b92dee40742c3122e5d25d48a457fdeeb41fd0092b8e3c5742aa988a2e",
+  "pcm_s32le_sha256": "e2097347b0a96c87bc816b137e9a973a5d6891a5e46d7dbd9d81854d037df69f",
+  "flac_vendor": "reference libFLAC 1.4.3 20230623"
+}

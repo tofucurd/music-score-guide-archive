@@ -1,0 +1,29 @@
+{
+  "engine": "Rubber Band R3",
+  "engine_version": "4.0.0",
+  "clock_sha256": "676fd741e2cab39b2218eafdd08d53060806dc83f25c68a975704b6293c37a6f",
+  "engine_key_count": 24346,
+  "frames": 64169096,
+  "native_engine_frames": 64169096,
+  "net_gain": 1.0,
+  "passes": 1,
+  "centre_focus": true,
+  "label": "15 全乐章多尺度声学对齐＋谱面音序复核＋乐句脉动约束（Rubber Band R3）",
+  "reference_frames": 64169096,
+  "source_sha256": "2143bb038cb974fffeddb6a98fd8847e11e3e58599958d931233e99934cb0df9",
+  "output_sha256": "17b18aa34ad8053ecc20062a62af4acc1d420d0af56e4fd55edc9bc7487a66d6",
+  "channels": 2,
+  "sample_rate": 44100,
+  "subtype": "PCM_24",
+  "channel_routing": "original stereo pair",
+  "processing": [
+    "single pitch-preserving linked stereo time stretch",
+    "one shared constant output gain"
+  ],
+  "reference_use": "scoring and timing only",
+  "engine_keyframes_sha256": "89e09d4a6c0cfb901c4721930eedb95af039a3581253d9d1558265c33d596154",
+  "donor_music_frames": 69388263,
+  "donor_fade_tail_s": 0.16,
+  "source_stream_md5": "9af59b654af2fe1508c34399f58ffa7c",
+  "output_stream_md5": "de27a238c1b2b2ddc833a9dc228e9c31"
+}

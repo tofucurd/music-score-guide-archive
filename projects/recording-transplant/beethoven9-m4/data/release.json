@@ -1,0 +1,50 @@
+{
+  "label": "15 全乐章多尺度声学对齐＋谱面音序复核＋乐句脉动约束（Rubber Band R3）＋打击乐分声部调整",
+  "audio_master": {
+    "bytes": 231469982,
+    "sha256": "af48390cfdc0327df9cf342459055f41ac0f84002894542df03190c4ee785938",
+    "pcm_s32le_sha256": "e2097347b0a96c87bc816b137e9a973a5d6891a5e46d7dbd9d81854d037df69f",
+    "sample_rate": 44100,
+    "channels": 2,
+    "bits": 24,
+    "frames": 64169096
+  },
+  "movie": {
+    "filename": "贝多芬第九交响曲第四乐章速度移植.mov",
+    "bytes": 1355779308,
+    "sha256": "7e8213eaa800b4c0c9408f6809c70fd98d0c64df8edb7bf24ec3b19fb5eee46f",
+    "dimensions": [
+      3840,
+      2160
+    ],
+    "fps": 60,
+    "video_codec": "h264",
+    "video_color": "bt709",
+    "audio_codec": "alac",
+    "audio_lead_samples": 132300,
+    "audio_total_frames": 64301396,
+    "video_frames": 87485,
+    "video_seconds": 1458.083333
+  },
+  "cover_title": "滕斯泰特又遭夺舍LPO狂轰500BPM？！",
+  "covers": [
+    {
+      "filename": "滕斯泰特又遭夺舍-16x9.jpg",
+      "dimensions": [
+        3840,
+        2160
+      ],
+      "bytes": 1388100,
+      "sha256": "a69f13f2a7364c030006d5f148595b1056c7de986924dad1a8cef980c74ab7b1"
+    },
+    {
+      "filename": "滕斯泰特又遭夺舍-4x3.jpg",
+      "dimensions": [
+        2880,
+        2160
+      ],
+      "bytes": 1124388,
+      "sha256": "d77c91f4a452f1c9c88e3e180f3ffaa2353dac3954698275f0394d86b96718bb"
+    }
+  ]
+}

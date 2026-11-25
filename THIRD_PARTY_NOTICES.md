@@ -29,3 +29,7 @@ Python依赖、Chromium、Node.js和FFmpeg沿用各自许可。FFmpeg的许可�
 封面标题字形取自 Adobe 思源黑体 SC Heavy 2.004。工程随附的 Tempo Poster Heavy 为仅含定稿所需字符的改名子集。版权声明和 SIL Open Font License 1.1 全文见[字体许可](projects/recording-transplant/beethoven9-m1/cover/OFL.txt)。封面插画是制作中使用的 ImageGen 双人肖像图层。两位指挥的馆藏参考照片未收录。肖像参考来自[柏林爱乐档案](https://www.berliner-philharmoniker.de/en/about-us/orchestra/history/wilhelm-furtwaengler/)和[华纳唱片人物资料](https://www.warnerclassics.com/artist/klaus-tennstedt)。
 
 Rubber Band、libsndfile、FFmpeg、PyAV、librsvg 和 ImageMagick 均由使用者按各自许可安装。Pristine 与 London Philharmonic Orchestra 录音的权利由各权利人保留。
+
+## 贝九第四乐章速度移植
+
+封面使用本期制作的双指挥插画图层。随附的 Tempo Finale Heavy 是思源黑体 SC Heavy 的改名子集，沿用 SIL Open Font License 1.1，见[第四乐章字体许可](projects/recording-transplant/beethoven9-m4/cover/OFL.txt)。思源宋体使用仓库内附的字体及许可。富特文格勒与滕斯泰特的录音权利由各权利人保留。
